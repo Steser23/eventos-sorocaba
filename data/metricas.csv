@@ -26,3 +26,6 @@ data_execucao,fonte,paginas_lidas,paginas_sem_mudanca,caracteres_brutos,caracter
 2026-10-13,sesc,4,0,0,0,0,0,0,0,0,102,0,
 2026-10-13,band,0,0,0,0,0,0,0,0,0,0,0,sitemap: HTTPStatusError; lista lida por navegador; nenhuma agenda encontrada
 2026-10-13,sesi,10,0,35558,17637,8894,4412,9,8865,1993,6,6,"lista lida por simples: 9 eventos, 9 novos"
+2026-10-13,sesc,4,0,0,0,0,0,0,0,0,102,0,
+2026-10-13,band,0,0,0,0,0,0,0,0,0,0,0,sitemap: HTTPStatusError; nenhuma agenda encontrada
+2026-10-13,sesi,10,0,35558,25388,8894,6350,9,13225,1615,9,9,
