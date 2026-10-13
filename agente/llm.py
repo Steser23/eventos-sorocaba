@@ -1,0 +1,113 @@
+"""Chamada ao modelo de IA, sem ficar preso a um fornecedor.
+
+Trocar de fornecedor = mudar a variável LLM_PROVEDOR:
+  - "github"    (padrão): GitHub Models, gratuito dentro do GitHub Actions
+  - "anthropic": API do Claude (precisa de ANTHROPIC_API_KEY)
+O modelo pode ser trocado com a variável LLM_MODELO.
+"""
+
+from __future__ import annotations
+
+import os
+import time
+from dataclasses import dataclass
+
+import httpx
+
+PADROES = {
+    "github": "openai/gpt-4.1-mini",
+    "anthropic": "claude-haiku-5-5",
+}
+
+
+class LimiteDeChamadas(Exception):
+    """O orçamento de chamadas desta execução acabou."""
+
+
+@dataclass
+class Resposta:
+    texto: str
+    tokens_entrada: int
+    tokens_saida: int
+
+
+class ClienteLLM:
+    def __init__(self, max_chamadas: int = 40) -> None:
+        self.provedor = os.environ.get("LLM_PROVEDOR", "github").lower()
+        if self.provedor not in PADROES:
+            raise ValueError(f"LLM_PROVEDOR desconhecido: {self.provedor}")
+        self.modelo = os.environ.get("LLM_MODELO") or PADROES[self.provedor]
+        self.max_chamadas = max_chamadas
+        self.chamadas = 0
+
+    def perguntar(self, instrucoes: str, conteudo: str) -> Resposta:
+        if self.chamadas >= self.max_chamadas:
+            raise LimiteDeChamadas(f"limite de {self.max_chamadas} chamadas atingido")
+        self.chamadas += 1
+        if self.provedor == "github":
+            return self._github(instrucoes, conteudo)
+        return self._anthropic(instrucoes, conteudo)
+
+    def _github(self, instrucoes: str, conteudo: str) -> Resposta:
+        token = os.environ.get("GITHUB_TOKEN")
+        if not token:
+            raise RuntimeError("GITHUB_TOKEN ausente: rode dentro do GitHub Actions ou defina a variável.")
+        corpo = {
+            "model": self.modelo,
+            "temperature": 0,
+            "response_format": {"type": "json_object"},
+            "messages": [
+                {"role": "system", "content": instrucoes},
+                {"role": "user", "content": conteudo},
+            ],
+        }
+        dados = _postar(
+            "https://models.github.ai/inference/chat/completions",
+            {"Authorization": f"Bearer {token}", "Content-Type": "application/json"},
+            corpo,
+        )
+        uso = dados.get("usage") or {}
+        return Resposta(
+            texto=dados["choices"][0]["message"]["content"] or "",
+            tokens_entrada=uso.get("prompt_tokens", 0),
+            tokens_saida=uso.get("completion_tokens", 0),
+        )
+
+    def _anthropic(self, instrucoes: str, conteudo: str) -> Resposta:
+        chave = os.environ.get("ANTHROPIC_API_KEY")
+        if not chave:
+            raise RuntimeError("ANTHROPIC_API_KEY ausente.")
+        corpo = {
+            "model": self.modelo,
+            "max_tokens": 4000,
+            "temperature": 0,
+            # Instruções fixas em cache: chamadas seguintes pagam menos por elas.
+            "system": [{"type": "text", "text": instrucoes, "cache_control": {"type": "ephemeral"}}],
+            "messages": [{"role": "user", "content": conteudo}],
+        }
+        dados = _postar(
+            "https://api.anthropic.com/v1/messages",
+            {"x-api-key": chave, "anthropic-version": "2023-06-01", "Content-Type": "application/json"},
+            corpo,
+        )
+        texto = "".join(b.get("text", "") for b in dados.get("content", []) if b.get("type") == "text")
+        uso = dados.get("usage") or {}
+        return Resposta(texto=texto, tokens_entrada=uso.get("input_tokens", 0), tokens_saida=uso.get("output_tokens", 0))
+
+
+def _postar(url: str, cabecalhos: dict, corpo: dict, tentativas: int = 3) -> dict:
+    """Envia a requisição; se o limite por minuto estourar (429), espera e tenta de novo."""
+    for tentativa in range(tentativas):
+        resposta = httpx.post(url, headers=cabecalhos, json=corpo, timeout=120)
+        if resposta.status_code == 429 and tentativa < tentativas - 1:
+            espera = float(resposta.headers.get("retry-after", 20))
+            time.sleep(min(espera, 90))
+            continue
+        if resposta.status_code == 400 and "response_format" in corpo:
+            # Alguns modelos não aceitam o modo JSON; tenta sem ele.
+            corpo = {k: v for k, v in corpo.items() if k != "response_format"}
+            continue
+        resposta.raise_for_status()
+        return resposta.json()
+    resposta.raise_for_status()
+    return resposta.json()

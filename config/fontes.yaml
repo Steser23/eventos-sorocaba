@@ -1,0 +1,32 @@
+# Fontes de eventos lidas pelo agente.
+# Para desativar uma fonte, mude "ativa" para false.
+
+fontes:
+  - id: sesc
+    nome: Sesc Sorocaba
+    ativa: true
+    tipo: api_sesc            # API pública do Sesc: dados já estruturados, não usa LLM
+    busca: sorocaba
+    unidade: Sorocaba
+    endereco: Rua Barão de Piratininga, 555 - Jardim Faculdade, Sorocaba
+    max_paginas: 10
+
+  - id: band
+    nome: Agenda cultural da Band (Sorocaba e região)
+    ativa: true
+    tipo: band_agenda         # leitura simples (sem navegador) + extração com LLM
+    url_lista: https://www.band.com.br/band-multi/sorocaba-e-regiao
+    max_artigos: 2            # quantas agendas mais recentes ler por execução
+
+  - id: sesi
+    nome: Sesi Sorocaba
+    ativa: true
+    tipo: navegador           # página carregada por JavaScript: usa Playwright + LLM
+    url: https://www.sesisp.org.br/eventos
+    unidade: SESI Sorocaba
+    cliques_veja_mais: 5
+
+# Limites para proteger o plano gratuito do GitHub Models.
+limites:
+  max_chamadas_llm_por_execucao: 40
+  max_caracteres_por_trecho: 16000   # ~4.500 tokens estimados, abaixo do limite de 8 mil por chamada
