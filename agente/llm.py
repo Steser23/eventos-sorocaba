@@ -20,6 +20,20 @@ PADROES = {
 }
 
 
+# Modelos reserva, usados quando o principal está sobrecarregado ou indisponível.
+RESERVAS = {
+    "gemini": ["gemini-2.5-flash-lite"],
+    "anthropic": [],
+}
+TEMPORARIOS = {429, 500, 502, 503, 504}
+
+
+class ErroLLM(RuntimeError):
+    def __init__(self, status: int, mensagem: str) -> None:
+        super().__init__(mensagem)
+        self.status = status
+
+
 class LimiteDeChamadas(Exception):
     """O orçamento de chamadas desta execução acabou."""
 
@@ -36,7 +50,10 @@ class ClienteLLM:
         self.provedor = (os.environ.get("LLM_PROVEDOR") or "gemini").lower()
         if self.provedor not in PADROES:
             raise ValueError(f"LLM_PROVEDOR desconhecido: {self.provedor}")
-        self.modelo = os.environ.get("LLM_MODELO") or PADROES[self.provedor]
+        principal = os.environ.get("LLM_MODELO") or PADROES[self.provedor]
+        reserva = os.environ.get("LLM_MODELO_RESERVA")
+        self.modelos = [principal] + ([reserva] if reserva else RESERVAS[self.provedor])
+        self.modelo = principal
         self.max_chamadas = max_chamadas
         self.chamadas = 0
 
@@ -44,9 +61,20 @@ class ClienteLLM:
         if self.chamadas >= self.max_chamadas:
             raise LimiteDeChamadas(f"limite de {self.max_chamadas} chamadas atingido")
         self.chamadas += 1
-        if self.provedor == "gemini":
-            return self._gemini(instrucoes, conteudo)
-        return self._anthropic(instrucoes, conteudo)
+        ultimo_erro: ErroLLM | None = None
+        for modelo in self.modelos:
+            self.modelo = modelo
+            try:
+                if self.provedor == "gemini":
+                    return self._gemini(instrucoes, conteudo)
+                return self._anthropic(instrucoes, conteudo)
+            except ErroLLM as erro:
+                # Sobrecarga (503), limite (429) ou modelo inexistente (404): tenta o próximo.
+                if erro.status not in TEMPORARIOS | {404}:
+                    raise
+                print(f"modelo {modelo} indisponível ({erro.status}); tentando o próximo")
+                ultimo_erro = erro
+        raise ultimo_erro
 
     def _gemini(self, instrucoes: str, conteudo: str) -> Resposta:
         """Gemini pelo endereço compatível com o formato da OpenAI."""
@@ -101,11 +129,13 @@ class ClienteLLM:
 
 
 def _postar(url: str, cabecalhos: dict, corpo: dict, tentativas: int = 3) -> dict:
-    """Envia a requisição; se o limite por minuto estourar (429), espera e tenta de novo."""
+    """Envia a requisição; em erros temporários (sobrecarga, limite), espera e tenta de novo."""
+    esperas = [10, 30]
     for tentativa in range(tentativas):
         resposta = httpx.post(url, headers=cabecalhos, json=corpo, timeout=120)
-        if resposta.status_code == 429 and tentativa < tentativas - 1:
-            espera = float(resposta.headers.get("retry-after", 20))
+        if resposta.status_code in TEMPORARIOS and tentativa < tentativas - 1:
+            sugerida = resposta.headers.get("retry-after")
+            espera = float(sugerida) if sugerida and sugerida.replace(".", "").isdigit() else esperas[tentativa]
             time.sleep(min(espera, 90))
             continue
         if resposta.status_code == 400 and "response_format" in corpo:
@@ -119,7 +149,7 @@ def _postar(url: str, cabecalhos: dict, corpo: dict, tentativas: int = 3) -> dic
 def _ler_json(resposta: httpx.Response) -> dict:
     """Converte a resposta em JSON; se não der, mostra o que o servidor devolveu."""
     if resposta.status_code >= 400:
-        raise RuntimeError(f"LLM respondeu {resposta.status_code}: {resposta.text[:300]}")
+        raise ErroLLM(resposta.status_code, f"LLM respondeu {resposta.status_code}: {resposta.text[:300]}")
     try:
         return resposta.json()
     except ValueError as erro:

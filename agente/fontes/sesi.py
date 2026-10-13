@@ -53,6 +53,7 @@ def coletar(config: dict, hoje: date, *, estado: dict, llm, limites: dict, depur
 
     eventos: list[Evento] = []
     ultimo_texto = ""
+    falhas = 0
     for url in novos[:limite]:
         try:
             html, _ = ler_pagina_com_reserva(url)
@@ -71,6 +72,14 @@ def coletar(config: dict, hoje: date, *, estado: dict, llm, limites: dict, depur
         except LimiteDeChamadas:
             avisos.append("limite de chamadas ao LLM atingido")
             break
+        except Exception as erro:  # noqa: BLE001 - uma página com erro não derruba as outras
+            falhas += 1
+            avisos.append(f"{type(erro).__name__} em {url.rsplit('/', 1)[-1]}: {str(erro)[:120]}")
+            if falhas >= 3:
+                avisos.append("3 falhas seguidas: o restante fica para a próxima execução")
+                break
+            continue
+        falhas = 0
         eventos.extend(e for e in encontrados if eh_de_sorocaba(e))
 
     metrica["erro"] = "; ".join(avisos)

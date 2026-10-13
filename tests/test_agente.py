@@ -137,3 +137,23 @@ def test_pagina_sem_mudanca_nao_chama_llm():
 
     assert len(primeira) == 1 and segunda == []
     assert llm.chamadas == 1 and metrica["paginas_sem_mudanca"] == 1
+
+
+def test_llm_usa_modelo_reserva_quando_principal_esta_sobrecarregado(monkeypatch):
+    from agente import llm as modulo
+
+    monkeypatch.setenv("LLM_PROVEDOR", "gemini")
+    monkeypatch.delenv("LLM_MODELO", raising=False)
+    monkeypatch.delenv("LLM_MODELO_RESERVA", raising=False)
+    cliente = modulo.ClienteLLM()
+    usados = []
+
+    def falso(self, instrucoes, conteudo):
+        usados.append(self.modelo)
+        if len(usados) == 1:
+            raise modulo.ErroLLM(503, "sobrecarregado")
+        return Resposta('{"eventos": []}', 10, 2)
+
+    monkeypatch.setattr(modulo.ClienteLLM, "_gemini", falso)
+    assert cliente.perguntar("i", "c").texto == '{"eventos": []}'
+    assert usados == ["gemini-3.8-flash", "gemini-2.5-flash-lite"]
