@@ -8,6 +8,7 @@ from urllib.parse import urljoin
 from bs4 import BeautifulSoup
 
 from ..leitura import ler_pagina, ler_pagina_com_reserva
+from ..limpeza import texto_limpo
 from ..modelos import Evento
 from .comum import extrair_de_html, nova_metrica
 
@@ -74,6 +75,7 @@ def coletar(config: dict, hoje: date, *, estado: dict, llm, limites: dict, depur
     if not agendas:
         try:
             html_lista, metodo = ler_pagina_com_reserva(url_lista)
+            depurar("band_lista.txt", f"método: {metodo}\n\n" + texto_limpo(html_lista)[:20000])
             agendas = encontrar_agendas(html_lista, url_lista, maximo)
             avisos.append(f"lista lida por {metodo}")
         except Exception as erro:  # noqa: BLE001

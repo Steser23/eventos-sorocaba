@@ -1,8 +1,8 @@
 """Chamada ao modelo de IA, sem ficar preso a um fornecedor.
 
 Trocar de fornecedor = mudar a variável LLM_PROVEDOR:
-  - "github"    (padrão): GitHub Models, gratuito dentro do GitHub Actions
-  - "anthropic": API do Claude (precisa de ANTHROPIC_API_KEY)
+  - "gemini"    (padrão): API do Gemini, plano gratuito (precisa de GEMINI_API_KEY)
+  - "anthropic": API do Claude, paga por uso (precisa de ANTHROPIC_API_KEY)
 O modelo pode ser trocado com a variável LLM_MODELO.
 """
 
@@ -15,7 +15,7 @@ from dataclasses import dataclass
 import httpx
 
 PADROES = {
-    "github": "openai/gpt-4.1-mini",
+    "gemini": "gemini-3.8-flash",
     "anthropic": "claude-haiku-5-5",
 }
 
@@ -33,7 +33,7 @@ class Resposta:
 
 class ClienteLLM:
     def __init__(self, max_chamadas: int = 40) -> None:
-        self.provedor = os.environ.get("LLM_PROVEDOR", "github").lower()
+        self.provedor = (os.environ.get("LLM_PROVEDOR") or "gemini").lower()
         if self.provedor not in PADROES:
             raise ValueError(f"LLM_PROVEDOR desconhecido: {self.provedor}")
         self.modelo = os.environ.get("LLM_MODELO") or PADROES[self.provedor]
@@ -44,14 +44,15 @@ class ClienteLLM:
         if self.chamadas >= self.max_chamadas:
             raise LimiteDeChamadas(f"limite de {self.max_chamadas} chamadas atingido")
         self.chamadas += 1
-        if self.provedor == "github":
-            return self._github(instrucoes, conteudo)
+        if self.provedor == "gemini":
+            return self._gemini(instrucoes, conteudo)
         return self._anthropic(instrucoes, conteudo)
 
-    def _github(self, instrucoes: str, conteudo: str) -> Resposta:
-        token = os.environ.get("GITHUB_TOKEN")
+    def _gemini(self, instrucoes: str, conteudo: str) -> Resposta:
+        """Gemini pelo endereço compatível com o formato da OpenAI."""
+        token = os.environ.get("GEMINI_API_KEY")
         if not token:
-            raise RuntimeError("GITHUB_TOKEN ausente: rode dentro do GitHub Actions ou defina a variável.")
+            raise RuntimeError("GEMINI_API_KEY ausente: cadastre a chave nos Secrets do repositório.")
         corpo = {
             "model": self.modelo,
             "temperature": 0,
@@ -62,7 +63,7 @@ class ClienteLLM:
             ],
         }
         dados = _postar(
-            "https://models.github.ai/inference/chat/completions",
+            "https://generativelanguage.googleapis.com/v1beta/openai/chat/completions",
             {
                 "Authorization": f"Bearer {token}",
                 "Content-Type": "application/json",

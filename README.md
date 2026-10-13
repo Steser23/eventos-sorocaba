@@ -19,7 +19,9 @@ Para gastar poucos tokens, o agente:
 3. nunca reprocessa uma matéria da Band já lida;
 4. respeita um limite de chamadas por execução.
 
-A IA usada por padrão é o **GitHub Models**, gratuito dentro do GitHub Actions. Para trocar de fornecedor, crie a variável `LLM_PROVEDOR` em *Settings → Secrets and variables → Actions → Variables* (`github` ou `anthropic`).
+A IA usada por padrão é a **API do Gemini** (plano gratuito), com a chave guardada no secret `GEMINI_API_KEY`. Para trocar para a API do Claude, cadastre o secret `ANTHROPIC_API_KEY` e crie a variável `LLM_PROVEDOR` com o valor `anthropic` em *Settings → Secrets and variables → Actions*. O modelo pode ser trocado com a variável `LLM_MODELO`.
+
+Só páginas públicas de eventos são enviadas à IA; nenhum dado de assinante passa por ela.
 
 ## Onde ver os resultados
 

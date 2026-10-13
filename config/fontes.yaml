@@ -29,7 +29,7 @@ fontes:
     max_detalhes_por_execucao: 25
     cliques_veja_mais: 5      # só usado se a lista precisar do navegador
 
-# Limites para proteger o plano gratuito do GitHub Models.
+# Limites para proteger o plano gratuito do Gemini.
 limites:
   max_chamadas_llm_por_execucao: 40
-  max_caracteres_por_trecho: 16000   # ~4.500 tokens estimados, abaixo do limite de 8 mil por chamada
+  max_caracteres_por_trecho: 16000   # ~4.500 tokens estimados por chamada

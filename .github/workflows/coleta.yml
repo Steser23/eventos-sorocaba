@@ -10,7 +10,6 @@ on:
 
 permissions:
   contents: write            # para salvar os dados coletados no repositório
-  models: read               # para usar o GitHub Models com o token do próprio GitHub
 
 concurrency:
   group: coleta
@@ -38,8 +37,8 @@ jobs:
 
       - name: Rodar o agente
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          LLM_PROVEDOR: ${{ vars.LLM_PROVEDOR || 'github' }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          LLM_PROVEDOR: ${{ vars.LLM_PROVEDOR || 'gemini' }}
           LLM_MODELO: ${{ vars.LLM_MODELO }}
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: python -m agente
