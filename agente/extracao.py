@@ -19,6 +19,11 @@ Responda SOMENTE com JSON no formato:
 Regras:
 - Um item por evento. Ignore propagandas, menus, notícias e textos que não sejam eventos.
 - Use a data de referência para completar o ano de datas como "sábado (19/09)".
+- A data do evento é a data da apresentação/sessão. Datas de abertura de vendas,
+  liberação ou retirada de ingressos NÃO são a data do evento.
+- Se a página listar sessões em várias unidades ou cidades, considere apenas as
+  sessões da unidade esperada (indicada na fonte). data_inicio = primeira dessas
+  sessões; data_fim = última (null se houver só uma); horario = da primeira.
 - Nunca invente: se uma informação não estiver no texto, use null.
 - "cidade" é a cidade onde o evento acontece (Sorocaba, Votorantim, Itu...).
 - "categoria": uma entre música, teatro, dança, cinema, exposição, feira, gastronomia,

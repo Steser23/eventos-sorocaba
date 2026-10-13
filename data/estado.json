@@ -1,14 +1,4 @@
 {
   "band": {},
-  "sesi": {
-    "https://www.sesisp.org.br/evento/7e43f035-25c7-4c90-b3fe-059f047f644e/la-trattoria": "c6f00a7aefc4551492251ea5385e02ccff8efd466d1b3571e44ce0f0a5942703",
-    "https://www.sesisp.org.br/evento/ce23657c-7fb6-4bd7-ae57-29f0e99368cc/meu-remedio": "1b01cb7f2b66e4ab0b3b0c17ebfb2f55041861b1b050c8ba6929f7849fb8032c",
-    "https://www.sesisp.org.br/evento/621d4e87-2c67-403a-9608-385ef5a01f04/escola-de-mulheres": "e76f8132670bede55ffea4f31183e96a4e80de82f830dbb434b6a67a5de5b9ed",
-    "https://www.sesisp.org.br/evento/8316fc9d-d57b-49ec-8cd9-4b60b58ad2f4/saudacao-as-yabas": "73d7fd3f762d638ac65055d39fe39627953aa412e8256151ac6b06394e36b3f7",
-    "https://www.sesisp.org.br/evento/5cfcb343-c98c-4c4c-ad2d-7479e86c3735/feira-de-troca-de-livros": "107cf07b6e76fd1f994e16ccd1c94185c93a4ff533ebd9ceec38eab8b43fd0eb",
-    "https://www.sesisp.org.br/evento/0fa90931-af22-4e2b-b2f1-83a3eea7977b/sesi-diverte-2026": "88efead35bad3caf7fe4968ab91f22e2e9ef0ec5d525a3cb7ca5a222e5dcdd6b",
-    "https://www.sesisp.org.br/evento/0eed0afb-268f-4ccb-91d2-a48dd1b4c113/rolando-boldrin-90-anos-de-causos": "55aeee4506689e345b490eae32299e72f8c20549bf83fdca0e9f40e75fae333c",
-    "https://www.sesisp.org.br/evento/ae1c49c4-d7db-402a-8a2b-c520db92606b/maos-que-sustentam-o-mundo": "48ffc6ec380387bb76cd99611a6792d81cc7bbada327bd46557c460cd0f98fe9",
-    "https://www.sesisp.org.br/evento/a471989d-787e-4344-883f-ffb8f1b19899/sesi-pipoca-looney-tunes-o-filme-o-dia-que-a-terra-explodiu": "6091e428ed0ce800b655ad1f89eaeb5118067840f939f0ccbeb55488b7e4efc9"
-  }
+  "sesi": {}
 }

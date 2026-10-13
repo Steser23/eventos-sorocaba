@@ -47,9 +47,10 @@ def coletar(config: dict, hoje: date, *, estado: dict, llm, limites: dict, depur
 
     novos = [l for l in links if l not in estado_fonte]
     limite = config.get("max_detalhes_por_execucao", 25)
-    avisos = [f"lista lida por {metodo}: {len(links)} eventos, {len(novos)} novos"]
+    print(f"lista lida por {metodo}: {len(links)} eventos, {len(novos)} novos")
+    avisos: list[str] = []  # só problemas reais vão para a coluna "erro" das métricas
     if len(novos) > limite:
-        avisos.append(f"{len(novos) - limite} ficam para a próxima execução")
+        print(f"{len(novos) - limite} ficam para a próxima execução")
 
     eventos: list[Evento] = []
     ultimo_texto = ""
@@ -68,6 +69,7 @@ def coletar(config: dict, hoje: date, *, estado: dict, llm, limites: dict, depur
                 llm=llm,
                 max_caracteres=limites["max_caracteres_por_trecho"],
                 metrica=metrica,
+                modo_limpeza="estrutural",
             )
         except LimiteDeChamadas:
             avisos.append("limite de chamadas ao LLM atingido")

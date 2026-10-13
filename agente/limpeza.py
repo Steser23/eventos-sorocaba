@@ -7,7 +7,7 @@ import re
 
 from bs4 import BeautifulSoup
 
-ETIQUETAS_DE_RUIDO = ["script", "style", "noscript", "nav", "header", "footer", "form", "svg", "iframe", "aside"]
+ETIQUETAS_DE_RUIDO = ["script", "style", "noscript", "nav", "footer", "form", "svg", "iframe", "aside"]
 
 
 def texto_bruto(html: str) -> str:
@@ -18,12 +18,17 @@ def texto_bruto(html: str) -> str:
     return _compactar(sopa.get_text("\n"))
 
 
-def texto_limpo(html: str) -> str:
+def texto_limpo(html: str, modo: str = "auto") -> str:
     """Texto principal da página, sem menus, rodapés e avisos.
 
-    Primeiro tenta o trafilatura (bom em artigos). Se ele devolver pouco texto,
-    como acontece em páginas de listagem, usa uma limpeza mais simples.
+    modo "auto": tenta o trafilatura (bom em artigos); se ele devolver pouco
+    texto, usa a limpeza estrutural.
+    modo "estrutural": só remove partes que nunca têm conteúdo (menus, rodapés,
+    scripts). Mais seguro para páginas com dados em blocos, como as sessões
+    de um evento, que o trafilatura às vezes descarta.
     """
+    if modo == "estrutural":
+        return _limpeza_estrutural(html)
     principal = ""
     try:
         import trafilatura
@@ -34,7 +39,10 @@ def texto_limpo(html: str) -> str:
 
     if len(principal) >= 800:
         return _compactar(principal)
+    return _limpeza_estrutural(html)
 
+
+def _limpeza_estrutural(html: str) -> str:
     sopa = BeautifulSoup(html, "html.parser")
     for tag in sopa(ETIQUETAS_DE_RUIDO):
         tag.decompose()
@@ -79,3 +87,26 @@ def dividir_em_trechos(texto: str, max_caracteres: int) -> list[str]:
     if atual:
         trechos.append(atual)
     return trechos
+
+
+MESES = ["janeiro", "fevereiro", "marco", "abril", "maio", "junho", "julho",
+         "agosto", "setembro", "outubro", "novembro", "dezembro"]
+
+
+def data_aparece_no_texto(data_iso: str, texto: str) -> bool:
+    """Confere se o dia e o mês de uma data aparecem no texto (31/10, 31 de outubro, 31 out...).
+
+    É uma checagem simples contra datas inventadas pela IA.
+    """
+    from .modelos import normalizar
+
+    ano, mes, dia = data_iso.split("-")
+    d, m = int(dia), int(mes)
+    t = " " + normalizar(texto.replace("/", " barra ")) + " "
+    nome = MESES[m - 1]
+    padroes = [
+        f" {d} barra {m} ", f" {d:02d} barra {m:02d} ", f" {d} barra {m:02d} ", f" {d:02d} barra {m} ",
+        f" {d} de {nome}", f" {d:02d} de {nome}", f" {d} {nome[:3]}", f" {d:02d} {nome[:3]}",
+        f" {ano} {mes} {dia} ",
+    ]
+    return any(p in t for p in padroes)

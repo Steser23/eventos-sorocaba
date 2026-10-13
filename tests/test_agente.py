@@ -157,3 +157,23 @@ def test_llm_usa_modelo_reserva_quando_principal_esta_sobrecarregado(monkeypatch
     monkeypatch.setattr(modulo.ClienteLLM, "_gemini", falso)
     assert cliente.perguntar("i", "c").texto == '{"eventos": []}'
     assert usados == ["gemini-3.5-flash-lite", "gemini-3.1-flash-lite"]
+
+
+def test_confere_se_data_aparece_no_texto():
+    from agente.limpeza import data_aparece_no_texto
+
+    assert data_aparece_no_texto("2026-10-31", "Sábado, 31/10 às 20h")
+    assert data_aparece_no_texto("2026-10-31", "sáb\n31\nout\n20:00")
+    assert data_aparece_no_texto("2026-10-28", "quarta-feira, 28 de outubro")
+    assert not data_aparece_no_texto("2026-10-19", "Liberação de ingressos: 16/11. Sessão 31/10")
+
+
+def test_limpeza_estrutural_preserva_blocos_de_sessao():
+    html = (
+        "<html><body><nav>Menu</nav><article><h1>Show</h1><p>" + "Texto longo sobre o show. " * 60 + "</p></article>"
+        "<div class='sessoes'><span>31</span><span>out</span><span>20:00</span>"
+        "<span>Teatro do SESI Sorocaba</span></div><footer>Rodapé</footer></body></html>"
+    )
+    estrutural = texto_limpo(html, modo="estrutural")
+    assert "31" in estrutural and "Teatro do SESI Sorocaba" in estrutural
+    assert "Menu" not in estrutural and "Rodapé" not in estrutural

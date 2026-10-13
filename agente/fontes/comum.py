@@ -5,7 +5,14 @@ from __future__ import annotations
 from datetime import date, datetime, timezone
 
 from ..extracao import INSTRUCOES, interpretar_resposta, montar_conteudo
-from ..limpeza import dividir_em_trechos, estimar_tokens, impressao_digital, texto_bruto, texto_limpo
+from ..limpeza import (
+    data_aparece_no_texto,
+    dividir_em_trechos,
+    estimar_tokens,
+    impressao_digital,
+    texto_bruto,
+    texto_limpo,
+)
 from ..llm import ClienteLLM
 from ..modelos import Evento
 
@@ -36,13 +43,14 @@ def extrair_de_html(
     llm: ClienteLLM,
     max_caracteres: int,
     metrica: dict,
+    modo_limpeza: str = "auto",
 ) -> tuple[list[Evento], str]:
     """Extrai eventos de uma página. Se o texto for igual ao da última leitura, não chama o LLM.
 
     Devolve os eventos e o texto limpo (para depuração).
     """
     bruto = texto_bruto(html)
-    limpo = texto_limpo(html)
+    limpo = texto_limpo(html, modo=modo_limpeza)
     metrica["paginas_lidas"] += 1
     metrica["caracteres_brutos"] += len(bruto)
     metrica["caracteres_limpos"] += len(limpo)
@@ -61,7 +69,11 @@ def extrair_de_html(
         metrica["chamadas_llm"] += 1
         metrica["tokens_entrada_api"] += resposta.tokens_entrada
         metrica["tokens_saida_api"] += resposta.tokens_saida
-        eventos.extend(interpretar_resposta(resposta.texto, fonte, link, coletado))
+        for evento in interpretar_resposta(resposta.texto, fonte, link, coletado):
+            # Data que não aparece no texto lido é suspeita: vai para revisão com confiança baixa.
+            if evento.data_inicio and not data_aparece_no_texto(evento.data_inicio, trecho):
+                evento.confianca = "baixa"
+            eventos.append(evento)
 
     # Só marca como lida depois de extrair tudo: se algo falhar, tenta de novo amanhã.
     estado_fonte[chave] = digital

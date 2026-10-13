@@ -77,7 +77,7 @@ def coletar(config: dict, hoje: date, *, estado: dict, llm, limites: dict, depur
             html_lista, metodo = ler_pagina_com_reserva(url_lista)
             depurar("band_lista.txt", f"método: {metodo}\n\n" + texto_limpo(html_lista)[:20000])
             agendas = encontrar_agendas(html_lista, url_lista, maximo)
-            avisos.append(f"lista lida por {metodo}")
+            print(f"lista lida por {metodo}")
         except Exception as erro:  # noqa: BLE001
             avisos.append(f"lista: {type(erro).__name__}")
 
