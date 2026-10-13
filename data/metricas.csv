@@ -11,3 +11,15 @@ data_execucao,fonte,paginas_lidas,paginas_sem_mudanca,caracteres_brutos,caracter
 2026-10-13,sesc,4,0,0,0,0,0,0,0,0,102,0,
 2026-10-13,band,0,0,0,0,0,0,0,0,0,0,0,sitemap: HTTPStatusError; lista lida por navegador; nenhuma agenda encontrada
 2026-10-13,sesi,,,,,,,,,,,,"RuntimeError: LLM respondeu 503: [{ ""error"": { ""code"": 503, ""message"": ""This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later."", ""status"": ""UNAVAILABLE"" } } ]"
+2026-10-13,sesc,4,0,0,0,0,0,0,0,0,102,0,
+2026-10-13,band,0,0,0,0,0,0,0,0,0,0,0,sitemap: HTTPStatusError; lista lida por navegador; nenhuma agenda encontrada
+2026-10-13,sesi,4,0,9985,4664,2498,1167,0,0,0,0,0,"lista lida por simples: 9 eventos, 9 novos; ErroLLM em la-trattoria: LLM respondeu 404: [{
+  ""error"": {
+    ""code"": 404,
+    ""message"": ""This model models/gemini-2.5-flash-lite is no longer; ErroLLM em meu-remedio: LLM respondeu 404: [{
+  ""error"": {
+    ""code"": 404,
+    ""message"": ""This model models/gemini-2.5-flash-lite is no longer; ErroLLM em escola-de-mulheres: LLM respondeu 404: [{
+  ""error"": {
+    ""code"": 404,
+    ""message"": ""This model models/gemini-2.5-flash-lite is no longer; 3 falhas seguidas: o restante fica para a próxima execução"
