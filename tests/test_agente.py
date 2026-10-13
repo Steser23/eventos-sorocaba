@@ -156,4 +156,4 @@ def test_llm_usa_modelo_reserva_quando_principal_esta_sobrecarregado(monkeypatch
 
     monkeypatch.setattr(modulo.ClienteLLM, "_gemini", falso)
     assert cliente.perguntar("i", "c").texto == '{"eventos": []}'
-    assert usados == ["gemini-3.8-flash", "gemini-2.5-flash-lite"]
+    assert usados == ["gemini-3.5-flash-lite", "gemini-3.1-flash-lite"]

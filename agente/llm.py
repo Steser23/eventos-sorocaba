@@ -15,14 +15,14 @@ from dataclasses import dataclass
 import httpx
 
 PADROES = {
-    "gemini": "gemini-3.8-flash",
+    "gemini": "gemini-3.5-flash-lite",  # rápido e econômico; basta para extrair dados
     "anthropic": "claude-haiku-5-5",
 }
 
 
 # Modelos reserva, usados quando o principal está sobrecarregado ou indisponível.
 RESERVAS = {
-    "gemini": ["gemini-2.5-flash-lite"],
+    "gemini": ["gemini-3.1-flash-lite", "gemini-3.6-flash", "gemini-3.8-flash"],
     "anthropic": [],
 }
 TEMPORARIOS = {429, 500, 502, 503, 504}
