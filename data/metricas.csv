@@ -2,3 +2,6 @@ data_execucao,fonte,paginas_lidas,paginas_sem_mudanca,caracteres_brutos,caracter
 2026-10-13,sesc,4,0,0,0,0,0,0,0,0,102,102,
 2026-10-13,band,,,,,,,,,,,,HTTPStatusError: Client error '403 Forbidden' for url 'https://www.band.com.br/band-multi/sorocaba-e-regiao' For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
 2026-10-13,sesi,,,,,,,,,,,,JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2026-10-13,sesc,4,0,0,0,0,0,0,0,0,102,0,
+2026-10-13,band,0,0,0,0,0,0,0,0,0,0,0,sitemap: HTTPStatusError; lista lida por navegador; nenhuma agenda encontrada
+2026-10-13,sesi,,,,,,,,,,,,RuntimeError: LLM respondeu 200 sem JSON (tipo: text/plain): 'OK\r\n'
