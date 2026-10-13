@@ -1,0 +1,4 @@
+data_execucao,fonte,paginas_lidas,paginas_sem_mudanca,caracteres_brutos,caracteres_limpos,tokens_estimados_brutos,tokens_estimados_limpos,chamadas_llm,tokens_entrada_api,tokens_saida_api,eventos_encontrados,eventos_novos,erro
+2026-10-13,sesc,4,0,0,0,0,0,0,0,0,102,102,
+2026-10-13,band,,,,,,,,,,,,HTTPStatusError: Client error '403 Forbidden' for url 'https://www.band.com.br/band-multi/sorocaba-e-regiao' For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-10-13,sesi,,,,,,,,,,,,JSONDecodeError: Expecting value: line 1 column 1 (char 0)
