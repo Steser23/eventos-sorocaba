@@ -63,7 +63,11 @@ class ClienteLLM:
         }
         dados = _postar(
             "https://models.github.ai/inference/chat/completions",
-            {"Authorization": f"Bearer {token}", "Content-Type": "application/json"},
+            {
+                "Authorization": f"Bearer {token}",
+                "Content-Type": "application/json",
+                "Accept": "application/json",
+            },
             corpo,
         )
         uso = dados.get("usage") or {}
@@ -107,7 +111,18 @@ def _postar(url: str, cabecalhos: dict, corpo: dict, tentativas: int = 3) -> dic
             # Alguns modelos não aceitam o modo JSON; tenta sem ele.
             corpo = {k: v for k, v in corpo.items() if k != "response_format"}
             continue
-        resposta.raise_for_status()
+        return _ler_json(resposta)
+    return _ler_json(resposta)
+
+
+def _ler_json(resposta: httpx.Response) -> dict:
+    """Converte a resposta em JSON; se não der, mostra o que o servidor devolveu."""
+    if resposta.status_code >= 400:
+        raise RuntimeError(f"LLM respondeu {resposta.status_code}: {resposta.text[:300]}")
+    try:
         return resposta.json()
-    resposta.raise_for_status()
-    return resposta.json()
+    except ValueError as erro:
+        raise RuntimeError(
+            f"LLM respondeu {resposta.status_code} sem JSON "
+            f"(tipo: {resposta.headers.get('content-type', '?')}): {resposta.text[:300]!r}"
+        ) from erro

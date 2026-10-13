@@ -4,7 +4,7 @@ from datetime import date
 
 from agente import armazenamento as arq
 from agente.extracao import interpretar_resposta
-from agente.fontes import band, sesc
+from agente.fontes import band, sesc, sesi
 from agente.fontes.comum import extrair_de_html, nova_metrica
 from agente.limpeza import dividir_em_trechos, texto_bruto, texto_limpo
 from agente.llm import Resposta
@@ -90,6 +90,30 @@ def test_band_encontra_links_de_agenda():
     assert links == [
         "https://www.band.com.br/band-multi/sorocaba-e-regiao/noticias/agenda-cultural-sorocaba-68-202608050859",
         "https://www.band.com.br/entretenimento/carol-biazin-burning-fest-sorocaba",
+    ]
+
+
+def test_band_sitemap_filtra_agendas_de_sorocaba():
+    xml = """<urlset xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
+    <url><loc>https://www.band.com.br/a/agenda-cultural-sorocaba-1</loc>
+      <news:news><news:title>Agenda cultural: Sorocaba tem samba</news:title></news:news></url>
+    <url><loc>https://www.band.com.br/b/outra</loc>
+      <news:news><news:title>Agenda cultural de Curitiba</news:title></news:news></url>
+    <url><loc>https://www.band.com.br/c/futebol</loc>
+      <news:news><news:title>Sorocaba vence jogo</news:title></news:news></url>
+    </urlset>"""
+    assert band.agendas_no_sitemap(xml, 5) == ["https://www.band.com.br/a/agenda-cultural-sorocaba-1"]
+
+
+def test_sesi_encontra_paginas_de_evento():
+    html = """
+    <a href="https://www.sesisp.org.br/evento/e918c839/astrologia">Saiba mais</a>
+    <a href="/evento/c9d96ba4/movendo-territorios?x=1">Saiba mais</a>
+    <a href="/eventos">Todos</a>
+    """
+    assert sesi.links_de_eventos(html, "https://www.sesisp.org.br/eventos") == [
+        "https://www.sesisp.org.br/evento/e918c839/astrologia",
+        "https://www.sesisp.org.br/evento/c9d96ba4/movendo-territorios",
     ]
 
 

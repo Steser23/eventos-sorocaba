@@ -7,7 +7,7 @@ from urllib.parse import urljoin
 
 from bs4 import BeautifulSoup
 
-from ..leitura import ler_pagina
+from ..leitura import ler_pagina, ler_pagina_com_reserva
 from ..modelos import Evento
 from .comum import extrair_de_html, nova_metrica
 
@@ -29,6 +29,21 @@ def encontrar_agendas(html_lista: str, url_lista: str, maximo: int) -> list[str]
     return links[:maximo]
 
 
+def agendas_no_sitemap(xml: str, maximo: int) -> list[str]:
+    """Matérias de agenda de Sorocaba no sitemap de notícias (o canal oficial para robôs)."""
+    sopa = BeautifulSoup(xml, "html.parser")
+    links: list[str] = []
+    for url in sopa.find_all("url"):
+        loc = url.find("loc")
+        titulo = url.find("news:title")
+        texto = f"{titulo.get_text(' ') if titulo else ''} {loc.get_text() if loc else ''}".lower()
+        if loc and "sorocaba" in texto and any(p in texto for p in ("agenda", "fim de semana")):
+            link = loc.get_text().strip()
+            if link not in links:
+                links.append(link)
+    return links[:maximo]
+
+
 def data_publicacao(html: str, padrao: date) -> date:
     sopa = BeautifulSoup(html, "html.parser")
     meta = sopa.find("meta", attrs={"property": "article:published_time"}) or sopa.find(
@@ -45,9 +60,28 @@ def coletar(config: dict, hoje: date, *, estado: dict, llm, limites: dict, depur
     estado_fonte = estado.setdefault(config["id"], {})
     url_lista = config["url_lista"]
 
-    agendas = encontrar_agendas(ler_pagina(url_lista), url_lista, config.get("max_artigos", 2))
+    maximo = config.get("max_artigos", 2)
+    agendas: list[str] = []
+    avisos: list[str] = []
+
+    # 1º caminho: sitemap de notícias, indicado no robots.txt da Band para robôs.
+    try:
+        agendas = agendas_no_sitemap(ler_pagina(config["url_sitemap"]), maximo)
+    except Exception as erro:  # noqa: BLE001
+        avisos.append(f"sitemap: {type(erro).__name__}")
+
+    # 2º caminho: página da seção, com o navegador como reserva se o site recusar.
     if not agendas:
-        metrica["erro"] = "nenhuma agenda encontrada na página da seção"
+        try:
+            html_lista, metodo = ler_pagina_com_reserva(url_lista)
+            agendas = encontrar_agendas(html_lista, url_lista, maximo)
+            avisos.append(f"lista lida por {metodo}")
+        except Exception as erro:  # noqa: BLE001
+            avisos.append(f"lista: {type(erro).__name__}")
+
+    metrica["erro"] = "; ".join(avisos)
+    if not agendas:
+        metrica["erro"] = (metrica["erro"] + "; nenhuma agenda encontrada").strip("; ")
         return [], metrica, ""
 
     eventos: list[Evento] = []
@@ -56,7 +90,7 @@ def coletar(config: dict, hoje: date, *, estado: dict, llm, limites: dict, depur
         if url in estado_fonte:  # matéria já processada numa execução anterior
             metrica["paginas_sem_mudanca"] += 1
             continue
-        html = ler_pagina(url)
+        html, _ = ler_pagina_com_reserva(url)
         encontrados, ultimo_texto = extrair_de_html(
             html,
             fonte=config["id"],

@@ -14,17 +14,20 @@ fontes:
   - id: band
     nome: Agenda cultural da Band (Sorocaba e região)
     ativa: true
-    tipo: band_agenda         # leitura simples (sem navegador) + extração com LLM
+    tipo: band_agenda         # sitemap de notícias ou página da seção + extração com LLM
+    url_sitemap: https://www.band.com.br/sitemap-news.xml
     url_lista: https://www.band.com.br/band-multi/sorocaba-e-regiao
     max_artigos: 2            # quantas agendas mais recentes ler por execução
 
   - id: sesi
     nome: Sesi Sorocaba
     ativa: true
-    tipo: navegador           # página carregada por JavaScript: usa Playwright + LLM
+    tipo: sesi                # lista filtrada pela unidade + página de cada evento + LLM
     url: https://www.sesisp.org.br/eventos
     unidade: SESI Sorocaba
-    cliques_veja_mais: 5
+    codigo_unidade: 06aa02cc-7de3-4805-92ff-61aff05a347a   # código do filtro "SESI Sorocaba" no site
+    max_detalhes_por_execucao: 25
+    cliques_veja_mais: 5      # só usado se a lista precisar do navegador
 
 # Limites para proteger o plano gratuito do GitHub Models.
 limites:

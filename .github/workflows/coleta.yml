@@ -4,6 +4,9 @@ on:
   schedule:
     - cron: "17 9 * * *"   # todos os dias às 06:17 de Brasília (09:17 UTC)
   workflow_dispatch:         # botão "Run workflow" para rodar manualmente
+  push:                      # roda também quando o código ou as fontes mudam
+    branches: [main]
+    paths: ["agente/**", "config/**", ".github/workflows/**"]
 
 permissions:
   contents: write            # para salvar os dados coletados no repositório

@@ -12,14 +12,32 @@ USER_AGENT = (
     "+https://github.com/Steser23/eventos-sorocaba)"
 )
 TIMEOUT = 30.0
+CABECALHOS = {
+    "User-Agent": USER_AGENT,
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+    "Accept-Language": "pt-BR,pt;q=0.9",
+}
 
 
 def ler_pagina(url: str) -> str:
     """Baixa o HTML de uma página que não depende de JavaScript."""
-    with httpx.Client(headers={"User-Agent": USER_AGENT}, timeout=TIMEOUT, follow_redirects=True) as cliente:
+    with httpx.Client(headers=CABECALHOS, timeout=TIMEOUT, follow_redirects=True) as cliente:
         resposta = cliente.get(url)
         resposta.raise_for_status()
         return resposta.text
+
+
+def ler_pagina_com_reserva(url: str) -> tuple[str, str]:
+    """Tenta a leitura simples; se o site recusar (403, 429...), abre com o navegador.
+
+    Devolve o HTML e o método usado ("simples" ou "navegador").
+    """
+    try:
+        return ler_pagina(url), "simples"
+    except httpx.HTTPStatusError as erro:
+        if erro.response.status_code not in (401, 403, 406, 429, 503):
+            raise
+    return ler_com_navegador(url).html, "navegador"
 
 
 def ler_json(url: str, params: dict | None = None) -> dict:
