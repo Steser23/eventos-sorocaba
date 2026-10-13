@@ -1,6 +1,6 @@
 # Eventos para revisar
 
-Atualizado em 2026-10-13. 102 eventos futuros aguardando revisão.
+Atualizado em 2026-10-13. 108 eventos futuros aguardando revisão.
 Confiança **baixa** = data ou local incertos: confira na fonte antes de aprovar.
 
 | Data | Horário | Evento | Local | Cidade | Preço | Confiança | Fonte |
@@ -56,6 +56,8 @@ Confiança **baixa** = data ou local incertos: confira na fonte antes de aprovar
 | 2026-10-03 | 18:30 | Praião para a família — Com educadores de atividades físico-esportivas | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/praiao-para-a-familia-4) |
 | 2026-10-11 | 11:45 | Esporte adulto - Beach Tênis — Com educadores de atividades físico-esportivas | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/esporte-adulto-beach-tenis) |
 | 2026-10-11 | 10:00 | Manhãs de práticas corporais: mat pilates — Com educadores de atividades físico-esportivas | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/manhas-de-praticas-corporais-mat-pilates) |
+| 2026-10-13 |  | Exposição Mãos que sustentam o mundo | SESI Sorocaba | Sorocaba | Grátis | alta | [sesi](https://www.sesisp.org.br/evento/ae1c49c4-d7db-402a-8a2b-c520db92606b/maos-que-sustentam-o-mundo) |
+| 2026-10-13 |  | SESI Diverte - Sorocaba | Ginásio Sesi Sorocaba | Sorocaba | Grátis | alta | [sesi](https://www.sesisp.org.br/evento/0fa90931-af22-4e2b-b2f1-83a3eea7977b/sesi-diverte-2026) |
 | 2026-10-14 | 12:00 | Experimentações com monotipia botânica — Com Célia Harumi, educadora de tecnologias e artes | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/experimentacoes-com-monotipia-botanica) |
 | 2026-10-14 | 21:30 | Introdução para impressão 3D — Com Laure Stelmastchuk, pesquisadora e desenvolvedora | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/introducao-para-impressao-3d) |
 | 2026-10-14 | 14:30 | Lendo o Mundo — Direção: Catherine Murphy e Iris de Oliveira / Documentário / EUA/Brasil / 71 min. / 2025 | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/lendo-o-mundo-3) |
@@ -75,6 +77,9 @@ Confiança **baixa** = data ou local incertos: confira na fonte antes de aprovar
 | 2026-10-18 | 12:30 | Mensagens dos passarinhos — Com Giulia Passarinha, bióloga | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/mensagens-dos-passarinhos) |
 | 2026-10-18 | 11:30 | Miudezas — Com Cia. Vôos | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/miudezas) |
 | 2026-10-18 | 16:00 | Pinturas indígenas dos povos Desana, Tukano e Xavante — Com Carlos Daniel Marinho Valério, do povo Tukano, Claudilene Pedrosa, do povo Desana e Jediel Tserewatomowe, do povo Xavante, estudantes da UFSCar Sorocaba e integrantes do Centro de Convivência Indígena (CCI) | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/pinturas-indigenas-dos-povos-desana-tukano-e-xavante) |
+| 2026-10-19 | 15:00 | La Trattoria | Teatro do SESI Sorocaba | Sorocaba | Grátis | alta | [sesi](https://www.sesisp.org.br/evento/7e43f035-25c7-4c90-b3fe-059f047f644e/la-trattoria) |
+| 2026-10-19 | 20:00 | Rolando Boldrin, 90 anos de causos com Yassir Chediak | Teatro do SESI Sorocaba | Sorocaba |  | alta | [sesi](https://www.sesisp.org.br/evento/0eed0afb-268f-4ccb-91d2-a48dd1b4c113/rolando-boldrin-90-anos-de-causos) |
+| 2026-10-19 | 20:00 | Saudação às Yabás | Teatro do SESI Sorocaba | Sorocaba | Grátis | alta | [sesi](https://www.sesisp.org.br/evento/8316fc9d-d57b-49ec-8cd9-4b60b58ad2f4/saudacao-as-yabas) |
 | 2026-10-20 | 21:00 | Alimentação e mudanças climáticas — Com Adolfo Mendonça, nutricionista | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/alimentacao-e-mudancas-climaticas) |
 | 2026-10-20 | 18:00 | O descanso passa pela boca — Com Marli Pedroso, agricultora e pesquisadora independente | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/o-descanso-passa-pela-boca) |
 | 2026-10-20 | 21:00 | Oldboy — Direção: Park Chan-Wook / Suspense/Drama/Ação / Coréia do Sul / 2003 / Leg. | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/oldboy) |
@@ -107,3 +112,4 @@ Confiança **baixa** = data ou local incertos: confira na fonte antes de aprovar
 | 2026-10-31 | 17:00 | Acroshow — Com Cia. Gravitá | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/acroshow-2) |
 | 2026-10-31 | 16:00 | Carimbos de borracha escolar — Com Gleice Sales, educadora de tecnologias e artes | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/carimbos-de-borracha-escolar) |
 | 2026-10-31 | 20:00 | The roses of garden - mainstream ball — Com a House Avalanx e House of La'Beija | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/the-roses-of-garden-mainstream-ball) |
+| ? | 10:00 | Feira de Troca de Livros | SESI Sorocaba (Teatro Sorocaba) | Sorocaba | Grátis | baixa | [sesi](https://www.sesisp.org.br/evento/5cfcb343-c98c-4c4c-ad2d-7479e86c3735/feira-de-troca-de-livros) |
