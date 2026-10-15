@@ -1,6 +1,6 @@
 # Eventos para revisar
 
-Atualizado em 2026-10-14. 111 eventos futuros aguardando revisão.
+Atualizado em 2026-10-15. 114 eventos futuros aguardando revisão.
 Confiança **baixa** = data ou local incertos: confira na fonte antes de aprovar.
 
 | Data | Horário | Evento | Local | Cidade | Preço | Confiança | Fonte |
@@ -58,8 +58,6 @@ Confiança **baixa** = data ou local incertos: confira na fonte antes de aprovar
 | 2026-10-11 | 10:00 | Manhãs de práticas corporais: mat pilates — Com educadores de atividades físico-esportivas | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/manhas-de-praticas-corporais-mat-pilates) |
 | 2026-10-14 | 12:00 | Experimentações com monotipia botânica — Com Célia Harumi, educadora de tecnologias e artes | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/experimentacoes-com-monotipia-botanica) |
 | 2026-10-14 | 21:30 | Introdução para impressão 3D — Com Laure Stelmastchuk, pesquisadora e desenvolvedora | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/introducao-para-impressao-3d) |
-| 2026-10-14 | 14:30 | Lendo o Mundo — Direção: Catherine Murphy e Iris de Oliveira / Documentário / EUA/Brasil / 71 min. / 2025 | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/lendo-o-mundo-3) |
-| 2026-10-14 | 12:00 | Saúde mental no trabalho: de quem é a responsabilidade? — Com Eduardo Zugaib, escritor, palestrante, professor e treinador | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/saude-mental-no-trabalho-de-quem-e-a-responsabilidade) |
 | 2026-10-15 | 14:30 | Amazônia Oktoberfesta — Direção: Sérgio Oliveira/Felipe Drehmer / Documentário / Brasil / 78 min. / 2025 | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/amazonia-oktoberfesta-2) |
 | 2026-10-15 | 16:00 | Bolsa de crochê: iniciante — Com Gleice Sales, educadora de tecnologias e artes | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/bolsa-de-croche-iniciante) |
 | 2026-10-15 | 12:00 | Estêncil em relevo — Com Célia Harumi, educadora de tecnologias e artes | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/estencil-em-relevo) |
@@ -84,14 +82,18 @@ Confiança **baixa** = data ou local incertos: confira na fonte antes de aprovar
 | 2026-10-20 | 21:00 | Oldboy — Direção: Park Chan-Wook / Suspense/Drama/Ação / Coréia do Sul / 2003 / Leg. | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/oldboy) |
 | 2026-10-21 | 21:00 | Conversas entre nós: rodas de conversa, trocas e acolhimentos — Com José Henrique Moura e Tom Rodrigues, psicólogos | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/conversas-entre-nos-rodas-de-conversa-trocas-e-acolhimentos-14) |
 | 2026-10-21 | 20:00 | Escola de Mulheres | Teatro do SESI Sorocaba | Sorocaba |  | alta | [sesi](https://www.sesisp.org.br/evento/621d4e87-2c67-403a-9608-385ef5a01f04/escola-de-mulheres) |
+| 2026-10-21 | 12:00 | Experimentações com monotipia botânica — Com Célia Harumi, educadora de tecnologias e artes | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/experimentacoes-com-monotipia-botanica) |
 | 2026-10-21 | 21:00 | O silêncio da boca — Com Coletivo Um Salve das Minas | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/o-silencio-da-boca) |
 | 2026-10-21 | 22:00 | Sonhar sem dormir? Cuidado, descanso, e sonhadorismo radical — Com Tatiana Nascimento, escritora, tradutora e cantora | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/sonhar-sem-dormir-cuidado-descanso-e-sonhadorismo-radical) |
 | 2026-10-21 | 21:00 | Voz, corpo e resistência: uma leitura sensível da violência doméstica — Com Julia Vitório, cirurgiã-dentista, Karina Sabedoti, psicóloga e Cíntia de Almeida, do CIM-Mulher. Mediação: Cristina Gibilini, cirurgiã-dentista | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/voz-corpo-e-resistencia-uma-leitura-sensivel-da-violencia-domestica) |
+| 2026-10-22 | 19:00 | Da roça ao palco com Karoline Violeira | SESI Sorocaba - Quadra Externa | Sorocaba | Grátis | alta | [sesi](https://www.sesisp.org.br/evento/6ceb6574-523f-49d8-bd2a-b8e8a7f3602a/da-roca-ao-palco) |
 | 2026-10-22 | 18:00 | Massageaço — Com Danilo Patzdorf, artista, educador e pesquisador do corpo e Renata Passos, arte-educadora, pesquisadora independente | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/massageaco-2) |
+| 2026-10-22 | 16:00 | O Brasil em Lendas | SESI Sorocaba | Sorocaba | Grátis | alta | [sesi](https://www.sesisp.org.br/evento/f42ff080-ea44-4927-a792-05be41f8ac01/o-brasil-em-lendas) |
 | 2026-10-22 | 22:00 | Práticas de descanso: corpo, cuidado e política — Com Nina Guzzo, professora e pesquisadora e Danilo Patzdorf, artista, educador e pesquisador do corpo | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/praticas-de-descanso-corpo-cuidado-e-politica) |
 | 2026-10-23 | 20:00 | Arismar do Espírito Santo | Sesc Sorocaba | Sorocaba |  | alta | [sesc](https://www.sescsp.org.br/programacao/arismar-do-espirito-santo-6) |
 | 2026-10-23 | 16:30 | Fiteiro Cultural — Artista: Fabiana de Barros / Curadoria: Bruna Battistini | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/fiteiro-cultural) |
 | 2026-10-23 | 15:30 | Território em escuta — Curadoria: Bruna Battistini | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/territorio-em-escuta) |
+| 2026-10-24 | 16:00 | A Construção da Fala | Teatro do SESI Sorocaba | Sorocaba | Grátis | alta | [sesi](https://www.sesisp.org.br/evento/1575a784-986a-4973-9633-4a64827542e6/a-construcao-da-fala) |
 | 2026-10-24 | 12:00 | Alimentação saudável - Uma aventura colorida — Com Maurício Dell'Osso e Mariana Villas Boas, autores do livro, e Cantando um Conto | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/alimentacao-saudavel-uma-aventura-colorida) |
 | 2026-10-24 | 16:00 | Animal de papel tridimensional com efeito de movimento — Com Célia Harumi, educadora de tecnologias e artes | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/animal-de-papel-tridimensional-com-efeito-de-movimento) |
 | 2026-10-24 | 12:30 | Clube Leia Mulheres Sorocaba - Rinha de galos, de María Fernanda Ampuero — Com Bruna Bengozi, mediadora do Leia Mulheres Sorocaba | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/clube-leia-mulheres-sorocaba-rinha-de-galos-de-maria-fernanda-ampuero) |
@@ -109,6 +111,7 @@ Confiança **baixa** = data ou local incertos: confira na fonte antes de aprovar
 | 2026-10-28 | 20:00 | Saudação às Yabás | Teatro do SESI Sorocaba | Sorocaba | Grátis | alta | [sesi](https://www.sesisp.org.br/evento/8316fc9d-d57b-49ec-8cd9-4b60b58ad2f4/saudacao-as-yabas) |
 | 2026-10-29 | 21:00 | Autoras: literatura nos vestibulares — Com Gabriele Albuquerque, jornalista. Mediação: Ariani Teodoro, professora (dia 1). Com Maria Cristina Peres Villas, professora e pedagoga. Mediação: Janete Campos, professora de literatura (dia 29) | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/autoras-literatura-nos-vestibulare-2) |
 | 2026-10-29 | 21:00 | Ballroom - Cena mainstream no Brasil — Com Father Felix Zion e Akira XLanvin | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/ballroom-cena-mainstream-no-brasil) |
+| 2026-10-29 | 18:30 | Gigantes do Digital - Edição Sorocaba | Teatro do SESI Sorocaba | Sorocaba | Grátis | alta | [sesi](https://www.sesisp.org.br/evento/eff4ae5e-0c81-4c32-b8db-c31392913762/gigantes-do-digital) |
 | 2026-10-30 | 21:00 | Jaquie Livino Sexteto | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/jaquie-livino-sexteto) |
 | 2026-10-30 | 15:00 | La Trattoria - Los Circo Los | Teatro do SESI Sorocaba | Sorocaba | Grátis | alta | [sesi](https://www.sesisp.org.br/evento/7e43f035-25c7-4c90-b3fe-059f047f644e/la-trattoria) |
 | 2026-10-31 | 17:00 | Acroshow — Com Cia. Gravitá | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/acroshow-2) |
