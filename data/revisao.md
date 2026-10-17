@@ -1,6 +1,6 @@
 # Eventos para revisar
 
-Atualizado em 2026-10-16. 114 eventos futuros aguardando revisão.
+Atualizado em 2026-10-17. 114 eventos futuros aguardando revisão.
 Confiança **baixa** = data ou local incertos: confira na fonte antes de aprovar.
 
 | Data | Horário | Evento | Local | Cidade | Preço | Confiança | Fonte |
@@ -62,7 +62,6 @@ Confiança **baixa** = data ou local incertos: confira na fonte antes de aprovar
 | 2026-10-15 | 12:00 | Estêncil em relevo — Com Célia Harumi, educadora de tecnologias e artes | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/estencil-em-relevo) |
 | 2026-10-15 | 20:00 | Meu Remédio | Teatro do SESI Sorocaba | Sorocaba | Grátis | alta | [sesi](https://www.sesisp.org.br/evento/ce23657c-7fb6-4bd7-ae57-29f0e99368cc/meu-remedio) |
 | 2026-10-16 | 21:00 | Faça Você Mesmo _ DIY — Com Célia Harumi e Gleice Sales, educadoras de tecnologias e artes  / Com Tainara Martinsons, especialista em artes gráficas, pintura orgânica e desenho livre (dia 18) | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/faca-voce-mesmo-_-diy-10) |
-| 2026-10-16 | 21:00 | Viva a Cena! — Com coletivo Traga Drag | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/viva-a-cena) |
 | 2026-10-17 | 16:00 | Clube de leitura - Enterre seus mortos, de Ana Paula Maia — Com Thayssa Tannuri, psicóloga e mediadora de leitura | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/clube-de-leitura-a-pediatra-de-andrea-del-fuego) |
 | 2026-10-17 | 12:30 | Detetives da natureza — Com Giulia Passarinha, bióloga | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/detetives-da-natureza-4) |
 | 2026-10-17 | 17:00 | Fuleragem — Com Inigualáveis Irmãs Cola | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/fuleragem-3) |
@@ -88,6 +87,7 @@ Confiança **baixa** = data ou local incertos: confira na fonte antes de aprovar
 | 2026-10-22 | 19:00 | Da roça ao palco com Karoline Violeira | SESI Sorocaba - Quadra Externa | Sorocaba | Grátis | alta | [sesi](https://www.sesisp.org.br/evento/6ceb6574-523f-49d8-bd2a-b8e8a7f3602a/da-roca-ao-palco) |
 | 2026-10-22 | 18:00 | Massageaço — Com Danilo Patzdorf, artista, educador e pesquisador do corpo e Renata Passos, arte-educadora, pesquisadora independente | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/massageaco-2) |
 | 2026-10-22 | 16:00 | O Brasil em Lendas | SESI Sorocaba | Sorocaba | Grátis | alta | [sesi](https://www.sesisp.org.br/evento/f42ff080-ea44-4927-a792-05be41f8ac01/o-brasil-em-lendas) |
+| 2026-10-22 | 17:00 | Oficina Brincadeiras do nosso Folclore | SESI Sorocaba | Sorocaba | Grátis | alta | [sesi](https://www.sesisp.org.br/evento/31acf998-bd6b-4d55-9cda-7967d1b4c6e1/oficina-brincadeiras-do-nosso-folclore) |
 | 2026-10-22 | 22:00 | Práticas de descanso: corpo, cuidado e política — Com Nina Guzzo, professora e pesquisadora e Danilo Patzdorf, artista, educador e pesquisador do corpo | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/praticas-de-descanso-corpo-cuidado-e-politica) |
 | 2026-10-23 | 20:00 | Arismar do Espírito Santo | Sesc Sorocaba | Sorocaba |  | alta | [sesc](https://www.sescsp.org.br/programacao/arismar-do-espirito-santo-6) |
 | 2026-10-23 | 16:30 | Fiteiro Cultural — Artista: Fabiana de Barros / Curadoria: Bruna Battistini | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/fiteiro-cultural) |
