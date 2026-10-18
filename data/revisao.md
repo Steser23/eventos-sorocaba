@@ -1,6 +1,6 @@
 # Eventos para revisar
 
-Atualizado em 2026-10-17. 114 eventos futuros aguardando revisão.
+Atualizado em 2026-10-18. 108 eventos futuros aguardando revisão.
 Confiança **baixa** = data ou local incertos: confira na fonte antes de aprovar.
 
 | Data | Horário | Evento | Local | Cidade | Preço | Confiança | Fonte |
@@ -62,12 +62,6 @@ Confiança **baixa** = data ou local incertos: confira na fonte antes de aprovar
 | 2026-10-15 | 12:00 | Estêncil em relevo — Com Célia Harumi, educadora de tecnologias e artes | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/estencil-em-relevo) |
 | 2026-10-15 | 20:00 | Meu Remédio | Teatro do SESI Sorocaba | Sorocaba | Grátis | alta | [sesi](https://www.sesisp.org.br/evento/ce23657c-7fb6-4bd7-ae57-29f0e99368cc/meu-remedio) |
 | 2026-10-16 | 21:00 | Faça Você Mesmo _ DIY — Com Célia Harumi e Gleice Sales, educadoras de tecnologias e artes  / Com Tainara Martinsons, especialista em artes gráficas, pintura orgânica e desenho livre (dia 18) | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/faca-voce-mesmo-_-diy-10) |
-| 2026-10-17 | 16:00 | Clube de leitura - Enterre seus mortos, de Ana Paula Maia — Com Thayssa Tannuri, psicóloga e mediadora de leitura | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/clube-de-leitura-a-pediatra-de-andrea-del-fuego) |
-| 2026-10-17 | 12:30 | Detetives da natureza — Com Giulia Passarinha, bióloga | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/detetives-da-natureza-4) |
-| 2026-10-17 | 17:00 | Fuleragem — Com Inigualáveis Irmãs Cola | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/fuleragem-3) |
-| 2026-10-17 | 16:00 | Porta-copo no tear: manualidades para crianças — Com Gleice Sales, educadora de tecnologias e artes | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/porta-copo-no-tear-manualidades-para-criancas) |
-| 2026-10-17 | 09:00 | SESI DIVERTE 2026 | Ginásio Sesi Sorocaba | Sorocaba | Grátis | alta | [sesi](https://www.sesisp.org.br/evento/0fa90931-af22-4e2b-b2f1-83a3eea7977b/sesi-diverte-2026) |
-| 2026-10-17 | 20:00 | Sagração do Agora! — Com Toshiko Oiwa e Kae Oiwa Pires | Sesc Sorocaba | Sorocaba |  | alta | [sesc](https://www.sescsp.org.br/programacao/sagracao-do-agora-2) |
 | 2026-10-18 | 18:00 | Betina Stegmann, Marcelo Jaffé, Alberto Kanji, Fernando Tomimura — Violino, viola, violoncelo e piano | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/betina-stegmann-marcelo-jaffe-alberto-kanji-fernando-tomimura) |
 | 2026-10-18 | 17:00 | Faz de conta que — Com Cia. Miguilim | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/faz-de-conta-que-9) |
 | 2026-10-18 | 10:00 | Feira de Troca de Livros | SESI Sorocaba - Externo Teatro Sorocaba | Sorocaba | Grátis | alta | [sesi](https://www.sesisp.org.br/evento/5cfcb343-c98c-4c4c-ad2d-7479e86c3735/feira-de-troca-de-livros) |
