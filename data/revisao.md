@@ -1,6 +1,6 @@
 # Eventos para revisar
 
-Atualizado em 2026-10-18. 108 eventos futuros aguardando revisão.
+Atualizado em 2026-10-19. 100 eventos futuros aguardando revisão.
 Confiança **baixa** = data ou local incertos: confira na fonte antes de aprovar.
 
 | Data | Horário | Evento | Local | Cidade | Preço | Confiança | Fonte |
@@ -60,15 +60,7 @@ Confiança **baixa** = data ou local incertos: confira na fonte antes de aprovar
 | 2026-10-14 | 21:30 | Introdução para impressão 3D — Com Laure Stelmastchuk, pesquisadora e desenvolvedora | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/introducao-para-impressao-3d) |
 | 2026-10-15 | 16:00 | Bolsa de crochê: iniciante — Com Gleice Sales, educadora de tecnologias e artes | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/bolsa-de-croche-iniciante) |
 | 2026-10-15 | 12:00 | Estêncil em relevo — Com Célia Harumi, educadora de tecnologias e artes | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/estencil-em-relevo) |
-| 2026-10-15 | 20:00 | Meu Remédio | Teatro do SESI Sorocaba | Sorocaba | Grátis | alta | [sesi](https://www.sesisp.org.br/evento/ce23657c-7fb6-4bd7-ae57-29f0e99368cc/meu-remedio) |
 | 2026-10-16 | 21:00 | Faça Você Mesmo _ DIY — Com Célia Harumi e Gleice Sales, educadoras de tecnologias e artes  / Com Tainara Martinsons, especialista em artes gráficas, pintura orgânica e desenho livre (dia 18) | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/faca-voce-mesmo-_-diy-10) |
-| 2026-10-18 | 18:00 | Betina Stegmann, Marcelo Jaffé, Alberto Kanji, Fernando Tomimura — Violino, viola, violoncelo e piano | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/betina-stegmann-marcelo-jaffe-alberto-kanji-fernando-tomimura) |
-| 2026-10-18 | 17:00 | Faz de conta que — Com Cia. Miguilim | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/faz-de-conta-que-9) |
-| 2026-10-18 | 10:00 | Feira de Troca de Livros | SESI Sorocaba - Externo Teatro Sorocaba | Sorocaba | Grátis | alta | [sesi](https://www.sesisp.org.br/evento/5cfcb343-c98c-4c4c-ad2d-7479e86c3735/feira-de-troca-de-livros) |
-| 2026-10-18 | 15:00 | Looney Tunes - O Filme: O Dia Que A Terra Explodiu | Teatro do SESI Sorocaba | Sorocaba | Grátis | alta | [sesi](https://www.sesisp.org.br/evento/a471989d-787e-4344-883f-ffb8f1b19899/sesi-pipoca-looney-tunes-o-filme-o-dia-que-a-terra-explodiu) |
-| 2026-10-18 | 12:30 | Mensagens dos passarinhos — Com Giulia Passarinha, bióloga | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/mensagens-dos-passarinhos) |
-| 2026-10-18 | 11:30 | Miudezas — Com Cia. Vôos | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/miudezas) |
-| 2026-10-18 | 16:00 | Pinturas indígenas dos povos Desana, Tukano e Xavante — Com Carlos Daniel Marinho Valério, do povo Tukano, Claudilene Pedrosa, do povo Desana e Jediel Tserewatomowe, do povo Xavante, estudantes da UFSCar Sorocaba e integrantes do Centro de Convivência Indígena (CCI) | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/pinturas-indigenas-dos-povos-desana-tukano-e-xavante) |
 | 2026-10-20 | 21:00 | Alimentação e mudanças climáticas — Com Adolfo Mendonça, nutricionista | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/alimentacao-e-mudancas-climaticas) |
 | 2026-10-20 | 18:00 | O descanso passa pela boca — Com Marli Pedroso, agricultora e pesquisadora independente | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/o-descanso-passa-pela-boca) |
 | 2026-10-20 | 21:00 | Oldboy — Direção: Park Chan-Wook / Suspense/Drama/Ação / Coréia do Sul / 2003 / Leg. | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/oldboy) |
