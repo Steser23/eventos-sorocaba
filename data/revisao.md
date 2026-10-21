@@ -1,6 +1,6 @@
 # Eventos para revisar
 
-Atualizado em 2026-10-20. 100 eventos futuros aguardando revisão.
+Atualizado em 2026-10-21. 98 eventos futuros aguardando revisão.
 Confiança **baixa** = data ou local incertos: confira na fonte antes de aprovar.
 
 | Data | Horário | Evento | Local | Cidade | Preço | Confiança | Fonte |
@@ -61,9 +61,6 @@ Confiança **baixa** = data ou local incertos: confira na fonte antes de aprovar
 | 2026-10-15 | 16:00 | Bolsa de crochê: iniciante — Com Gleice Sales, educadora de tecnologias e artes | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/bolsa-de-croche-iniciante) |
 | 2026-10-15 | 12:00 | Estêncil em relevo — Com Célia Harumi, educadora de tecnologias e artes | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/estencil-em-relevo) |
 | 2026-10-16 | 21:00 | Faça Você Mesmo _ DIY — Com Célia Harumi e Gleice Sales, educadoras de tecnologias e artes  / Com Tainara Martinsons, especialista em artes gráficas, pintura orgânica e desenho livre (dia 18) | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/faca-voce-mesmo-_-diy-10) |
-| 2026-10-20 | 21:00 | Alimentação e mudanças climáticas — Com Adolfo Mendonça, nutricionista | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/alimentacao-e-mudancas-climaticas) |
-| 2026-10-20 | 18:00 | O descanso passa pela boca — Com Marli Pedroso, agricultora e pesquisadora independente | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/o-descanso-passa-pela-boca) |
-| 2026-10-20 | 21:00 | Oldboy — Direção: Park Chan-Wook / Suspense/Drama/Ação / Coréia do Sul / 2003 / Leg. | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/oldboy) |
 | 2026-10-21 | 21:00 | Conversas entre nós: rodas de conversa, trocas e acolhimentos — Com José Henrique Moura e Tom Rodrigues, psicólogos | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/conversas-entre-nos-rodas-de-conversa-trocas-e-acolhimentos-14) |
 | 2026-10-21 | 20:00 | Escola de Mulheres | Teatro do SESI Sorocaba | Sorocaba |  | alta | [sesi](https://www.sesisp.org.br/evento/621d4e87-2c67-403a-9608-385ef5a01f04/escola-de-mulheres) |
 | 2026-10-21 | 12:00 | Experimentações com monotipia botânica — Com Célia Harumi, educadora de tecnologias e artes | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/experimentacoes-com-monotipia-botanica) |
@@ -89,6 +86,7 @@ Confiança **baixa** = data ou local incertos: confira na fonte antes de aprovar
 | 2026-10-24 | 15:00 | Feira de alimentos agroecológicos e artesanatos — Com produtores de alimentos agroecológicos e de artesanatos da região de Sorocaba | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/feira-de-alimentos-agroecologicos-e-artesanatos-7) |
 | 2026-10-24 | 12:30 | Móbile de polinização — Com Adriana Tiba, da Associação Instituto Cultural Janela Aberta | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/mobile-de-polinizacao) |
 | 2026-10-24 | 16:00 | Sabores da biodiversidade: conhecer para preservar — Com Marli Pedroso, agricultora e pesquisadora independente | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/sabores-da-biodiversidade-conhecer-para-preservar) |
+| 2026-10-27 | 14:30 | Cirandas do tempo: vivência em dança modular — Com Juliane Pimenta, gerontóloga | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/cirandas-do-tempo-vivencia-em-danca-modular) |
 | 2026-10-27 | 21:00 | Clube de escrita Sorocaba — Com Gustavo Araújo, escritor | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/clube-de-escrita-sorocaba-12) |
 | 2026-10-27 | 17:00 | Oficina brincante: Vamos brincar de comidinha? — Com Cia. Clara Rosa | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/oficina-brincante-vamos-brincar-de-comidinha) |
 | 2026-10-27 | 21:00 | Persépolis — Direção: Marjane Satrapi/Vincent Paronnaud / Animação/Biografia / França/EUA / 2007 / Leg. | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/persepolis) |

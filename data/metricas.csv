@@ -50,3 +50,6 @@ data_execucao,fonte,paginas_lidas,paginas_sem_mudanca,caracteres_brutos,caracter
 2026-10-20,sesc,3,0,0,0,0,0,0,0,0,88,0,
 2026-10-20,band,0,0,0,0,0,0,0,0,0,0,0,sitemap: HTTPStatusError; nenhuma agenda encontrada
 2026-10-20,sesi,1,0,0,0,0,0,0,0,0,0,0,
+2026-10-21,sesc,3,0,0,0,0,0,0,0,0,85,1,
+2026-10-21,band,0,0,0,0,0,0,0,0,0,0,0,sitemap: HTTPStatusError; nenhuma agenda encontrada
+2026-10-21,sesi,1,0,0,0,0,0,0,0,0,0,0,
