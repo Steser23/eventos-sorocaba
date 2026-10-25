@@ -62,3 +62,6 @@ data_execucao,fonte,paginas_lidas,paginas_sem_mudanca,caracteres_brutos,caracter
 2026-10-24,sesc,4,0,0,0,0,0,0,0,0,101,19,
 2026-10-24,band,0,1,0,0,0,0,0,0,0,0,0,
 2026-10-24,sesi,3,0,6694,4434,1674,1109,2,2629,312,2,2,
+2026-10-25,sesc,4,0,0,0,0,0,0,0,0,98,8,
+2026-10-25,band,0,0,0,0,0,0,0,0,0,0,0,lista: HTTPStatusError; nenhuma agenda encontrada
+2026-10-25,sesi,1,0,0,0,0,0,0,0,0,0,0,

@@ -1,6 +1,6 @@
 # Eventos para revisar
 
-Atualizado em 2026-10-24. 148 eventos futuros aguardando revisão.
+Atualizado em 2026-10-25. 132 eventos futuros aguardando revisão.
 Confiança **baixa** = data ou local incertos: confira na fonte antes de aprovar.
 
 | Data | Horário | Evento | Local | Cidade | Preço | Confiança | Fonte |
@@ -46,6 +46,7 @@ Confiança **baixa** = data ou local incertos: confira na fonte antes de aprovar
 | 2026-09-30 | 17:30 | Esporte Jovem - 10 a 13 anos — Com educadores de atividades físico-esportivas | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/esporte-jovem-6) |
 | 2026-09-30 | 11:45 | Esporte para pessoas idosas — Com educadores de atividades físico-esportivas | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/esporte-para-idosos-10) |
 | 2026-09-30 | 12:00 | Movimento Consciente — Com educadores de atividades físico-esportivas | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/movimento-consciente-66) |
+| 2026-10-01 | 11:00 | Hoje é dia de arte, bebê! — Com Alan Pablo, educador do Programa Espaço de Brincar | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/hoje-e-dia-de-arte-bebe-12) |
 | 2026-10-01 | 11:00 | Hoje é dia de arte, bebê! — Com Alan Pablo, educador do Programa Espaço de Brincar  e Karina Rocha, educadora musical | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/hoje-e-dia-de-arte-bebe-12) |
 | 2026-10-01 | 16:00 | Lugar de criança é fazendo arte! — Com Alan Pablo, educador do Programa Espaço de Brincar e Karina Rocha, educadora musical | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/lugar-de-crianca-e-fazendo-arte-11) |
 | 2026-10-01 | 12:00 | Olhar para a natureza: aprendendo pintura realista de aves — Com Luís Henrique Cantão, desenhista | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/olhar-para-a-natureza-aprendendo-pintura-realista-de-aves) |
@@ -57,45 +58,22 @@ Confiança **baixa** = data ou local incertos: confira na fonte antes de aprovar
 | 2026-10-03 | 18:30 | Praião para a família — Com educadores de atividades físico-esportivas | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/praiao-para-a-familia-4) |
 | 2026-10-11 | 11:45 | Esporte adulto - Beach Tênis — Com educadores de atividades físico-esportivas | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/esporte-adulto-beach-tenis) |
 | 2026-10-11 | 10:00 | Manhãs de práticas corporais: mat pilates — Com educadores de atividades físico-esportivas | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/manhas-de-praticas-corporais-mat-pilates) |
+| 2026-10-12 | 13:30 | LUDUS: Circuito de habilidades — Com equipe Fernando Oliveira | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/ludus-circuito-de-habilidades) |
 | 2026-10-14 | 12:00 | Experimentações com monotipia botânica — Com Célia Harumi, educadora de tecnologias e artes | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/experimentacoes-com-monotipia-botanica) |
 | 2026-10-14 | 21:30 | Introdução para impressão 3D — Com Laure Stelmastchuk, pesquisadora e desenvolvedora | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/introducao-para-impressao-3d) |
 | 2026-10-15 | 16:00 | Bolsa de crochê: iniciante — Com Gleice Sales, educadora de tecnologias e artes | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/bolsa-de-croche-iniciante) |
 | 2026-10-15 | 12:00 | Estêncil em relevo — Com Célia Harumi, educadora de tecnologias e artes | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/estencil-em-relevo) |
 | 2026-10-16 | 21:00 | Faça Você Mesmo _ DIY — Com Célia Harumi e Gleice Sales, educadoras de tecnologias e artes  / Com Tainara Martinsons, especialista em artes gráficas, pintura orgânica e desenho livre (dia 18) | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/faca-voce-mesmo-_-diy-10) |
-| 2026-10-21 | 20:00 | Escola de Mulheres | Teatro do SESI Sorocaba | Sorocaba |  | alta | [sesi](https://www.sesisp.org.br/evento/621d4e87-2c67-403a-9608-385ef5a01f04/escola-de-mulheres) |
 | 2026-10-21 | 12:00 | Experimentações com monotipia botânica — Com Célia Harumi, educadora de tecnologias e artes | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/experimentacoes-com-monotipia-botanica) |
 | 2026-10-23 | 10:00 | Do Asfalto ao Pódio | Pátio Cianê Shopping | Sorocaba | Grátis | alta | [band](https://www.band.com.br/entretenimento/agenda-sorocaba-22-10) |
-| 2026-10-23 | 20:00 | Escola de Mulheres | Teatro do Sesi Sorocaba | Sorocaba | Grátis | alta | [band](https://www.band.com.br/entretenimento/agenda-sorocaba-22-10) |
 | 2026-10-23 | 10:00 | Etnogênese – O que é, e o que pode ser | Museu de Arte Contemporânea de Sorocaba – Macs | Sorocaba | Grátis | alta | [band](https://www.band.com.br/entretenimento/agenda-sorocaba-22-10) |
 | 2026-10-23 | 18:00 | Festival Mundo Asiático | Área de Lazer 3 | Ibiúna | Grátis | alta | [band](https://www.band.com.br/entretenimento/agenda-sorocaba-22-10) |
 | 2026-10-23 | 10:00 | Fiteiro Cultural | Museu Histórico Sorocabano | Sorocaba | Grátis | alta | [band](https://www.band.com.br/entretenimento/agenda-sorocaba-22-10) |
 | 2026-10-23 | 16:30 | Fiteiro Cultural — Artista: Fabiana de Barros / Curadoria: Bruna Battistini | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/fiteiro-cultural) |
 | 2026-10-23 | 10:00 | Gravitas | Museu de Arte Contemporânea de Sorocaba – Macs | Sorocaba | Grátis | alta | [band](https://www.band.com.br/entretenimento/agenda-sorocaba-22-10) |
 | 2026-10-23 | 15:30 | Território em escuta — Curadoria: Bruna Battistini | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/territorio-em-escuta) |
-| 2026-10-24 | 16:00 | A Construção da Fala | Teatro do SESI Sorocaba | Sorocaba | Grátis | alta | [sesi](https://www.sesisp.org.br/evento/1575a784-986a-4973-9633-4a64827542e6/a-construcao-da-fala) |
-| 2026-10-24 | 12:00 | Alimentação saudável - Uma aventura colorida — Com Maurício Dell'Osso e Mariana Villas Boas, autores do livro, e Cantando um Conto | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/alimentacao-saudavel-uma-aventura-colorida) |
-| 2026-10-24 | 16:00 | Animal de papel tridimensional com efeito de movimento — Com Célia Harumi, educadora de tecnologias e artes | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/animal-de-papel-tridimensional-com-efeito-de-movimento) |
-| 2026-10-24 | 20:00 | Buar…Que Mulheres! | Teatro Municipal, Sala Palma De Ouro | Salto | R$ 30 | alta | [band](https://www.band.com.br/entretenimento/agenda-sorocaba-22-10) |
-| 2026-10-24 | 08:00 | Circuito CAT SESI 2026 Tênis de Mesa - Sorocaba | Ginásio Sesi Sorocaba | Sorocaba | Grátis | alta | [sesi](https://www.sesisp.org.br/evento/2376e313-89c6-4517-98f0-acb53aba2863/circuito-cat-sesi-2026-tenis-de-mesa) |
-| 2026-10-24 | 12:30 | Clube Leia Mulheres Sorocaba - Rinha de galos, de María Fernanda Ampuero — Com Bruna Bengozi, mediadora do Leia Mulheres Sorocaba | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/clube-leia-mulheres-sorocaba-rinha-de-galos-de-maria-fernanda-ampuero) |
-| 2026-10-24 | 11:30 | Clube de Leitura para crianças: Operação cetro dourado, de Julian Press — Com Alan Pablo, educador do Programa Espaço de Brincar | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/clube-de-leitura-para-criancas) |
-| 2026-10-24 | 16:00 | Com os dois pés na cozinha | Sesc Sorocaba | Sorocaba | Grátis | alta | [band](https://www.band.com.br/entretenimento/agenda-sorocaba-22-10) |
-| 2026-10-24 | 17:00 | Com os dois pés na cozinha — Com coletivo Ajô-Arô | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/com-os-dois-pes-na-cozinha-2) |
-| 2026-10-24 | 22:00 | Comédia de Casa | Black House | Sorocaba | A partir de R$ 15 | alta | [band](https://www.band.com.br/entretenimento/agenda-sorocaba-22-10) |
-| 2026-10-24 | 16:00 | Cuidado com o Curupira bem no alto da Sucupira | Foyer do Teatro do Sesi Itapetininga | Itapetininga | Grátis | alta | [band](https://www.band.com.br/entretenimento/agenda-sorocaba-22-10) |
-| 2026-10-24 | 12:00 | Distribuição de mudas frutíferas | Sesc Sorocaba | Sorocaba | Grátis | alta | [band](https://www.band.com.br/entretenimento/agenda-sorocaba-22-10) |
-| 2026-10-24 | 15:00 | Distribuição de mudas frutíferas — Com Julio Pupim | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/distribuicao-de-mudas-frutiferas) |
-| 2026-10-24 | 20:00 | Dr. Felipe Arthur: Nos Anais da Justiça | Black House | Sorocaba | A partir de R$ 30 | alta | [band](https://www.band.com.br/entretenimento/agenda-sorocaba-22-10) |
-| 2026-10-24 | 19:00 | Ensaio sobre o terror e Elisa em fuga | Sesc Sorocaba | Sorocaba | A partir de R$ 15 | alta | [band](https://www.band.com.br/entretenimento/agenda-sorocaba-22-10) |
-| 2026-10-24 | 19:00 | Ensaio sobre o terror e Elisa em fuga — Com Rodrigo Scarpelli e Thaina Muniz | Sesc Sorocaba | Sorocaba |  | alta | [sesc](https://www.sescsp.org.br/programacao/ensaio-sobre-o-terror-e-elisa-em-fuga) |
-| 2026-10-24 | 10:00 | Feira de alimentos agroecológicos e artesanatos | Sesc Sorocaba | Sorocaba | Grátis | alta | [band](https://www.band.com.br/entretenimento/agenda-sorocaba-22-10) |
-| 2026-10-24 | 15:00 | Feira de alimentos agroecológicos e artesanatos — Com produtores de alimentos agroecológicos e de artesanatos da região de Sorocaba | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/feira-de-alimentos-agroecologicos-e-artesanatos-7) |
-| 2026-10-24 | 19:00 | Frankenstein | Teatro Escola Mario Persico | Sorocaba | R$ 25 | alta | [band](https://www.band.com.br/entretenimento/agenda-sorocaba-22-10) |
-| 2026-10-24 | 12:30 | Móbile de polinização — Com Adriana Tiba, da Associação Instituto Cultural Janela Aberta | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/mobile-de-polinizacao) |
 | 2026-10-24 | 20:00 | Não Somos Amigas | Teatro Yara | Itu | A partir de R$ 40 | alta | [band](https://www.band.com.br/entretenimento/agenda-sorocaba-22-10) |
-| 2026-10-24 | 09:00 | OCA Feira Cultural | Largo de São Bento | Sorocaba | Grátis | alta | [band](https://www.band.com.br/entretenimento/agenda-sorocaba-22-10) |
 | 2026-10-24 | 11:00 | Reconhecendo a Força | Museu de Arte Contemporânea de Sorocaba – Macs | Sorocaba | Grátis | alta | [band](https://www.band.com.br/entretenimento/agenda-sorocaba-22-10) |
-| 2026-10-24 | 16:00 | Sabores da biodiversidade: conhecer para preservar — Com Marli Pedroso, agricultora e pesquisadora independente | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/sabores-da-biodiversidade-conhecer-para-preservar) |
 | 2026-10-25 | 20:00 | Escravos do Desejo | Teatro Escola Mario Persico | Sorocaba | R$ 25 | alta | [band](https://www.band.com.br/entretenimento/agenda-sorocaba-22-10) |
 | 2026-10-25 | 19:00 | Falar é a Melhor Solução | Teatro Escola Mario Persico | Sorocaba | R$ 25 | alta | [band](https://www.band.com.br/entretenimento/agenda-sorocaba-22-10) |
 | 2026-10-25 | 20:00 | Mostra Teatral Barros Jr. | Teatro Municipal, Sala Palma De Ouro | Salto | R$ 30 | alta | [band](https://www.band.com.br/entretenimento/agenda-sorocaba-22-10) |
@@ -119,7 +97,11 @@ Confiança **baixa** = data ou local incertos: confira na fonte antes de aprovar
 | 2026-10-31 | 16:20 | Mãos que sustentam o mundo | SESI Sorocaba | Sorocaba | Grátis | alta | [sesi](https://www.sesisp.org.br/evento/ae1c49c4-d7db-402a-8a2b-c520db92606b/maos-que-sustentam-o-mundo) |
 | 2026-10-31 | 20:00 | Rolando Boldrin, 90 anos de causos | Teatro do SESI Sorocaba | Sorocaba |  | alta | [sesi](https://www.sesisp.org.br/evento/0eed0afb-268f-4ccb-91d2-a48dd1b4c113/rolando-boldrin-90-anos-de-causos) |
 | 2026-10-31 | 20:00 | The roses of garden - mainstream ball — Com a House Avalanx e House of La'Beija | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/the-roses-of-garden-mainstream-ball) |
+| 2026-11-01 | 17:00 | 99 cm — Com Iara Gueller, aerealista e multiartista circense | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/99-cm-4) |
 | 2026-11-01 | 12:00 | Daniel Murray — Violão solo | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/daniel-murray) |
+| 2026-11-01 | 15:30 | Lugares de brincar — Com educadores de atividades infantojuvenis | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/lugares-de-brincar-11) |
+| 2026-11-01 | 13:00 | Miudezas — Com Cia. Vôos | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/miudezas) |
+| 2026-11-01 | 12:30 | Passarinho de fio de lã — Com Angélica Felício, educadora e bióloga, e Rodrigo Bozzola, geógrafo | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/passarinho-de-fio-de-la) |
 | 2026-11-01 | 15:00 | Passeio com o boizinho luzeiro | SESI Sorocaba | Sorocaba | Grátis | alta | [sesi](https://www.sesisp.org.br/evento/55da0fdc-fcb8-4ac6-9aeb-bd23d1c44a66/passeio-com-o-boizinho-luzeiro) |
 | 2026-11-01 | 11:00 | SESI Pipoca - A Revolução dos Bichos | Teatro do SESI Sorocaba | Sorocaba | Grátis | alta | [sesi](https://www.sesisp.org.br/evento/eba7d25a-547e-43a5-b8db-2f1c72716b77/sesi-pipoca-a-revolucao-dos-bichos) |
 | 2026-11-01 | 12:30 | Trabalho Social com Pessoal Idosas - Sesc Sorocaba e Sesc Piracicaba — Com Ana Flores, educadora | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/trabalho-social-com-pessoal-idosas-sesc-sorocaba-e-sesc-piracicaba) |
@@ -133,6 +115,8 @@ Confiança **baixa** = data ou local incertos: confira na fonte antes de aprovar
 | 2026-11-05 | 22:00 | NSABA: Plantas medicinais nas tradições afro-brasileiras — Com Tata Jaga Anzulo, mestre das plantas, Pedro Carlessi, farmacêutico, e Ricardo Souza (Tata Kwame), cientista social | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/nsaba-plantas-medicinais-nas-tradicoes-afro-brasileiras-5) |
 | 2026-11-05 | 13:30 | Ponto de encontro — Com técnicos do Sesc Sorocaba | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/ponto-de-encontro-107) |
 | 2026-11-08 | 17:00 | Banda Sinfônica do Exército Brasileiro — Regente convidado: Dario Sotelo. Solista: Ricardo Camargo – Euphonium | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/banda-sinfonica-do-exercito-brasileiro) |
+| 2026-11-08 | 11:30 | Litera-música para bebês e suas famílias - Mediação de leitura e música — Com Alan Pablo, educador do Programa Espaço de Brincar | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/litera-musica-para-bebes-e-suas-familias-mediacao-de-leitura-e-musica) |
+| 2026-11-08 | 12:30 | Passarinhos de argila — Com Alexandre Anezio, agente de educação ambiental | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/passarinhos-de-argila) |
 | 2026-11-10 | 20:12 | Ar condicionado — Direção: Fradique Angola / Drama / Angola / 72 min. / 2020 / Leg. | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/ar-condicionado) |
 | 2026-11-10 | 21:30 | Cinema em reflexão — Com Marco Antonio Fera, ator, cantor e pesquisador | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/cinema-em-reflexao-13) |
 | 2026-11-10 | 15:00 | SESI Pipoca - A Fada do Dente | Teatro do SESI Sorocaba | Sorocaba | Grátis | alta | [sesi](https://www.sesisp.org.br/evento/99b2a272-f848-401e-a6e5-190d364cdb04/sesi-pipoca-a-fada-do-dente) |
