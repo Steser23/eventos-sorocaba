@@ -1,6 +1,6 @@
 # Eventos para revisar
 
-Atualizado em 2026-10-25. 132 eventos futuros aguardando revisão.
+Atualizado em 2026-10-26. 124 eventos futuros aguardando revisão.
 Confiança **baixa** = data ou local incertos: confira na fonte antes de aprovar.
 
 | Data | Horário | Evento | Local | Cidade | Preço | Confiança | Fonte |
@@ -57,7 +57,6 @@ Confiança **baixa** = data ou local incertos: confira na fonte antes de aprovar
 | 2026-10-03 | 13:30 | LUDUS: Circuito de habilidades — Com equipe Fernando Oliveira | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/ludus-circuito-de-habilidades) |
 | 2026-10-03 | 18:30 | Praião para a família — Com educadores de atividades físico-esportivas | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/praiao-para-a-familia-4) |
 | 2026-10-11 | 11:45 | Esporte adulto - Beach Tênis — Com educadores de atividades físico-esportivas | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/esporte-adulto-beach-tenis) |
-| 2026-10-11 | 10:00 | Manhãs de práticas corporais: mat pilates — Com educadores de atividades físico-esportivas | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/manhas-de-praticas-corporais-mat-pilates) |
 | 2026-10-12 | 13:30 | LUDUS: Circuito de habilidades — Com equipe Fernando Oliveira | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/ludus-circuito-de-habilidades) |
 | 2026-10-14 | 12:00 | Experimentações com monotipia botânica — Com Célia Harumi, educadora de tecnologias e artes | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/experimentacoes-com-monotipia-botanica) |
 | 2026-10-14 | 21:30 | Introdução para impressão 3D — Com Laure Stelmastchuk, pesquisadora e desenvolvedora | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/introducao-para-impressao-3d) |
@@ -65,18 +64,11 @@ Confiança **baixa** = data ou local incertos: confira na fonte antes de aprovar
 | 2026-10-15 | 12:00 | Estêncil em relevo — Com Célia Harumi, educadora de tecnologias e artes | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/estencil-em-relevo) |
 | 2026-10-16 | 21:00 | Faça Você Mesmo _ DIY — Com Célia Harumi e Gleice Sales, educadoras de tecnologias e artes  / Com Tainara Martinsons, especialista em artes gráficas, pintura orgânica e desenho livre (dia 18) | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/faca-voce-mesmo-_-diy-10) |
 | 2026-10-21 | 12:00 | Experimentações com monotipia botânica — Com Célia Harumi, educadora de tecnologias e artes | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/experimentacoes-com-monotipia-botanica) |
-| 2026-10-23 | 10:00 | Do Asfalto ao Pódio | Pátio Cianê Shopping | Sorocaba | Grátis | alta | [band](https://www.band.com.br/entretenimento/agenda-sorocaba-22-10) |
 | 2026-10-23 | 10:00 | Etnogênese – O que é, e o que pode ser | Museu de Arte Contemporânea de Sorocaba – Macs | Sorocaba | Grátis | alta | [band](https://www.band.com.br/entretenimento/agenda-sorocaba-22-10) |
-| 2026-10-23 | 18:00 | Festival Mundo Asiático | Área de Lazer 3 | Ibiúna | Grátis | alta | [band](https://www.band.com.br/entretenimento/agenda-sorocaba-22-10) |
-| 2026-10-23 | 10:00 | Fiteiro Cultural | Museu Histórico Sorocabano | Sorocaba | Grátis | alta | [band](https://www.band.com.br/entretenimento/agenda-sorocaba-22-10) |
 | 2026-10-23 | 16:30 | Fiteiro Cultural — Artista: Fabiana de Barros / Curadoria: Bruna Battistini | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/fiteiro-cultural) |
 | 2026-10-23 | 10:00 | Gravitas | Museu de Arte Contemporânea de Sorocaba – Macs | Sorocaba | Grátis | alta | [band](https://www.band.com.br/entretenimento/agenda-sorocaba-22-10) |
 | 2026-10-23 | 15:30 | Território em escuta — Curadoria: Bruna Battistini | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/territorio-em-escuta) |
-| 2026-10-24 | 20:00 | Não Somos Amigas | Teatro Yara | Itu | A partir de R$ 40 | alta | [band](https://www.band.com.br/entretenimento/agenda-sorocaba-22-10) |
 | 2026-10-24 | 11:00 | Reconhecendo a Força | Museu de Arte Contemporânea de Sorocaba – Macs | Sorocaba | Grátis | alta | [band](https://www.band.com.br/entretenimento/agenda-sorocaba-22-10) |
-| 2026-10-25 | 20:00 | Escravos do Desejo | Teatro Escola Mario Persico | Sorocaba | R$ 25 | alta | [band](https://www.band.com.br/entretenimento/agenda-sorocaba-22-10) |
-| 2026-10-25 | 19:00 | Falar é a Melhor Solução | Teatro Escola Mario Persico | Sorocaba | R$ 25 | alta | [band](https://www.band.com.br/entretenimento/agenda-sorocaba-22-10) |
-| 2026-10-25 | 20:00 | Mostra Teatral Barros Jr. | Teatro Municipal, Sala Palma De Ouro | Salto | R$ 30 | alta | [band](https://www.band.com.br/entretenimento/agenda-sorocaba-22-10) |
 | 2026-10-25 | 11:00 | Tijolo por Tijolo: O que é e o que pode ser o meu território? | Museu de Arte Contemporânea de Sorocaba – Macs | Sorocaba | Grátis | alta | [band](https://www.band.com.br/entretenimento/agenda-sorocaba-22-10) |
 | 2026-10-27 | 14:30 | Cirandas do tempo: vivência em dança modular — Com Juliane Pimenta, gerontóloga | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/cirandas-do-tempo-vivencia-em-danca-modular) |
 | 2026-10-27 | 21:00 | Clube de escrita Sorocaba — Com Gustavo Araújo, escritor | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/clube-de-escrita-sorocaba-12) |
