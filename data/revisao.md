@@ -1,6 +1,6 @@
 # Eventos para revisar
 
-Atualizado em 2026-10-26. 124 eventos futuros aguardando revisão.
+Atualizado em 2026-10-27. 124 eventos futuros aguardando revisão.
 Confiança **baixa** = data ou local incertos: confira na fonte antes de aprovar.
 
 | Data | Horário | Evento | Local | Cidade | Preço | Confiança | Fonte |
