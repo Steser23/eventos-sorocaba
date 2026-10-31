@@ -1,6 +1,6 @@
 # Eventos para revisar
 
-Atualizado em 2026-10-30. 199 eventos futuros aguardando revisão.
+Atualizado em 2026-10-31. 188 eventos futuros aguardando revisão.
 Confiança **baixa** = data ou local incertos: confira na fonte antes de aprovar.
 
 | Data | Horário | Evento | Local | Cidade | Preço | Confiança | Fonte |
@@ -45,7 +45,6 @@ Confiança **baixa** = data ou local incertos: confira na fonte antes de aprovar
 | 2026-09-30 | 11:45 | Esporte para pessoas idosas — Com educadores de atividades físico-esportivas | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/esporte-para-idosos-10) |
 | 2026-09-30 | 12:00 | Movimento Consciente — Com educadores de atividades físico-esportivas | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/movimento-consciente-66) |
 | 2026-10-01 | 11:00 | Hoje é dia de arte, bebê! — Com Alan Pablo, educador do Programa Espaço de Brincar | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/hoje-e-dia-de-arte-bebe-12) |
-| 2026-10-02 | 17:00 | Lê, bebê!!! - Mediação de leitura para bebês e suas famílias — Com Alan Pablo, educador do Programa Espaço de Brincar | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/le-bebe-mediacao-de-leitura-para-bebes-e-suas-familias-10) |
 | 2026-10-02 | 17:30 | Práticas Aquáticas - 3 a 6 anos — Com educadores de atividades físico-esportivas | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/praticas-aquaticas-8) |
 | 2026-10-02 | 18:30 | Sinfonia — Com Pierre Souza Fonseca, artista visual | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/sinfonia-2) |
 | 2026-10-03 | 12:30 | Casinha para passarinhos — Com Angélica Felício, educadora e bióloga e Rodrigo Bozzola, geógrafo | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/casinha-para-passarinhos) |
@@ -55,27 +54,16 @@ Confiança **baixa** = data ou local incertos: confira na fonte antes de aprovar
 | 2026-10-11 | 11:45 | Esporte adulto - Beach Tênis — Com educadores de atividades físico-esportivas | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/esporte-adulto-beach-tenis) |
 | 2026-10-12 | 13:30 | LUDUS: Circuito de habilidades — Com equipe Fernando Oliveira | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/ludus-circuito-de-habilidades) |
 | 2026-10-14 | 21:30 | Introdução para impressão 3D — Com Laure Stelmastchuk, pesquisadora e desenvolvedora | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/introducao-para-impressao-3d) |
-| 2026-10-16 | 21:00 | Faça Você Mesmo _ DIY — Com Célia Harumi e Gleice Sales, educadoras de tecnologias e artes  / Com Tainara Martinsons, especialista em artes gráficas, pintura orgânica e desenho livre (dia 18) | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/faca-voce-mesmo-_-diy-10) |
 | 2026-10-23 | 10:00 | Etnogênese – O que é, e o que pode ser | Museu de Arte Contemporânea de Sorocaba – Macs | Sorocaba | Grátis | alta | [band](https://www.band.com.br/entretenimento/agenda-sorocaba-22-10) |
-| 2026-10-23 | 16:30 | Fiteiro Cultural — Artista: Fabiana de Barros / Curadoria: Bruna Battistini | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/fiteiro-cultural) |
 | 2026-10-23 | 10:00 | Gravitas | Museu de Arte Contemporânea de Sorocaba – Macs | Sorocaba | Grátis | alta | [band](https://www.band.com.br/entretenimento/agenda-sorocaba-22-10) |
-| 2026-10-23 | 15:30 | Território em escuta — Curadoria: Bruna Battistini | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/territorio-em-escuta) |
 | 2026-10-24 | 11:00 | Reconhecendo a Força | Museu de Arte Contemporânea de Sorocaba – Macs | Sorocaba | Grátis | alta | [band](https://www.band.com.br/entretenimento/agenda-sorocaba-22-10) |
 | 2026-10-25 | 11:00 | Tijolo por Tijolo: O que é e o que pode ser o meu território? | Museu de Arte Contemporânea de Sorocaba – Macs | Sorocaba | Grátis | alta | [band](https://www.band.com.br/entretenimento/agenda-sorocaba-22-10) |
 | 2026-10-30 | 19:00 | 12º CineFest de Votorantim | Auditório Municipal Francisco Beranger | Votorantim | Grátis | alta | [band](https://www.band.com.br/entretenimento/agenda-cultural-sorocaba-2910) |
-| 2026-10-30 | 20:00 | André Santi: Faz Stand-up e Bebe Vodka | Black House Clube de Comédia | Sorocaba | a partir de R$ 15 | alta | [band](https://www.band.com.br/entretenimento/agenda-cultural-sorocaba-2910) |
-| 2026-10-30 | 19:30 | Fabiano Cambota | Black House Clube de Comédia | Sorocaba | a partir de R$ 50 | alta | [band](https://www.band.com.br/entretenimento/agenda-cultural-sorocaba-2910) |
 | 2026-10-30 | 16:00 | Festa à Fantasia – Doces ou Travessuras | Parque Campolim | Sorocaba | Grátis | alta | [band](https://www.band.com.br/entretenimento/agenda-cultural-sorocaba-2910) |
 | 2026-10-30 | 10:00 | Gravitas | Museu de Arte Contemporânea de Sorocaba – Macs | Sorocaba | Grátis | alta | [band](https://www.band.com.br/entretenimento/agenda-cultural-sorocaba-2910) |
-| 2026-10-30 | 21:00 | Jaquie Livino Sexteto | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/jaquie-livino-sexteto) |
 | 2026-10-30 | 15:00 | La Trattoria | Teatro do Sesi Sorocaba | Sorocaba | Grátis | alta | [band](https://www.band.com.br/entretenimento/agenda-cultural-sorocaba-2910) |
 | 2026-10-30 | 15:00 | La Trattoria - Los Circo Los | Teatro do SESI Sorocaba | Sorocaba | Grátis | alta | [sesi](https://www.sesisp.org.br/evento/7e43f035-25c7-4c90-b3fe-059f047f644e/la-trattoria) |
-| 2026-10-30 | 17:00 | Lê, bebê!!! - Mediação de leitura para bebês e suas famílias — Com Alan Pablo, educador do Programa Espaço de Brincar | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/le-bebe-mediacao-de-leitura-para-bebes-e-suas-familias-10) |
-| 2026-10-30 |  | Maiara & Maraísa no Festeja Mairinque | Recinto de Eventos | Mairinque | A partir de R$ 55 | alta | [band](https://www.band.com.br/entretenimento/agenda-cultural-sorocaba-2910) |
-| 2026-10-30 |  | Mãos que sustentam o mundo | Teatro do Sesi Sorocaba | Sorocaba | Grátis | alta | [band](https://www.band.com.br/entretenimento/agenda-cultural-sorocaba-2910) |
 | 2026-10-30 | 17:00 | Noite do Terror do Geek Festival Asiático | Praça da Amizade | Sorocaba | Grátis | alta | [band](https://www.band.com.br/entretenimento/agenda-cultural-sorocaba-2910) |
-| 2026-10-30 | 20:00 | Ricca Luz canta Djavan | Teatro do Sesi Itapetininga | Itapetininga | Grátis | alta | [band](https://www.band.com.br/entretenimento/agenda-cultural-sorocaba-2910) |
-| 2026-10-30 | 22:00 | Xanda Dias e Arianna Nutt: Comadres | Black House Clube de Comédia | Sorocaba | a partir de R$ 21 | alta | [band](https://www.band.com.br/entretenimento/agenda-cultural-sorocaba-2910) |
 | 2026-10-31 | 16:00 | Acroshow | Sesc Sorocaba | Sorocaba | Grátis | alta | [band](https://www.band.com.br/entretenimento/agenda-cultural-sorocaba-2910) |
 | 2026-10-31 | 17:00 | Acroshow — Com Cia. Gravitá | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/acroshow-2) |
 | 2026-10-31 | 16:00 | Carimbos de borracha escolar — Com Gleice Sales, educadora de tecnologias e artes | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/carimbos-de-borracha-escolar) |
@@ -139,6 +127,7 @@ Confiança **baixa** = data ou local incertos: confira na fonte antes de aprovar
 | 2026-11-07 | 12:30 | Patrimônio negro em Sorocaba — Com Pedro Carvalho e Wellington Ataide, historiadores e Cícero Santos, pesquisador em literatura | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/patrimonio-negro-em-sorocaba) |
 | 2026-11-07 | 17:00 | Terreiro de terra batida e suas histórias — Com Coco de Muié | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/terreiro-de-terra-batida-e-suas-historias) |
 | 2026-11-08 | 17:00 | Banda Sinfônica do Exército Brasileiro — Regente convidado: Dario Sotelo. Solista: Ricardo Camargo – Euphonium | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/banda-sinfonica-do-exercito-brasileiro) |
+| 2026-11-08 | 17:00 | Banda Sinfônica do Exército Brasileiro — Regente: Eduardo Pereira, Solista: Ricardo Camargo – Euphonium | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/banda-sinfonica-do-exercito-brasileiro) |
 | 2026-11-08 | 11:30 | Litera-música para bebês e suas famílias - Mediação de leitura e música — Com Alan Pablo, educador do Programa Espaço de Brincar | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/litera-musica-para-bebes-e-suas-familias-mediacao-de-leitura-e-musica) |
 | 2026-11-08 | 12:30 | Passarinhos de argila — Com Alexandre Anezio, agente de educação ambiental | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/passarinhos-de-argila) |
 | 2026-11-08 | 18:00 | Saias — Com GiraSaia | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/saias-11) |
