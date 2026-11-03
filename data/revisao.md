@@ -1,6 +1,6 @@
 # Eventos para revisar
 
-Atualizado em 2026-11-02. 152 eventos futuros aguardando revisão.
+Atualizado em 2026-11-03. 143 eventos futuros aguardando revisão.
 Confiança **baixa** = data ou local incertos: confira na fonte antes de aprovar.
 
 | Data | Horário | Evento | Local | Cidade | Preço | Confiança | Fonte |
@@ -54,23 +54,14 @@ Confiança **baixa** = data ou local incertos: confira na fonte antes de aprovar
 | 2026-10-24 | 11:00 | Reconhecendo a Força | Museu de Arte Contemporânea de Sorocaba – Macs | Sorocaba | Grátis | alta | [band](https://www.band.com.br/entretenimento/agenda-sorocaba-22-10) |
 | 2026-10-25 | 11:00 | Tijolo por Tijolo: O que é e o que pode ser o meu território? | Museu de Arte Contemporânea de Sorocaba – Macs | Sorocaba | Grátis | alta | [band](https://www.band.com.br/entretenimento/agenda-sorocaba-22-10) |
 | 2026-10-30 | 19:00 | 12º CineFest de Votorantim | Auditório Municipal Francisco Beranger | Votorantim | Grátis | alta | [band](https://www.band.com.br/entretenimento/agenda-cultural-sorocaba-2910) |
-| 2026-10-30 | 16:00 | Festa à Fantasia – Doces ou Travessuras | Parque Campolim | Sorocaba | Grátis | alta | [band](https://www.band.com.br/entretenimento/agenda-cultural-sorocaba-2910) |
 | 2026-10-30 | 10:00 | Gravitas | Museu de Arte Contemporânea de Sorocaba – Macs | Sorocaba | Grátis | alta | [band](https://www.band.com.br/entretenimento/agenda-cultural-sorocaba-2910) |
-| 2026-10-30 | 17:00 | Noite do Terror do Geek Festival Asiático | Praça da Amizade | Sorocaba | Grátis | alta | [band](https://www.band.com.br/entretenimento/agenda-cultural-sorocaba-2910) |
-| 2026-10-31 | 07:00 | Feira de Finados | Cemitério Municipal | Araçoiaba da Serra | Grátis | alta | [band](https://www.band.com.br/entretenimento/agenda-cultural-sorocaba-2910) |
 | 2026-10-31 | 11:00 | Reconhecendo a Força | Museu de Arte Contemporânea de Sorocaba – Macs | Sorocaba | Grátis | alta | [band](https://www.band.com.br/entretenimento/agenda-cultural-sorocaba-2910) |
 | 2026-11-01 | 12:00 | Faça Você Mesmo _ DIY — Com Célia Harumi e Gleice Sales, educadoras de tecnologias e artes  / Com Tainara Martinsons, especialista em artes gráficas, pintura orgânica e desenho livre (dia 18) | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/faca-voce-mesmo-_-diy-10) |
 | 2026-11-01 | 13:30 | LUDUS: jogos de precisão — Com Tekokatu Eventos | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/ludus-jogos-de-precisao) |
 | 2026-11-01 | 15:30 | Lugares de brincar — Com educadores de atividades infantojuvenis | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/lugares-de-brincar-11) |
 | 2026-11-01 | 10:00 | Manhãs de práticas corporais: Hatha yoga — Com educadores de atividades físico-esportivas | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/manhas-de-praticas-corporais-hatha-yoga) |
-| 2026-11-01 | 13:00 | Miudezas — Com Cia. Vôos | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/miudezas) |
 | 2026-11-01 | 18:30 | Praião para a família — Com educadores de atividades físico-esportivas | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/praiao-para-a-familia-6) |
 | 2026-11-01 | 11:00 | Tijolo por Tijolo: O que é e o que pode ser o meu território? | Museu de Arte Contemporânea de Sorocaba – Macs | Sorocaba | Grátis | baixa | [band](https://www.band.com.br/entretenimento/agenda-cultural-sorocaba-2910) |
-| 2026-11-02 | 16:00 | A Mensagem de Jequi | Sesc Sorocaba | Sorocaba | Grátis | alta | [band](https://www.band.com.br/entretenimento/agenda-cultural-sorocaba-2910) |
-| 2026-11-02 | 17:00 | A mensagem de Jequi — Direção: Igor Amin / Ficção/Infantil / Brasil / 2025 / Leg. + Libras | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/a-mensagem-de-jequi-9) |
-| 2026-11-02 | 17:00 | Elizeth encontra Emílio | Sesc Sorocaba | Sorocaba | Grátis | alta | [band](https://www.band.com.br/entretenimento/agenda-cultural-sorocaba-2910) |
-| 2026-11-02 | 18:00 | Elizeth encontra Emílio — Com Adyel Silva e Pedro Louis | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/elizeth-encontra-emilio) |
-| 2026-11-02 | 12:30 | Miniguia de aves em pano — Com Ressigi - costurando significados | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/miniguia-de-aves-em-pano) |
 | 2026-11-04 | 21:00 | Conversas entre nós: rodas de conversa, trocas e acolhimentos — Com José Henrique Moura e Tom Rodrigues, psicólogos | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/conversas-entre-nos-rodas-de-conversa-trocas-e-acolhimentos-14) |
 | 2026-11-04 | 12:00 | Criação de porta-canetas — Com Ivanilde Monteiro, artesã, professora e pesquisadora | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/criacao-de-porta-canetas) |
 | 2026-11-04 | 15:00 | Reflorestando os sentidos: corpo que conecta (raiz e caule) — Com Giane Carneiro, aromaterapeuta integrativa e educadora | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/reflorestando-os-sentidos-corpo-que-conecta-raiz-e-caule) |
