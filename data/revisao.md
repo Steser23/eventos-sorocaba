@@ -1,6 +1,6 @@
 # Eventos para revisar
 
-Atualizado em 2026-11-04. 143 eventos futuros aguardando revisão.
+Atualizado em 2026-11-05. 140 eventos futuros aguardando revisão.
 Confiança **baixa** = data ou local incertos: confira na fonte antes de aprovar.
 
 | Data | Horário | Evento | Local | Cidade | Preço | Confiança | Fonte |
@@ -21,7 +21,6 @@ Confiança **baixa** = data ou local incertos: confira na fonte antes de aprovar
 | 2026-05-12 | 10:15 | Práticas Aquáticas - a partir de 12 anos — Com educadores de atividades físico-esportivas | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/praticas-aquaticas-10) |
 | 2026-05-23 | 11:30 | Esporte Adulto - Triatlon — Com educadores de atividades físico-esportivas | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/esporte-adulto-triatlon) |
 | 2026-05-27 | 18:00 | Programa Juventudes #Tah Ligado 2026 no Sesc Sorocaba — Com educadores de atividades infantojuvenis | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/juventudes-5) |
-| 2026-08-05 | 21:30 | Educação ambiental e sensibilidade ecológica — Com Vanessa Marconato Negrão, mestre em educação e especialista em educação ambiental, ecologia, literatura infantil e artes, e convidados | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/educacao-ambiental-e-sensibilidade-ecologica) |
 | 2026-09-02 | 20:30 | Fundamento em Libras para espaços de cultura e educação — Com Integra, Profissionalização e Sociabilização do Deficiente Auditivo de Sorocaba | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/fundamento-em-libras-para-espacos-de-cultura-e-educacao) |
 | 2026-09-10 | 22:00 | Incubadora de Estudos Performativos — Com Douglas Emílio, pesquisador e doutor em dança e performance | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/incubadora-de-estudos-performativos) |
 | 2026-09-10 | 22:00 | Inscrições abertas: Incubadora de Estudos Performativos — Com Douglas Emílio, pesquisador e doutor em dança e performance | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/incubadora-de-estudos-performativos) |
@@ -31,7 +30,6 @@ Confiança **baixa** = data ou local incertos: confira na fonte antes de aprovar
 | 2026-09-12 | 15:45 | Vôlei de Areia | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/volei-de-areia-3) |
 | 2026-09-12 | 16:15 | Vôlei misto — Com mediação de equipe Sesc. | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/volei) |
 | 2026-09-13 | 17:15 | Futsal Feminino — Com mediação de equipe Sesc. | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/futsal-feminino-11) |
-| 2026-09-23 | 21:30 | Educação ambiental e sensibilidade ecológica — Com Vanessa Marconato Negrão, mestre em educação e especialista em educação ambiental, ecologia, literatura infantil e artes, e convidados | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/educacao-ambiental-e-sensibilidade-ecologica) |
 | 2026-09-29 | 21:30 | Esporte Adulto - Futevôlei — Com educadores de atividades físico-esportivas | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/clube-do-futevolei) |
 | 2026-09-29 | 21:30 | Esporte Adulto - Futsal — Com educadores de atividades físico-esportivas | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/esporte-adulto-futsal) |
 | 2026-09-29 | 11:00 | Esporte Criança - 6 a 10 anos — Com educadores de atividades físico-esportivas | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/esporte-crianca-15) |
@@ -48,7 +46,6 @@ Confiança **baixa** = data ou local incertos: confira na fonte antes de aprovar
 | 2026-10-02 | 18:30 | Sinfonia — Com Pierre Souza Fonseca, artista visual | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/sinfonia-2) |
 | 2026-10-10 | 21:30 | Sinfonia — Com Pierre Souza Fonseca, artista visual | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/sinfonia-2) |
 | 2026-10-11 | 11:45 | Esporte adulto - Beach Tênis — Com educadores de atividades físico-esportivas | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/esporte-adulto-beach-tenis) |
-| 2026-10-14 | 21:30 | Introdução para impressão 3D — Com Laure Stelmastchuk, pesquisadora e desenvolvedora | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/introducao-para-impressao-3d) |
 | 2026-10-23 | 10:00 | Etnogênese – O que é, e o que pode ser | Museu de Arte Contemporânea de Sorocaba – Macs | Sorocaba | Grátis | alta | [band](https://www.band.com.br/entretenimento/agenda-sorocaba-22-10) |
 | 2026-10-23 | 10:00 | Gravitas | Museu de Arte Contemporânea de Sorocaba – Macs | Sorocaba | Grátis | alta | [band](https://www.band.com.br/entretenimento/agenda-sorocaba-22-10) |
 | 2026-10-24 | 11:00 | Reconhecendo a Força | Museu de Arte Contemporânea de Sorocaba – Macs | Sorocaba | Grátis | alta | [band](https://www.band.com.br/entretenimento/agenda-sorocaba-22-10) |
@@ -64,7 +61,6 @@ Confiança **baixa** = data ou local incertos: confira na fonte antes de aprovar
 | 2026-11-01 | 11:00 | Tijolo por Tijolo: O que é e o que pode ser o meu território? | Museu de Arte Contemporânea de Sorocaba – Macs | Sorocaba | Grátis | baixa | [band](https://www.band.com.br/entretenimento/agenda-cultural-sorocaba-2910) |
 | 2026-11-04 | 21:00 | Conversas entre nós: rodas de conversa, trocas e acolhimentos — Com José Henrique Moura e Tom Rodrigues, psicólogos | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/conversas-entre-nos-rodas-de-conversa-trocas-e-acolhimentos-14) |
 | 2026-11-04 | 12:00 | Criação de porta-canetas — Com Ivanilde Monteiro, artesã, professora e pesquisadora | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/criacao-de-porta-canetas) |
-| 2026-11-04 | 15:00 | Reflorestando os sentidos: corpo que conecta (raiz e caule) — Com Giane Carneiro, aromaterapeuta integrativa e educadora | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/reflorestando-os-sentidos-corpo-que-conecta-raiz-e-caule) |
 | 2026-11-04 | 21:30 | Reflorestando os sentidos: uma conexão entre plantas, aromas, corpo e sentidos — Com Giane Carneiro, aromaterapeuta integrativa e educadora | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/reflorestando-os-sentidos-uma-conexao-entre-plantas-aromas-corpo-e-sentidos) |
 | 2026-11-05 | 20:00 | Abayomi'n - Saberes e sabores ancestrais - Eparrey! — Direção: Reinaldo Lima / Documentário / Brasil / 2025 | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/abayomin-saberes-e-sabores-ancestrais-eparrey) |
 | 2026-11-05 | 17:00 | Cabra-Cega - Sessão especial e bate-papo com a atriz — Com Débora Duboc, atriz | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/cabra-cega-sessao-especial-e-bate-papo-com-a-atriz) |
@@ -145,6 +141,7 @@ Confiança **baixa** = data ou local incertos: confira na fonte antes de aprovar
 | 2026-11-29 | 18:00 | Furacão — Com Amok Teatro | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/furacao-2) |
 | 2026-11-29 | 15:00 | Olelê brincando Bantu — Com Fabio Mukanya, pesquisador, músico e arte-educador | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/olele-brincando-bantu) |
 | 2026-11-29 | 17:00 | Pé no chão, boca no verso — Com Xirê de Quintal | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/pe-no-chao-boca-no-verso) |
+| 2026-11-30 | 21:00 | O Casarão da Rainha Fantasma - Isabella Beninca | SESI Sorocaba | Sorocaba | Grátis | alta | [sesi](https://www.sesisp.org.br/evento/a16ec4c2-0d7c-415c-8440-864b8a263509/o-casarao-da-rainha-fantasma) |
 | 2026-12-06 | 18:30 | Inscrições para a III Feira de jovens empreendedores | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/palco-aberto-com-feira-de-empreendedores-jovens) |
 | 2026-12-06 | 18:30 | Inscrições para o Palco Aberto de dezembro | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/inscricoes-para-o-palco-aberto-de-maio) |
 | 2026-12-09 | 23:59 | Tradições Caiçaras - Paraty (RJ) | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/tradicoes-caicaras-nos-arredores-de-paraty-3) |

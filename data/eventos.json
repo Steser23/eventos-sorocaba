@@ -5740,6 +5740,26 @@
     "id": "5e18838a68ce"
   },
   {
+    "titulo": "O Casarão da Rainha Fantasma - Isabella Beninca",
+    "fonte": "sesi",
+    "link_fonte": "https://www.sesisp.org.br/evento/a16ec4c2-0d7c-415c-8440-864b8a263509/o-casarao-da-rainha-fantasma",
+    "data_inicio": "2026-11-30",
+    "data_fim": "2026-11-30",
+    "horario": "21:00",
+    "local": "SESI Sorocaba",
+    "endereco": "Rua Gustavo Teixeira, 369 - Vila Independência",
+    "cidade": "Sorocaba",
+    "preco": null,
+    "gratuito": true,
+    "categoria": "exposição",
+    "descricao": "Exposição digital imersiva da artista Isabella Beninca explorando arquitetura surreal e natureza.",
+    "cancelado": false,
+    "confianca": "alta",
+    "status": "pendente_revisao",
+    "coletado_em": "2026-11-05T10:11:10+00:00",
+    "id": "9506a466746e"
+  },
+  {
     "titulo": "Inscrições para a III Feira de jovens empreendedores",
     "fonte": "sesc",
     "link_fonte": "https://www.sescsp.org.br/programacao/palco-aberto-com-feira-de-empreendedores-jovens",
