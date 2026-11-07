@@ -1,6 +1,6 @@
 # Eventos para revisar
 
-Atualizado em 2026-11-06. 161 eventos futuros aguardando revisão.
+Atualizado em 2026-11-07. 156 eventos futuros aguardando revisão.
 Confiança **baixa** = data ou local incertos: confira na fonte antes de aprovar.
 
 | Data | Horário | Evento | Local | Cidade | Preço | Confiança | Fonte |
@@ -65,14 +65,8 @@ Confiança **baixa** = data ou local incertos: confira na fonte antes de aprovar
 | 2026-11-04 | 09:00 | Mostra PLAY! - Arte Interativa Urbana | Praça Coronel Antônio Franco | Boituva | Grátis | alta | [band](https://www.band.com.br/entretenimento/sorocaba-agenda-cultural-511) |
 | 2026-11-04 | 21:30 | Reflorestando os sentidos: uma conexão entre plantas, aromas, corpo e sentidos — Com Giane Carneiro, aromaterapeuta integrativa e educadora | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/reflorestando-os-sentidos-uma-conexao-entre-plantas-aromas-corpo-e-sentidos) |
 | 2026-11-05 | 22:00 | NSABA: Plantas medicinais nas tradições afro-brasileiras — Com Tata Jaga Anzulo, mestre das plantas, Pedro Carlessi, farmacêutico, e Ricardo Souza (Tata Kwame), cientista social | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/nsaba-plantas-medicinais-nas-tradicoes-afro-brasileiras-5) |
-| 2026-11-06 | 15:00 | A Farra dos Bichos | Teatro do Sesi Itapetininga | Itapetininga | Grátis | alta | [band](https://www.band.com.br/entretenimento/sorocaba-agenda-cultural-511) |
-| 2026-11-06 | 11:30 | AcessibilizARTE — Com João Mendes, intérprete de Libras | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/acessibilizarte) |
-| 2026-11-06 | 19:00 | Como ouvir Música Clássica – Egberto Gismonti | Unesp Sorocaba | Sorocaba | Grátis | alta | [band](https://www.band.com.br/entretenimento/sorocaba-agenda-cultural-511) |
 | 2026-11-06 | 10:00 | Etnogênese – O que é, e o que pode ser | Museu de Arte Contemporânea de Sorocaba – Macs | Sorocaba | Grátis | alta | [band](https://www.band.com.br/entretenimento/sorocaba-agenda-cultural-511) |
 | 2026-11-06 | 10:00 | Gravitas | Museu de Arte Contemporânea de Sorocaba – Macs | Sorocaba | Grátis | alta | [band](https://www.band.com.br/entretenimento/sorocaba-agenda-cultural-511) |
-| 2026-11-06 | 21:00 | Jazz Combo do Conservatório de Tatuí convida Fábio Leal | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/jazz-combo-do-conservatorio-de-tatui-convida-fabio-leal) |
-| 2026-11-06 | 21:00 | Lançamento: Revista Latente — Com Marília Scarabello, Sylvia Werneck, Camila Fontenele, Bella Tozini, Nelson Simplício e Elielton Ribeiro. Mediação: Equipe da Revista Latente | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/lancamento-revista-latente) |
-| 2026-11-06 | 17:00 | Orixás em movimento: vivência em animação quadro-a-quadro — Com Célia Harumi, educadora de tecnologias e artes | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/orixas-em-movimento-vivencia-em-animacao-quadro-a-quadro-2) |
 | 2026-11-07 | 19:00 | Baile Iorubrá | Sesc Sorocaba | Sorocaba | Grátis | alta | [band](https://www.band.com.br/entretenimento/sorocaba-agenda-cultural-511) |
 | 2026-11-07 | 20:00 | Baile Iorubrá — Com DJ Easy Nylon e Cia. Charme 015 | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/baile-iorubra) |
 | 2026-11-07 | 14:00 | Carimbos e Padrões do Conhecimento | Foyer do Teatro do Sesi Itapetininga | Itapetininga | Grátis | alta | [band](https://www.band.com.br/entretenimento/sorocaba-agenda-cultural-511) |
@@ -142,6 +136,7 @@ Confiança **baixa** = data ou local incertos: confira na fonte antes de aprovar
 | 2026-11-21 | 20:00 | [Fé]sta — Com Coletivo Prot{agô}nistas | Sesc Sorocaba | Sorocaba |  | alta | [sesc](https://www.sescsp.org.br/programacao/festa-6) |
 | 2026-11-22 | 16:00 | A menina do candeeiro — Com Cia. EmbarcAções Teatrais / Direção: Cecília Schucman | Sesc Sorocaba | Sorocaba |  | alta | [sesc](https://www.sescsp.org.br/programacao/a-menina-do-candeeiro-4) |
 | 2026-11-22 | 18:00 | Luccas Folha & Nyatta — Meio Período / Participação: Yá Rosa | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/luccas-folha-nyatta) |
+| 2026-11-22 | 19:00 | SESI Pipoca - D.P.A. 4 - O Fantástico Reino de Ondion | Ginásio Sesi Sorocaba | Sorocaba | Grátis | alta | [sesi](https://www.sesisp.org.br/evento/cf8bfdbf-1a5e-4059-934e-b639c649348a/sesi-pipoca-dpa-4-o-fantastico-reino-de-ondion) |
 | 2026-11-24 | 21:00 | Clube de escrita Sorocaba — Com Cacau Braga, escritora e produtora cultural | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/clube-de-escrita-sorocaba-12) |
 | 2026-11-24 | 20:38 | Nossa Senhora da loja do chinês — Direção: Ery Claver / Drama / Angola / 98 min. / 2022 / Leg. | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/nossa-senhora-da-loja-do-chines) |
 | 2026-11-25 | 13:00 | A arte de encantar e contar histórias para todas as infâncias — Com Filipe Macedo, escritor, educador e contador de histórias | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/a-arte-de-encantar-e-contar-historias-para-todas-as-infancias) |
