@@ -1,6 +1,6 @@
 # Eventos para revisar
 
-Atualizado em 2026-11-08. 140 eventos futuros aguardando revisão.
+Atualizado em 2026-11-09. 128 eventos futuros aguardando revisão.
 Confiança **baixa** = data ou local incertos: confira na fonte antes de aprovar.
 
 | Data | Horário | Evento | Local | Cidade | Preço | Confiança | Fonte |
@@ -60,26 +60,14 @@ Confiança **baixa** = data ou local incertos: confira na fonte antes de aprovar
 | 2026-11-01 | 11:00 | Tijolo por Tijolo: O que é e o que pode ser o meu território? | Museu de Arte Contemporânea de Sorocaba – Macs | Sorocaba | Grátis | baixa | [band](https://www.band.com.br/entretenimento/agenda-cultural-sorocaba-2910) |
 | 2026-11-04 | 21:00 | Conversas entre nós: rodas de conversa, trocas e acolhimentos — Com José Henrique Moura e Tom Rodrigues, psicólogos | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/conversas-entre-nos-rodas-de-conversa-trocas-e-acolhimentos-14) |
 | 2026-11-04 | 12:00 | Criação de porta-canetas — Com Ivanilde Monteiro, artesã, professora e pesquisadora | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/criacao-de-porta-canetas) |
-| 2026-11-04 | 09:00 | Mostra PLAY! - Arte Interativa Urbana | Praça Coronel Antônio Franco | Boituva | Grátis | alta | [band](https://www.band.com.br/entretenimento/sorocaba-agenda-cultural-511) |
 | 2026-11-04 | 21:30 | Reflorestando os sentidos: uma conexão entre plantas, aromas, corpo e sentidos — Com Giane Carneiro, aromaterapeuta integrativa e educadora | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/reflorestando-os-sentidos-uma-conexao-entre-plantas-aromas-corpo-e-sentidos) |
 | 2026-11-05 | 22:00 | NSABA: Plantas medicinais nas tradições afro-brasileiras — Com Tata Jaga Anzulo, mestre das plantas, Pedro Carlessi, farmacêutico, e Ricardo Souza (Tata Kwame), cientista social | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/nsaba-plantas-medicinais-nas-tradicoes-afro-brasileiras-5) |
 | 2026-11-06 | 10:00 | Etnogênese – O que é, e o que pode ser | Museu de Arte Contemporânea de Sorocaba – Macs | Sorocaba | Grátis | alta | [band](https://www.band.com.br/entretenimento/sorocaba-agenda-cultural-511) |
 | 2026-11-06 | 10:00 | Gravitas | Museu de Arte Contemporânea de Sorocaba – Macs | Sorocaba | Grátis | alta | [band](https://www.band.com.br/entretenimento/sorocaba-agenda-cultural-511) |
 | 2026-11-07 | 12:30 | Patrimônio negro em Sorocaba — Com Pedro Carvalho e Wellington Ataide, historiadores e Cícero Santos, pesquisador em literatura | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/patrimonio-negro-em-sorocaba) |
 | 2026-11-07 | 11:00 | Reconhecendo a Força | Museu de Arte Contemporânea de Sorocaba – Macs | Sorocaba | Grátis | alta | [band](https://www.band.com.br/entretenimento/sorocaba-agenda-cultural-511) |
-| 2026-11-07 | 10:30 | Trem Rio Claro | Estação Paula Souza | Sorocaba | R$ 35 | alta | [band](https://www.band.com.br/entretenimento/sorocaba-agenda-cultural-511) |
-| 2026-11-08 | 20:00 | A Noite do Boto | Teatro Escola Mario Persico | Sorocaba | R$ 25 | alta | [band](https://www.band.com.br/entretenimento/sorocaba-agenda-cultural-511) |
-| 2026-11-08 | 16:00 | Amados da Bahia | Foyer do Teatro do Sesi Itapetininga | Itapetininga | Grátis | alta | [band](https://www.band.com.br/entretenimento/sorocaba-agenda-cultural-511) |
-| 2026-11-08 | 17:00 | Banda Sinfônica do Exército Brasileiro — Regente convidado: Dario Sotelo. Solista: Ricardo Camargo – Euphonium | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/banda-sinfonica-do-exercito-brasileiro) |
-| 2026-11-08 | 17:00 | Banda Sinfônica do Exército Brasileiro — Regente: Eduardo Pereira, Solista: Ricardo Camargo – Euphonium | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/banda-sinfonica-do-exercito-brasileiro) |
-| 2026-11-08 | 19:00 | Bode Rir | Black House Clube de Comédia | Sorocaba | R$ 50 | alta | [band](https://www.band.com.br/entretenimento/sorocaba-agenda-cultural-511) |
-| 2026-11-08 | 11:30 | Desenhos do Futuro e da Aprendizagem | Foyer do Teatro do Sesi Itapetininga | Itapetininga | Grátis | alta | [band](https://www.band.com.br/entretenimento/sorocaba-agenda-cultural-511) |
 | 2026-11-08 | 11:30 | Litera-música para bebês e suas famílias - Mediação de leitura e música — Com Alan Pablo, educador do Programa Espaço de Brincar | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/litera-musica-para-bebes-e-suas-familias-mediacao-de-leitura-e-musica) |
-| 2026-11-08 | 14:00 | Natureza em Traços e Cores | Foyer do Teatro do Sesi Itapetininga | Itapetininga | Grátis | alta | [band](https://www.band.com.br/entretenimento/sorocaba-agenda-cultural-511) |
 | 2026-11-08 | 12:30 | Passarinhos de argila — Com Alexandre Anezio, agente de educação ambiental | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/passarinhos-de-argila) |
-| 2026-11-08 | 17:00 | Saias | Sesc Sorocaba | Sorocaba | Grátis | alta | [band](https://www.band.com.br/entretenimento/sorocaba-agenda-cultural-511) |
-| 2026-11-08 | 18:00 | Saias — Com GiraSaia | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/saias-11) |
-| 2026-11-08 | 10:00 | Sesi Pipoca – Os Inseparáveis | Foyer do Teatro do Sesi Itapetininga | Itapetininga | Grátis | alta | [band](https://www.band.com.br/entretenimento/sorocaba-agenda-cultural-511) |
 | 2026-11-08 | 11:00 | Tijolo por Tijolo: O que é e o que pode ser o meu território? | Museu de Arte Contemporânea de Sorocaba – Macs | Sorocaba | Grátis | alta | [band](https://www.band.com.br/entretenimento/sorocaba-agenda-cultural-511) |
 | 2026-11-10 | 20:12 | Ar condicionado — Direção: Fradique Angola / Drama / Angola / 72 min. / 2020 / Leg. | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/ar-condicionado) |
 | 2026-11-10 | 19:00 | Caravana Esportiva de Voleibol — Com Fofão, ex-atleta olímpica de voleibol. Mediação: Josiane Grunewald Marangon, ex-jogadora e atual árbitra da CBV | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/caravana-esportiva-de-voleibol) |
