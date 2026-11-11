@@ -1,6 +1,6 @@
 # Eventos para revisar
 
-Atualizado em 2026-11-10. 128 eventos futuros aguardando revisão.
+Atualizado em 2026-11-11. 126 eventos futuros aguardando revisão.
 Confiança **baixa** = data ou local incertos: confira na fonte antes de aprovar.
 
 | Data | Horário | Evento | Local | Cidade | Preço | Confiança | Fonte |
@@ -69,10 +69,8 @@ Confiança **baixa** = data ou local incertos: confira na fonte antes de aprovar
 | 2026-11-08 | 11:30 | Litera-música para bebês e suas famílias - Mediação de leitura e música — Com Alan Pablo, educador do Programa Espaço de Brincar | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/litera-musica-para-bebes-e-suas-familias-mediacao-de-leitura-e-musica) |
 | 2026-11-08 | 12:30 | Passarinhos de argila — Com Alexandre Anezio, agente de educação ambiental | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/passarinhos-de-argila) |
 | 2026-11-08 | 11:00 | Tijolo por Tijolo: O que é e o que pode ser o meu território? | Museu de Arte Contemporânea de Sorocaba – Macs | Sorocaba | Grátis | alta | [band](https://www.band.com.br/entretenimento/sorocaba-agenda-cultural-511) |
-| 2026-11-10 | 20:12 | Ar condicionado — Direção: Fradique Angola / Drama / Angola / 72 min. / 2020 / Leg. | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/ar-condicionado) |
 | 2026-11-10 | 19:00 | Caravana Esportiva de Voleibol — Com Fofão, ex-atleta olímpica de voleibol. Mediação: Josiane Grunewald Marangon, ex-jogadora e atual árbitra da CBV | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/caravana-esportiva-de-voleibol) |
 | 2026-11-10 | 21:30 | Cinema em reflexão — Com Marco Antonio Fera, ator, cantor e pesquisador | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/cinema-em-reflexao-13) |
-| 2026-11-10 | 15:00 | SESI Pipoca - A Fada do Dente | Teatro do SESI Sorocaba | Sorocaba | Grátis | alta | [sesi](https://www.sesisp.org.br/evento/99b2a272-f848-401e-a6e5-190d364cdb04/sesi-pipoca-a-fada-do-dente) |
 | 2026-11-11 | 15:00 | Reflorestando os sentidos: corpo que me sustenta e movimenta (folhas) — Com Giane Carneiro, aromaterapeuta integrativa e educadora | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/reflorestando-os-sentidos-corpo-que-me-sustenta-e-movimenta-folhas) |
 | 2026-11-12 | 21:00 | Autoras: literatura nos vestibulares — Com Maria Teresa Ferreira, escritora e psicanalista / Mediação: Janete Campos, professora de literatura | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/autoras-literatura-nos-vestibulares) |
 | 2026-11-12 | 14:30 | Corpo presente, vida em movimento - Yoga 60+ — Com Tatiana Perez, educadora de atividade físico-esportiva | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/corpo-presente-vida-em-movimento-yoga-60) |
