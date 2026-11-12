@@ -1,6 +1,6 @@
 # Eventos para revisar
 
-Atualizado em 2026-11-11. 126 eventos futuros aguardando revisão.
+Atualizado em 2026-11-12. 124 eventos futuros aguardando revisão.
 Confiança **baixa** = data ou local incertos: confira na fonte antes de aprovar.
 
 | Data | Horário | Evento | Local | Cidade | Preço | Confiança | Fonte |
@@ -59,7 +59,6 @@ Confiança **baixa** = data ou local incertos: confira na fonte antes de aprovar
 | 2026-11-01 | 18:30 | Praião para a família — Com educadores de atividades físico-esportivas | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/praiao-para-a-familia-6) |
 | 2026-11-01 | 11:00 | Tijolo por Tijolo: O que é e o que pode ser o meu território? | Museu de Arte Contemporânea de Sorocaba – Macs | Sorocaba | Grátis | baixa | [band](https://www.band.com.br/entretenimento/agenda-cultural-sorocaba-2910) |
 | 2026-11-04 | 21:00 | Conversas entre nós: rodas de conversa, trocas e acolhimentos — Com José Henrique Moura e Tom Rodrigues, psicólogos | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/conversas-entre-nos-rodas-de-conversa-trocas-e-acolhimentos-14) |
-| 2026-11-04 | 12:00 | Criação de porta-canetas — Com Ivanilde Monteiro, artesã, professora e pesquisadora | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/criacao-de-porta-canetas) |
 | 2026-11-04 | 21:30 | Reflorestando os sentidos: uma conexão entre plantas, aromas, corpo e sentidos — Com Giane Carneiro, aromaterapeuta integrativa e educadora | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/reflorestando-os-sentidos-uma-conexao-entre-plantas-aromas-corpo-e-sentidos) |
 | 2026-11-05 | 22:00 | NSABA: Plantas medicinais nas tradições afro-brasileiras — Com Tata Jaga Anzulo, mestre das plantas, Pedro Carlessi, farmacêutico, e Ricardo Souza (Tata Kwame), cientista social | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/nsaba-plantas-medicinais-nas-tradicoes-afro-brasileiras-5) |
 | 2026-11-06 | 10:00 | Etnogênese – O que é, e o que pode ser | Museu de Arte Contemporânea de Sorocaba – Macs | Sorocaba | Grátis | alta | [band](https://www.band.com.br/entretenimento/sorocaba-agenda-cultural-511) |
@@ -71,7 +70,6 @@ Confiança **baixa** = data ou local incertos: confira na fonte antes de aprovar
 | 2026-11-08 | 11:00 | Tijolo por Tijolo: O que é e o que pode ser o meu território? | Museu de Arte Contemporânea de Sorocaba – Macs | Sorocaba | Grátis | alta | [band](https://www.band.com.br/entretenimento/sorocaba-agenda-cultural-511) |
 | 2026-11-10 | 19:00 | Caravana Esportiva de Voleibol — Com Fofão, ex-atleta olímpica de voleibol. Mediação: Josiane Grunewald Marangon, ex-jogadora e atual árbitra da CBV | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/caravana-esportiva-de-voleibol) |
 | 2026-11-10 | 21:30 | Cinema em reflexão — Com Marco Antonio Fera, ator, cantor e pesquisador | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/cinema-em-reflexao-13) |
-| 2026-11-11 | 15:00 | Reflorestando os sentidos: corpo que me sustenta e movimenta (folhas) — Com Giane Carneiro, aromaterapeuta integrativa e educadora | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/reflorestando-os-sentidos-corpo-que-me-sustenta-e-movimenta-folhas) |
 | 2026-11-12 | 21:00 | Autoras: literatura nos vestibulares — Com Maria Teresa Ferreira, escritora e psicanalista / Mediação: Janete Campos, professora de literatura | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/autoras-literatura-nos-vestibulares) |
 | 2026-11-12 | 14:30 | Corpo presente, vida em movimento - Yoga 60+ — Com Tatiana Perez, educadora de atividade físico-esportiva | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/corpo-presente-vida-em-movimento-yoga-60) |
 | 2026-11-12 | 17:00 | Escultura de memória — Com Lúcia Maria, artista visual | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/escultura-de-memoria) |
