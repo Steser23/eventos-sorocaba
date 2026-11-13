@@ -2,7 +2,8 @@
   "band": {
     "https://www.band.com.br/entretenimento/agenda-sorocaba-22-10": "9eab4ce52656bee0f9699aaaabc6b37e9f7780ac38852d6490f8d604d30782f9",
     "https://www.band.com.br/entretenimento/agenda-cultural-sorocaba-2910": "5d3bbca0a09aa68a83ac398854474972853c1259af976ff882afcc119fc8d282",
-    "https://www.band.com.br/entretenimento/sorocaba-agenda-cultural-511": "452277fc24bec4d1035002d1f7c6913dc09f78357a1ca7fe4424103a702a52fe"
+    "https://www.band.com.br/entretenimento/sorocaba-agenda-cultural-511": "452277fc24bec4d1035002d1f7c6913dc09f78357a1ca7fe4424103a702a52fe",
+    "https://www.band.com.br/entretenimento/agenda-cultural-sorocaba-1111": "05bb27c2a852d5a4e33b9eb526cc05d247015f53a998ac85dcbc834ee0143edc"
   },
   "sesi": {
     "https://www.sesisp.org.br/evento/7e43f035-25c7-4c90-b3fe-059f047f644e/la-trattoria": "99d611de05d4824ebec25adea7c74d892901c043fa4a0425edd4bb89f063b05c",
@@ -32,6 +33,7 @@
     "https://www.sesisp.org.br/evento/b9750ba3-7f15-41c7-ada6-706126fecc61/inventario-das-pequenas-coisas": "9308c5e7bc9c12ad8c38d0c6f73f72b65fa82fd0e81c8a54ca610f24426e0fd3",
     "https://www.sesisp.org.br/evento/2376e313-89c6-4517-98f0-acb53aba2863/circuito-cat-sesi-2026-tenis-de-mesa": "f6a4b8ea216e01067b3ddb067f95b2606407390a30ca2ccb703d8e3cff2b8b73",
     "https://www.sesisp.org.br/evento/a16ec4c2-0d7c-415c-8440-864b8a263509/o-casarao-da-rainha-fantasma": "5102c835cb62094a715f796fd5e4e93dea452be4c203fb42aaa4aa980de472f2",
-    "https://www.sesisp.org.br/evento/cf8bfdbf-1a5e-4059-934e-b639c649348a/sesi-pipoca-dpa-4-o-fantastico-reino-de-ondion": "f50e6ef3d67baa3a4dbf3e47877fa1122c12e30ec9703126aa7a3cc0a3675d7d"
+    "https://www.sesisp.org.br/evento/cf8bfdbf-1a5e-4059-934e-b639c649348a/sesi-pipoca-dpa-4-o-fantastico-reino-de-ondion": "f50e6ef3d67baa3a4dbf3e47877fa1122c12e30ec9703126aa7a3cc0a3675d7d",
+    "https://www.sesisp.org.br/evento/a365799d-2a99-4250-adaa-d758ecb49315/cinema-na-piscina-dpa-4-o-fantastico-reino-de-ondion-sesi-pipoca": "a6d2db8c2c004c94c6cbb44bafaf95447396d4a38603a24e828e7e897d4e9b5d"
   }
 }
