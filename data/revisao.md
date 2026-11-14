@@ -1,6 +1,6 @@
 # Eventos para revisar
 
-Atualizado em 2026-11-13. 159 eventos futuros aguardando revisão.
+Atualizado em 2026-11-14. 152 eventos futuros aguardando revisão.
 Confiança **baixa** = data ou local incertos: confira na fonte antes de aprovar.
 
 | Data | Horário | Evento | Local | Cidade | Preço | Confiança | Fonte |
@@ -68,7 +68,6 @@ Confiança **baixa** = data ou local incertos: confira na fonte antes de aprovar
 | 2026-11-08 | 11:30 | Litera-música para bebês e suas famílias - Mediação de leitura e música — Com Alan Pablo, educador do Programa Espaço de Brincar | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/litera-musica-para-bebes-e-suas-familias-mediacao-de-leitura-e-musica) |
 | 2026-11-08 | 12:30 | Passarinhos de argila — Com Alexandre Anezio, agente de educação ambiental | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/passarinhos-de-argila) |
 | 2026-11-08 | 11:00 | Tijolo por Tijolo: O que é e o que pode ser o meu território? | Museu de Arte Contemporânea de Sorocaba – Macs | Sorocaba | Grátis | alta | [band](https://www.band.com.br/entretenimento/sorocaba-agenda-cultural-511) |
-| 2026-11-10 | 19:00 | Caravana Esportiva de Voleibol — Com Fofão, ex-atleta olímpica de voleibol. Mediação: Josiane Grunewald Marangon, ex-jogadora e atual árbitra da CBV | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/caravana-esportiva-de-voleibol) |
 | 2026-11-10 | 21:30 | Cinema em reflexão — Com Marco Antonio Fera, ator, cantor e pesquisador | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/cinema-em-reflexao-13) |
 | 2026-11-12 | 12:00 | Burning Fest – Batalha de Assadores | Praça Washington Luís | Itu | Grátis | alta | [band](https://www.band.com.br/entretenimento/agenda-cultural-sorocaba-1111) |
 | 2026-11-12 | 14:30 | Corpo presente, vida em movimento - Yoga 60+ — Com Tatiana Perez, educadora de atividade físico-esportiva | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/corpo-presente-vida-em-movimento-yoga-60) |
@@ -76,14 +75,8 @@ Confiança **baixa** = data ou local incertos: confira na fonte antes de aprovar
 | 2026-11-12 | 12:00 | Estamparia têxtil e costura de echarpe com referências da África Ocidental — Com Célia Harumi, educadora de tecnologias e artes | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/estamparia-textil-e-costura-de-echarpe-com-referencias-da-africa-ocidental) |
 | 2026-11-12 | 10:00 | Gravitas | Museu de Arte Contemporânea de Sorocaba – Macs | Sorocaba | Grátis | alta | [band](https://www.band.com.br/entretenimento/agenda-cultural-sorocaba-1111) |
 | 2026-11-12 | 08:00 | O Hip-Hop na Capital da Música | Centro Cultural de Tatuí – Edifício Alvorada | Tatuí | Grátis | alta | [band](https://www.band.com.br/entretenimento/agenda-cultural-sorocaba-1111) |
-| 2026-11-13 | 13:30 | A República em cena: visita mediada, leitura e bordado | Museu Republicano de Itu | Itu | Grátis | alta | [band](https://www.band.com.br/entretenimento/agenda-cultural-sorocaba-1111) |
-| 2026-11-13 | 20:00 | Gustavo Cunha - Aula Experimental | Black House Clube de Comédia | Sorocaba | A partir de R$ 21 | alta | [band](https://www.band.com.br/entretenimento/agenda-cultural-sorocaba-1111) |
-| 2026-11-13 | 23:30 | Nil Agra - 40 Anos Sem Paciência | Black House Clube de Comédia | Sorocaba | A partir de R$ 21 | alta | [band](https://www.band.com.br/entretenimento/agenda-cultural-sorocaba-1111) |
 | 2026-11-13 | 15:00 | O Fingidor | Teatro do SESI Sorocaba | Sorocaba | Grátis | alta | [sesi](https://www.sesisp.org.br/evento/5e020f83-2482-4cc0-92c7-956d0936ab6f/o-fingidor) |
 | 2026-11-13 | 15:00 | O Mundo Colorido dos Alimentos | Teatro do Sesi Itapetininga | Itapetininga | Grátis | alta | [band](https://www.band.com.br/entretenimento/agenda-cultural-sorocaba-1111) |
-| 2026-11-13 | 21:30 | Os Alquimistas estão chegando: som e negritude em “A Tábua de Esmeralda" — Com Wellington Ataíde e Daniel Azevedo, historiadores, e Maurício de Souza Mafra, cientista social / Intervenções musicais: Banda Júlio e os Alquimistas | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/os-alquimistas-estao-chegando-som-e-negritude-em-a-tabua-de-esmeralda) |
-| 2026-11-13 | 19:00 | Os Alquimistas estão chegando: som e negritude em “A Tábua de Esmeralda” | Sesc Sorocaba | Sorocaba | Grátis | alta | [band](https://www.band.com.br/entretenimento/agenda-cultural-sorocaba-1111) |
-| 2026-11-13 | 18:00 | Sacada Cultural – Tributo The Beatles | Chalé Francês | Sorocaba | Grátis | alta | [band](https://www.band.com.br/entretenimento/agenda-cultural-sorocaba-1111) |
 | 2026-11-14 | 11:00 | 8ª Feira da Vila Operária | Praça Pio XII | Sorocaba | Grátis | alta | [band](https://www.band.com.br/entretenimento/agenda-cultural-sorocaba-1111) |
 | 2026-11-14 | 15:00 | Amados da Bahia | Externo Teatro Sorocaba | Sorocaba | Grátis | alta | [sesi](https://www.sesisp.org.br/evento/b094284c-2dc8-4d47-8b7f-025188e5b28a/amados-da-bahia) |
 | 2026-11-14 | 15:00 | Amados da Bahia | Área externa do Teatro do Sesi Sorocaba | Sorocaba | Grátis | alta | [band](https://www.band.com.br/entretenimento/agenda-cultural-sorocaba-1111) |
