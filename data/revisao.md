@@ -1,6 +1,6 @@
 # Eventos para revisar
 
-Atualizado em 2026-11-14. 152 eventos futuros aguardando revisão.
+Atualizado em 2026-11-15. 128 eventos futuros aguardando revisão.
 Confiança **baixa** = data ou local incertos: confira na fonte antes de aprovar.
 
 | Data | Horário | Evento | Local | Cidade | Preço | Confiança | Fonte |
@@ -48,10 +48,8 @@ Confiança **baixa** = data ou local incertos: confira na fonte antes de aprovar
 | 2026-10-11 | 11:45 | Esporte adulto - Beach Tênis — Com educadores de atividades físico-esportivas | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/esporte-adulto-beach-tenis) |
 | 2026-10-23 | 10:00 | Etnogênese – O que é, e o que pode ser | Museu de Arte Contemporânea de Sorocaba – Macs | Sorocaba | Grátis | alta | [band](https://www.band.com.br/entretenimento/agenda-sorocaba-22-10) |
 | 2026-10-23 | 10:00 | Gravitas | Museu de Arte Contemporânea de Sorocaba – Macs | Sorocaba | Grátis | alta | [band](https://www.band.com.br/entretenimento/agenda-sorocaba-22-10) |
-| 2026-10-24 | 11:00 | Reconhecendo a Força | Museu de Arte Contemporânea de Sorocaba – Macs | Sorocaba | Grátis | alta | [band](https://www.band.com.br/entretenimento/agenda-sorocaba-22-10) |
 | 2026-10-25 | 11:00 | Tijolo por Tijolo: O que é e o que pode ser o meu território? | Museu de Arte Contemporânea de Sorocaba – Macs | Sorocaba | Grátis | alta | [band](https://www.band.com.br/entretenimento/agenda-sorocaba-22-10) |
 | 2026-10-30 | 10:00 | Gravitas | Museu de Arte Contemporânea de Sorocaba – Macs | Sorocaba | Grátis | alta | [band](https://www.band.com.br/entretenimento/agenda-cultural-sorocaba-2910) |
-| 2026-10-31 | 11:00 | Reconhecendo a Força | Museu de Arte Contemporânea de Sorocaba – Macs | Sorocaba | Grátis | alta | [band](https://www.band.com.br/entretenimento/agenda-cultural-sorocaba-2910) |
 | 2026-11-01 | 12:00 | Faça Você Mesmo _ DIY — Com Célia Harumi e Gleice Sales, educadoras de tecnologias e artes  / Com Tainara Martinsons, especialista em artes gráficas, pintura orgânica e desenho livre (dia 18) | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/faca-voce-mesmo-_-diy-10) |
 | 2026-11-01 | 13:30 | LUDUS: jogos de precisão — Com Tekokatu Eventos | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/ludus-jogos-de-precisao) |
 | 2026-11-01 | 15:30 | Lugares de brincar — Com educadores de atividades infantojuvenis | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/lugares-de-brincar-11) |
@@ -63,8 +61,6 @@ Confiança **baixa** = data ou local incertos: confira na fonte antes de aprovar
 | 2026-11-05 | 22:00 | NSABA: Plantas medicinais nas tradições afro-brasileiras — Com Tata Jaga Anzulo, mestre das plantas, Pedro Carlessi, farmacêutico, e Ricardo Souza (Tata Kwame), cientista social | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/nsaba-plantas-medicinais-nas-tradicoes-afro-brasileiras-5) |
 | 2026-11-06 | 10:00 | Etnogênese – O que é, e o que pode ser | Museu de Arte Contemporânea de Sorocaba – Macs | Sorocaba | Grátis | alta | [band](https://www.band.com.br/entretenimento/sorocaba-agenda-cultural-511) |
 | 2026-11-06 | 10:00 | Gravitas | Museu de Arte Contemporânea de Sorocaba – Macs | Sorocaba | Grátis | alta | [band](https://www.band.com.br/entretenimento/sorocaba-agenda-cultural-511) |
-| 2026-11-07 | 12:30 | Patrimônio negro em Sorocaba — Com Pedro Carvalho e Wellington Ataide, historiadores e Cícero Santos, pesquisador em literatura | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/patrimonio-negro-em-sorocaba) |
-| 2026-11-07 | 11:00 | Reconhecendo a Força | Museu de Arte Contemporânea de Sorocaba – Macs | Sorocaba | Grátis | alta | [band](https://www.band.com.br/entretenimento/sorocaba-agenda-cultural-511) |
 | 2026-11-08 | 11:30 | Litera-música para bebês e suas famílias - Mediação de leitura e música — Com Alan Pablo, educador do Programa Espaço de Brincar | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/litera-musica-para-bebes-e-suas-familias-mediacao-de-leitura-e-musica) |
 | 2026-11-08 | 12:30 | Passarinhos de argila — Com Alexandre Anezio, agente de educação ambiental | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/passarinhos-de-argila) |
 | 2026-11-08 | 11:00 | Tijolo por Tijolo: O que é e o que pode ser o meu território? | Museu de Arte Contemporânea de Sorocaba – Macs | Sorocaba | Grátis | alta | [band](https://www.band.com.br/entretenimento/sorocaba-agenda-cultural-511) |
@@ -77,29 +73,8 @@ Confiança **baixa** = data ou local incertos: confira na fonte antes de aprovar
 | 2026-11-12 | 08:00 | O Hip-Hop na Capital da Música | Centro Cultural de Tatuí – Edifício Alvorada | Tatuí | Grátis | alta | [band](https://www.band.com.br/entretenimento/agenda-cultural-sorocaba-1111) |
 | 2026-11-13 | 15:00 | O Fingidor | Teatro do SESI Sorocaba | Sorocaba | Grátis | alta | [sesi](https://www.sesisp.org.br/evento/5e020f83-2482-4cc0-92c7-956d0936ab6f/o-fingidor) |
 | 2026-11-13 | 15:00 | O Mundo Colorido dos Alimentos | Teatro do Sesi Itapetininga | Itapetininga | Grátis | alta | [band](https://www.band.com.br/entretenimento/agenda-cultural-sorocaba-1111) |
-| 2026-11-14 | 11:00 | 8ª Feira da Vila Operária | Praça Pio XII | Sorocaba | Grátis | alta | [band](https://www.band.com.br/entretenimento/agenda-cultural-sorocaba-1111) |
-| 2026-11-14 | 15:00 | Amados da Bahia | Externo Teatro Sorocaba | Sorocaba | Grátis | alta | [sesi](https://www.sesisp.org.br/evento/b094284c-2dc8-4d47-8b7f-025188e5b28a/amados-da-bahia) |
-| 2026-11-14 | 15:00 | Amados da Bahia | Área externa do Teatro do Sesi Sorocaba | Sorocaba | Grátis | alta | [band](https://www.band.com.br/entretenimento/agenda-cultural-sorocaba-1111) |
-| 2026-11-14 | 16:00 | Bordando no papel — Com Erick Azevedo, arte-educador, arquiteto e urbanista | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/bordando-no-papel-4) |
-| 2026-11-14 | 15:00 | Churrasco On Fire com Fernando & Sorocaba | Uzna | Sorocaba | A partir de R$ 270 | alta | [band](https://www.band.com.br/entretenimento/agenda-cultural-sorocaba-1111) |
-| 2026-11-14 | 12:30 | Clube Leia Mulheres Sorocaba - Caminhando com os mortos, de Micheliny Verunschk — Com Bruna Bengozi, mediadora do Leia Mulheres Sorocaba | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/clube-leia-mulheres-sorocaba-caminhando-com-os-mortos-de-micheliny-verunschk) |
-| 2026-11-14 | 16:00 | Dan – o que conta o arco-íris | Sesc Sorocaba | Sorocaba | Grátis | alta | [band](https://www.band.com.br/entretenimento/agenda-cultural-sorocaba-1111) |
-| 2026-11-14 | 17:00 | Dan: o que conta o arco-íris — Com Marina Costa, contadora de histórias | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/dan-o-que-conta-o-arco-iris-4) |
-| 2026-11-14 | 19:00 | Entrevista com o Vampiro | Teatro Escola Mario Persico | Sorocaba | R$ 25 | alta | [band](https://www.band.com.br/entretenimento/agenda-cultural-sorocaba-1111) |
 | 2026-11-14 | 09:00 | Feira Beneficente de Orquídeas | Parque Ecológico “Collemar de Miranda Botto” | Piedade | Grátis | alta | [band](https://www.band.com.br/entretenimento/agenda-cultural-sorocaba-1111) |
-| 2026-11-14 | 20:00 | Floresta De Odé — Com Cia. Treme Terra | Sesc Sorocaba | Sorocaba |  | alta | [sesc](https://www.sescsp.org.br/programacao/floresta-de-ode) |
-| 2026-11-14 | 20:00 | Florestas de Odé | Sesc Sorocaba | Sorocaba | A partir de R$ 15 | alta | [band](https://www.band.com.br/entretenimento/agenda-cultural-sorocaba-1111) |
-| 2026-11-14 | 23:30 | Kedny Silva - Terapia de Casal | Black House Clube de Comédia | Sorocaba | A partir de R$ 21 | alta | [band](https://www.band.com.br/entretenimento/agenda-cultural-sorocaba-1111) |
-| 2026-11-14 | 10:00 | Lançamento do livro 'Os Cultivadores da Terra' | Centro de Estudos do Museu Republicano de Itu | Itu | Grátis | alta | [band](https://www.band.com.br/entretenimento/agenda-cultural-sorocaba-1111) |
-| 2026-11-14 | 11:00 | Mel Moreira canta Rita Lee | Praça da Matriz | Tatuí | Grátis | alta | [band](https://www.band.com.br/entretenimento/agenda-cultural-sorocaba-1111) |
-| 2026-11-14 | 10:00 | Oficina de Bonecos para Crianças | Espaço Alternativo do Sesi Itapetininga | Itapetininga | Grátis | alta | [band](https://www.band.com.br/entretenimento/agenda-cultural-sorocaba-1111) |
-| 2026-11-14 | 20:00 | Oscar Filho - Autobiografia Não Autorizada | Black House Clube de Comédia | Sorocaba | A partir de R$ 24 | alta | [band](https://www.band.com.br/entretenimento/agenda-cultural-sorocaba-1111) |
-| 2026-11-14 | 10:30 | Quadros de plumas | Sesc Sorocaba | Sorocaba | Grátis | alta | [band](https://www.band.com.br/entretenimento/agenda-cultural-sorocaba-1111) |
-| 2026-11-14 | 12:30 | Quadros de plumas — Com Ressigi - costurando significados | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/quadros-de-plumas) |
-| 2026-11-14 | 11:00 | Reconhecendo a Força | Museu de Arte Contemporânea de Sorocaba – Macs | Sorocaba | Grátis | alta | [band](https://www.band.com.br/entretenimento/agenda-cultural-sorocaba-1111) |
-| 2026-11-14 | 13:00 | Remédio: não usou, descartou! — Com equipe de estudantes de medicina da UNIP Sorocaba | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/remedio-nao-usou-descartou) |
 | 2026-11-14 | 18:00 | Residência - Deriva Criativa "Meu peito é uma rua!" — Com Teatro Kunyn | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/residencia-deriva-criativa-meu-peito-e-uma-rua) |
-| 2026-11-14 | 21:00 | Show Almir Sater - 70 Anos | Parque Maeda | Itu | A partir de R$ 149,50 | alta | [band](https://www.band.com.br/entretenimento/agenda-cultural-sorocaba-1111) |
 | 2026-11-15 | 14:00 | 3ª Conexão Cultural Jovem | Casa da Juventude | Boituva | Grátis | alta | [band](https://www.band.com.br/entretenimento/agenda-cultural-sorocaba-1111) |
 | 2026-11-15 | 16:00 | Afrohits - Toada para erês — Com Grupo Trança de Teatro / Direção: Aysha Nascimento | Sesc Sorocaba | Sorocaba |  | alta | [sesc](https://www.sescsp.org.br/programacao/afrohits-toada-para-eres-6) |
 | 2026-11-15 | 16:00 | Afrohits – Toada para Erês | Sesc Sorocaba | Sorocaba | A partir de R$ 12 | alta | [band](https://www.band.com.br/entretenimento/agenda-cultural-sorocaba-1111) |
@@ -148,6 +123,7 @@ Confiança **baixa** = data ou local incertos: confira na fonte antes de aprovar
 | 2026-11-28 | 17:00 | Deriva performativa: Asfalto rasgado — Com Uýra Sodoma | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/deriva-performativa-asfalto-rasgado) |
 | 2026-11-28 | 12:00 | Libras pintadas: arte e língua de sinais — Com Jéssica Iara e Priscila Campos, mediadoras educacionais, professoras e intérpretes de Libras | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/libras-pintadas-arte-e-lingua-de-sinais) |
 | 2026-11-28 | 12:30 | Passarinhos: como sobrevivem? — Com Giulia Passarinha, bióloga | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/passarinhos-como-sobrevivem) |
+| 2026-11-28 | 20:00 | Tributo aos meus heróis musicais | Teatro do SESI Sorocaba | Sorocaba | Grátis | alta | [sesi](https://www.sesisp.org.br/evento/42ced32e-f71d-45ab-afc1-19b01d626da0/tributo-aos-meus-herois-musicais) |
 | 2026-11-28 | 17:00 | Vai! Vai!! Vai!!! — Com Antonio Mendoza, o payaso Chungo Malungo | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/vai-vai-vai) |
 | 2026-11-29 | 12:30 | Enxergando como um passarinho — Com Giulia Passarinha, bióloga | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/enxergando-como-um-passarinho) |
 | 2026-11-29 | 18:00 | Furacão — Com Amok Teatro | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/furacao-2) |
