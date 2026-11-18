@@ -1,6 +1,6 @@
 # Eventos para revisar
 
-Atualizado em 2026-11-17. 99 eventos futuros aguardando revisão.
+Atualizado em 2026-11-18. 97 eventos futuros aguardando revisão.
 Confiança **baixa** = data ou local incertos: confira na fonte antes de aprovar.
 
 | Data | Horário | Evento | Local | Cidade | Preço | Confiança | Fonte |
@@ -63,8 +63,6 @@ Confiança **baixa** = data ou local incertos: confira na fonte antes de aprovar
 | 2026-11-12 | 08:00 | O Hip-Hop na Capital da Música | Centro Cultural de Tatuí – Edifício Alvorada | Tatuí | Grátis | alta | [band](https://www.band.com.br/entretenimento/agenda-cultural-sorocaba-1111) |
 | 2026-11-14 | 18:00 | Residência - Deriva Criativa "Meu peito é uma rua!" — Com Teatro Kunyn | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/residencia-deriva-criativa-meu-peito-e-uma-rua) |
 | 2026-11-15 | 13:00 | Batucada de primeira — Com Macamba N'Goma, grupo afro-indígena de arte-educação | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/batucada-de-primeira) |
-| 2026-11-17 | 19:00 | Mostra Aí: O grande espetáculo | Teatro do SESI Sorocaba | Sorocaba | Grátis | alta | [sesi](https://www.sesisp.org.br/evento/e48fc087-9028-4fe0-a9e0-6bcdd8ef6ff4/mostra-ai-o-grande-espetaculo) |
-| 2026-11-17 | 20:07 | Para lá dos meus passos — Direção: Kamy Lara / Documentário / Angola / 67 min. / 2019 / Leg. | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/para-la-dos-meus-passos) |
 | 2026-11-18 | 21:00 | Ancestralidade e afrofuturos: vozes de contrafluxo na luta antirracista — Com Marco Pereira, psicólogo/pesquisador, Gabrelu, cantor/artista, e Prof.ª Chavosa, educação/NEAB/UFSCar. Curadoria e mediação: Daia Moura, pesquisadora/atriz. Relatoria artística: Tainara Oliveira, poeta/SLAM 015 | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/ancestralidade-e-afrofuturos-vozes-de-contrafluxo-na-luta-antirracista) |
 | 2026-11-18 | 12:00 | Confecção de caderno — Com Ivanilde Monteiro, artesã, professora e pesquisadora | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/confeccao-de-caderno) |
 | 2026-11-18 | 15:00 | Reflorestando os sentidos: afetos, expansão e ciclicidade (flores e frutos) — Com Giane Carneiro, aromaterapeuta integrativa e educadora | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/reflorestando-os-sentidos-afetos-expansao-e-ciclicidade-flores-e-frutos) |
