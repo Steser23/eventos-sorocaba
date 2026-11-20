@@ -1,6 +1,6 @@
 # Eventos para revisar
 
-Atualizado em 2026-11-19. 124 eventos futuros aguardando revisão.
+Atualizado em 2026-11-20. 123 eventos futuros aguardando revisão.
 Confiança **baixa** = data ou local incertos: confira na fonte antes de aprovar.
 
 | Data | Horário | Evento | Local | Cidade | Preço | Confiança | Fonte |
@@ -51,7 +51,6 @@ Confiança **baixa** = data ou local incertos: confira na fonte antes de aprovar
 | 2026-11-01 | 10:00 | Manhãs de práticas corporais: Hatha yoga — Com educadores de atividades físico-esportivas | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/manhas-de-praticas-corporais-hatha-yoga) |
 | 2026-11-01 | 18:30 | Praião para a família — Com educadores de atividades físico-esportivas | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/praiao-para-a-familia-6) |
 | 2026-11-04 | 21:30 | Reflorestando os sentidos: uma conexão entre plantas, aromas, corpo e sentidos — Com Giane Carneiro, aromaterapeuta integrativa e educadora | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/reflorestando-os-sentidos-uma-conexao-entre-plantas-aromas-corpo-e-sentidos) |
-| 2026-11-05 | 22:00 | NSABA: Plantas medicinais nas tradições afro-brasileiras — Com Tata Jaga Anzulo, mestre das plantas, Pedro Carlessi, farmacêutico, e Ricardo Souza (Tata Kwame), cientista social | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/nsaba-plantas-medicinais-nas-tradicoes-afro-brasileiras-5) |
 | 2026-11-08 | 11:30 | Litera-música para bebês e suas famílias - Mediação de leitura e música — Com Alan Pablo, educador do Programa Espaço de Brincar | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/litera-musica-para-bebes-e-suas-familias-mediacao-de-leitura-e-musica) |
 | 2026-11-08 | 12:30 | Passarinhos de argila — Com Alexandre Anezio, agente de educação ambiental | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/passarinhos-de-argila) |
 | 2026-11-10 | 21:30 | Cinema em reflexão — Com Marco Antonio Fera, ator, cantor e pesquisador | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/cinema-em-reflexao-13) |
@@ -69,7 +68,6 @@ Confiança **baixa** = data ou local incertos: confira na fonte antes de aprovar
 | 2026-11-19 | 19:00 | Natal Luz na Praça | Praça do Jardim Magnólia | Sorocaba | Grátis | baixa | [band](https://www.band.com.br/entretenimento/agenda-sorocaba-19-11) |
 | 2026-11-19 | 08:00 | O Hip-Hop na Capital da Música | Centro Cultural de Tatuí – Edifício Alvorada | Tatuí | Grátis | alta | [band](https://www.band.com.br/entretenimento/agenda-sorocaba-19-11) |
 | 2026-11-19 | 12:00 | O Pequeno Príncipe – 80 Anos | Iguatemi Esplanada, Ala Sul | Votorantim | R$ 20 a R$ 50 | baixa | [band](https://www.band.com.br/entretenimento/agenda-sorocaba-19-11) |
-| 2026-11-19 | 20:00 | Patrick Maia - Não Respeita Os Peixes | Black House Clube de Comédia | Sorocaba | A partir de R$ 15 | alta | [band](https://www.band.com.br/entretenimento/agenda-sorocaba-19-11) |
 | 2026-11-20 | 20:00 | André Smith - Quebrando Demanda | Black House Clube de Comédia | Sorocaba | A partir de R$ 21 | alta | [band](https://www.band.com.br/entretenimento/agenda-sorocaba-19-11) |
 | 2026-11-20 | 13:30 | Celebração do Dia da Consciência Negra | CAT Sesi Itu | Itu | Grátis | alta | [band](https://www.band.com.br/entretenimento/agenda-sorocaba-19-11) |
 | 2026-11-20 | 22:00 | Davi Villa Real - TCC: Terapia da Comédia Comportamental | Black House Clube de Comédia | Sorocaba | A partir de R$ 30 | alta | [band](https://www.band.com.br/entretenimento/agenda-sorocaba-19-11) |
@@ -122,6 +120,7 @@ Confiança **baixa** = data ou local incertos: confira na fonte antes de aprovar
 | 2026-11-28 | 20:00 | Tributo aos meus heróis musicais | Teatro do SESI Sorocaba | Sorocaba | Grátis | alta | [sesi](https://www.sesisp.org.br/evento/42ced32e-f71d-45ab-afc1-19b01d626da0/tributo-aos-meus-herois-musicais) |
 | 2026-11-28 | 17:00 | Vai! Vai!! Vai!!! — Com Antonio Mendoza, o payaso Chungo Malungo | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/vai-vai-vai) |
 | 2026-11-29 | 12:30 | Enxergando como um passarinho — Com Giulia Passarinha, bióloga | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/enxergando-como-um-passarinho) |
+| 2026-11-29 | 08:30 | Festival de Ginástica Artística | Ginásio Sesi Sorocaba | Sorocaba | Grátis | alta | [sesi](https://www.sesisp.org.br/evento/7d5da9fd-6afa-4ea4-9ba5-8ff56ea80597/festival-de-ginastica-artistica) |
 | 2026-11-29 | 18:00 | Furacão — Com Amok Teatro | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/furacao-2) |
 | 2026-11-29 | 15:00 | Olelê brincando Bantu — Com Fabio Mukanya, pesquisador, músico e arte-educador | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/olele-brincando-bantu) |
 | 2026-11-29 | 17:00 | Pé no chão, boca no verso — Com Xirê de Quintal | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/pe-no-chao-boca-no-verso) |
