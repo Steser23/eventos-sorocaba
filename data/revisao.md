@@ -1,6 +1,6 @@
 # Eventos para revisar
 
-Atualizado em 2026-11-20. 123 eventos futuros aguardando revisão.
+Atualizado em 2026-11-21. 113 eventos futuros aguardando revisão.
 Confiança **baixa** = data ou local incertos: confira na fonte antes de aprovar.
 
 | Data | Horário | Evento | Local | Cidade | Preço | Confiança | Fonte |
@@ -68,20 +68,10 @@ Confiança **baixa** = data ou local incertos: confira na fonte antes de aprovar
 | 2026-11-19 | 19:00 | Natal Luz na Praça | Praça do Jardim Magnólia | Sorocaba | Grátis | baixa | [band](https://www.band.com.br/entretenimento/agenda-sorocaba-19-11) |
 | 2026-11-19 | 08:00 | O Hip-Hop na Capital da Música | Centro Cultural de Tatuí – Edifício Alvorada | Tatuí | Grátis | alta | [band](https://www.band.com.br/entretenimento/agenda-sorocaba-19-11) |
 | 2026-11-19 | 12:00 | O Pequeno Príncipe – 80 Anos | Iguatemi Esplanada, Ala Sul | Votorantim | R$ 20 a R$ 50 | baixa | [band](https://www.band.com.br/entretenimento/agenda-sorocaba-19-11) |
-| 2026-11-20 | 20:00 | André Smith - Quebrando Demanda | Black House Clube de Comédia | Sorocaba | A partir de R$ 21 | alta | [band](https://www.band.com.br/entretenimento/agenda-sorocaba-19-11) |
-| 2026-11-20 | 13:30 | Celebração do Dia da Consciência Negra | CAT Sesi Itu | Itu | Grátis | alta | [band](https://www.band.com.br/entretenimento/agenda-sorocaba-19-11) |
-| 2026-11-20 | 22:00 | Davi Villa Real - TCC: Terapia da Comédia Comportamental | Black House Clube de Comédia | Sorocaba | A partir de R$ 30 | alta | [band](https://www.band.com.br/entretenimento/agenda-sorocaba-19-11) |
 | 2026-11-20 | 16:00 | Estampando Adinkras — Com Célia Harumi, educadora de tecnologias e artes | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/estampando-adinkras) |
 | 2026-11-20 | 14:00 | Estampando adinkras | Sesc Sorocaba | Sorocaba | Grátis | alta | [band](https://www.band.com.br/entretenimento/agenda-sorocaba-19-11) |
-| 2026-11-20 | 13:00 | Feira Crespa | Parque das Águas | Sorocaba | Grátis | alta | [band](https://www.band.com.br/entretenimento/agenda-sorocaba-19-11) |
 | 2026-11-20 | 10:00 | Feira de Artesanato e Cultural | Beco Centro Cultural | Sorocaba | Grátis | alta | [band](https://www.band.com.br/entretenimento/agenda-sorocaba-19-11) |
-| 2026-11-20 | 19:40 | Hugo Rafael na Feira Crespa | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/hugo-rafael-na-feira-crespa) |
-| 2026-11-20 | 18:40 | Hugo Rafael na Feira Crespa | Parque das Águas | Sorocaba | Grátis | alta | [band](https://www.band.com.br/entretenimento/agenda-sorocaba-19-11) |
-| 2026-11-20 | 16:00 | O circo da lona torta | Sesc Sorocaba | Sorocaba | Grátis | alta | [band](https://www.band.com.br/entretenimento/agenda-sorocaba-19-11) |
-| 2026-11-20 | 17:00 | O circo da lona torta — Com Circo da Lona Preta | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/o-circo-da-lona-torta-8) |
 | 2026-11-20 | 10:30 | Passarinhos de argila | Sesc Sorocaba | Sorocaba | Grátis | alta | [band](https://www.band.com.br/entretenimento/agenda-sorocaba-19-11) |
-| 2026-11-20 | 11:00 | Pequenas Notáveis - Carolina de Jesus | SESI Sorocaba | Sorocaba | Grátis | alta | [sesi](https://www.sesisp.org.br/evento/e9bab2dd-0c93-4ef3-91af-05b88989f9f1/pequenas-notaveis-carolina-de-jesus) |
-| 2026-11-20 | 11:00 | Pequenas Notáveis – Carolina de Jesus | Teatro do Sesi Sorocaba | Sorocaba | Grátis | alta | [band](https://www.band.com.br/entretenimento/agenda-sorocaba-19-11) |
 | 2026-11-20 | 21:00 | Toc Toc – Obsessivamente Divertido | Teatro Municipal Teotônio Vilela | Sorocaba | A partir de R$ 80 | alta | [band](https://www.band.com.br/entretenimento/agenda-sorocaba-19-11) |
 | 2026-11-21 | 16:00 | Bate o pé, roda o coco | Sesc Sorocaba | Sorocaba | Grátis | alta | [band](https://www.band.com.br/entretenimento/agenda-sorocaba-19-11) |
 | 2026-11-21 | 17:00 | Bate o pé, roda o coco — Com Coco de Muié | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/bate-o-pe-roda-o-coco-2) |
