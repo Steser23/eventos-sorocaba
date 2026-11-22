@@ -1,6 +1,6 @@
 # Eventos para revisar
 
-Atualizado em 2026-11-21. 113 eventos futuros aguardando revisão.
+Atualizado em 2026-11-22. 101 eventos futuros aguardando revisão.
 Confiança **baixa** = data ou local incertos: confira na fonte antes de aprovar.
 
 | Data | Horário | Evento | Local | Cidade | Preço | Confiança | Fonte |
@@ -52,7 +52,6 @@ Confiança **baixa** = data ou local incertos: confira na fonte antes de aprovar
 | 2026-11-01 | 18:30 | Praião para a família — Com educadores de atividades físico-esportivas | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/praiao-para-a-familia-6) |
 | 2026-11-04 | 21:30 | Reflorestando os sentidos: uma conexão entre plantas, aromas, corpo e sentidos — Com Giane Carneiro, aromaterapeuta integrativa e educadora | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/reflorestando-os-sentidos-uma-conexao-entre-plantas-aromas-corpo-e-sentidos) |
 | 2026-11-08 | 11:30 | Litera-música para bebês e suas famílias - Mediação de leitura e música — Com Alan Pablo, educador do Programa Espaço de Brincar | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/litera-musica-para-bebes-e-suas-familias-mediacao-de-leitura-e-musica) |
-| 2026-11-08 | 12:30 | Passarinhos de argila — Com Alexandre Anezio, agente de educação ambiental | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/passarinhos-de-argila) |
 | 2026-11-10 | 21:30 | Cinema em reflexão — Com Marco Antonio Fera, ator, cantor e pesquisador | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/cinema-em-reflexao-13) |
 | 2026-11-12 | 14:30 | Corpo presente, vida em movimento - Yoga 60+ — Com Tatiana Perez, educadora de atividade físico-esportiva | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/corpo-presente-vida-em-movimento-yoga-60) |
 | 2026-11-12 | 17:00 | Escultura de memória — Com Lúcia Maria, artista visual | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/escultura-de-memoria) |
@@ -68,20 +67,7 @@ Confiança **baixa** = data ou local incertos: confira na fonte antes de aprovar
 | 2026-11-19 | 19:00 | Natal Luz na Praça | Praça do Jardim Magnólia | Sorocaba | Grátis | baixa | [band](https://www.band.com.br/entretenimento/agenda-sorocaba-19-11) |
 | 2026-11-19 | 08:00 | O Hip-Hop na Capital da Música | Centro Cultural de Tatuí – Edifício Alvorada | Tatuí | Grátis | alta | [band](https://www.band.com.br/entretenimento/agenda-sorocaba-19-11) |
 | 2026-11-19 | 12:00 | O Pequeno Príncipe – 80 Anos | Iguatemi Esplanada, Ala Sul | Votorantim | R$ 20 a R$ 50 | baixa | [band](https://www.band.com.br/entretenimento/agenda-sorocaba-19-11) |
-| 2026-11-20 | 16:00 | Estampando Adinkras — Com Célia Harumi, educadora de tecnologias e artes | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/estampando-adinkras) |
-| 2026-11-20 | 14:00 | Estampando adinkras | Sesc Sorocaba | Sorocaba | Grátis | alta | [band](https://www.band.com.br/entretenimento/agenda-sorocaba-19-11) |
 | 2026-11-20 | 10:00 | Feira de Artesanato e Cultural | Beco Centro Cultural | Sorocaba | Grátis | alta | [band](https://www.band.com.br/entretenimento/agenda-sorocaba-19-11) |
-| 2026-11-20 | 10:30 | Passarinhos de argila | Sesc Sorocaba | Sorocaba | Grátis | alta | [band](https://www.band.com.br/entretenimento/agenda-sorocaba-19-11) |
-| 2026-11-20 | 21:00 | Toc Toc – Obsessivamente Divertido | Teatro Municipal Teotônio Vilela | Sorocaba | A partir de R$ 80 | alta | [band](https://www.band.com.br/entretenimento/agenda-sorocaba-19-11) |
-| 2026-11-21 | 16:00 | Bate o pé, roda o coco | Sesc Sorocaba | Sorocaba | Grátis | alta | [band](https://www.band.com.br/entretenimento/agenda-sorocaba-19-11) |
-| 2026-11-21 | 17:00 | Bate o pé, roda o coco — Com Coco de Muié | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/bate-o-pe-roda-o-coco-2) |
-| 2026-11-21 | 22:00 | Caio Morelli - Conselheiro Amoroso | Black House Clube de Comédia | Sorocaba | A partir de R$ 15 | alta | [band](https://www.band.com.br/entretenimento/agenda-sorocaba-19-11) |
-| 2026-11-21 | 20:00 | Daniel Murillo Show | Black House Clube de Comédia | Sorocaba | A partir de R$ 30 | alta | [band](https://www.band.com.br/entretenimento/agenda-sorocaba-19-11) |
-| 2026-11-21 | 18:00 | O Quebra-Nozes | Teatro Temec | Itu | R$ 100 | alta | [band](https://www.band.com.br/entretenimento/agenda-sorocaba-19-11) |
-| 2026-11-21 | 16:00 | Oficina Colagem: Caminhos do Conhecimento | Teatro do Sesi Itapetininga | Itapetininga | Grátis | alta | [band](https://www.band.com.br/entretenimento/agenda-sorocaba-19-11) |
-| 2026-11-21 | 20:00 | Será Que Ele É? | Teatro Yara | Itu | R$ 40 a R$ 80 | alta | [band](https://www.band.com.br/entretenimento/agenda-sorocaba-19-11) |
-| 2026-11-21 | 20:00 | [Fé]sta | Sesc Sorocaba | Sorocaba | R$ 15 a R$ 50 | alta | [band](https://www.band.com.br/entretenimento/agenda-sorocaba-19-11) |
-| 2026-11-21 | 20:00 | [Fé]sta — Com Coletivo Prot{agô}nistas | Sesc Sorocaba | Sorocaba |  | alta | [sesc](https://www.sescsp.org.br/programacao/festa-6) |
 | 2026-11-22 | 16:00 | A menina do candeeiro | Sesc Sorocaba | Sorocaba | R$ 12 a R$ 40 | alta | [band](https://www.band.com.br/entretenimento/agenda-sorocaba-19-11) |
 | 2026-11-22 | 16:00 | A menina do candeeiro — Com Cia. EmbarcAções Teatrais / Direção: Cecília Schucman | Sesc Sorocaba | Sorocaba |  | alta | [sesc](https://www.sescsp.org.br/programacao/a-menina-do-candeeiro-4) |
 | 2026-11-22 | 19:00 | Cinema na piscina - D.P.A. 4 - O Fantástico Reino de Ondion | Ginásio Sesi Sorocaba | Sorocaba | Grátis | alta | [sesi](https://www.sesisp.org.br/evento/a365799d-2a99-4250-adaa-d758ecb49315/cinema-na-piscina-dpa-4-o-fantastico-reino-de-ondion-sesi-pipoca) |
@@ -118,3 +104,5 @@ Confiança **baixa** = data ou local incertos: confira na fonte antes de aprovar
 | 2026-12-06 | 18:30 | Inscrições para a III Feira de jovens empreendedores | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/palco-aberto-com-feira-de-empreendedores-jovens) |
 | 2026-12-06 | 18:30 | Inscrições para o Palco Aberto de dezembro | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/inscricoes-para-o-palco-aberto-de-maio) |
 | 2026-12-09 | 23:59 | Tradições Caiçaras - Paraty (RJ) | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/tradicoes-caicaras-nos-arredores-de-paraty-3) |
+| 2026-12-10 | 20:00 | O Veneno do Teatro | Teatro do SESI Sorocaba | Sorocaba | Grátis | alta | [sesi](https://www.sesisp.org.br/evento/3792b0d7-41e2-45ae-bf67-8d33459b6812/o-veneno-do-teatro) |
+| 2026-12-19 | 19:00 | Parada das Luzes: O Presente Invisível | Ginásio Sesi Sorocaba | Sorocaba | Grátis | alta | [sesi](https://www.sesisp.org.br/evento/e130db67-4d19-4522-a628-62027e827ec9/parada-das-luzes) |
