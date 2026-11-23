@@ -149,3 +149,6 @@ data_execucao,fonte,paginas_lidas,paginas_sem_mudanca,caracteres_brutos,caracter
 2026-11-22,sesc,,,,,,,,,,,,HTTPStatusError: Client error '403 Forbidden' for url 'https://www.sescsp.org.br/wp-json/wp/v1/atividades/search?s=sorocaba&ppp=50&page=1' For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
 2026-11-22,band,0,0,0,0,0,0,0,0,0,0,0,lista: HTTPStatusError; nenhuma agenda encontrada
 2026-11-22,sesi,3,0,6297,4037,1575,1010,2,2304,348,2,2,
+2026-11-23,sesc,,,,,,,,,,,,HTTPStatusError: Client error '403 Forbidden' for url 'https://www.sescsp.org.br/wp-json/wp/v1/atividades/search?s=sorocaba&ppp=50&page=1' For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-11-23,band,0,0,0,0,0,0,0,0,0,0,0,lista: HTTPStatusError; nenhuma agenda encontrada
+2026-11-23,sesi,3,0,5033,2773,1259,694,2,1751,326,2,2,

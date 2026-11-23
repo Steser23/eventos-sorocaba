@@ -7680,6 +7680,26 @@
     "id": "9506a466746e"
   },
   {
+    "titulo": "SONHO DOURADO: A rádio que encanta você",
+    "fonte": "sesi",
+    "link_fonte": "https://www.sesisp.org.br/evento/36f2bdb5-a2db-4624-b2f7-dfc38ffaf082/sonho-dourado-a-radio-que-encanta-voce",
+    "data_inicio": "2026-12-05",
+    "data_fim": null,
+    "horario": "16:00",
+    "local": "Teatro do SESI Sorocaba",
+    "endereco": "Rua Gustavo Teixeira, 369 - Vila Independência",
+    "cidade": "Sorocaba",
+    "preco": null,
+    "gratuito": true,
+    "categoria": "teatro",
+    "descricao": "Espetáculo teatral do Núcleo de Artes Cênicas do SESI-SP que explora o universo e a magia das antigas transmissões radiofônicas.",
+    "cancelado": false,
+    "confianca": "alta",
+    "status": "pendente_revisao",
+    "coletado_em": "2026-11-23T21:18:04+00:00",
+    "id": "fd1af4b0f192"
+  },
+  {
     "titulo": "Inscrições para a III Feira de jovens empreendedores",
     "fonte": "sesc",
     "link_fonte": "https://www.sescsp.org.br/programacao/palco-aberto-com-feira-de-empreendedores-jovens",
@@ -7718,6 +7738,26 @@
     "status": "pendente_revisao",
     "coletado_em": "2026-10-29T09:56:39+00:00",
     "id": "0dfa9d81f658"
+  },
+  {
+    "titulo": "Vendedor de Sonhos: Uma Viagem à Infância",
+    "fonte": "sesi",
+    "link_fonte": "https://www.sesisp.org.br/evento/0a6d47b4-8c33-40fb-b1b3-defec6a13287/vendedor-de-sonhos-uma-viagem-a-infancia",
+    "data_inicio": "2026-12-06",
+    "data_fim": null,
+    "horario": "19:00",
+    "local": "Teatro do SESI Sorocaba",
+    "endereco": "Rua Gustavo Teixeira, 369 - Vila Independência",
+    "cidade": "Sorocaba",
+    "preco": null,
+    "gratuito": true,
+    "categoria": "teatro",
+    "descricao": "Espetáculo teatral do Núcleo de Artes Cênicas do SESI sobre a jornada de resgate da infância e dos sonhos perdidos na vida adulta.",
+    "cancelado": false,
+    "confianca": "alta",
+    "status": "pendente_revisao",
+    "coletado_em": "2026-11-23T21:17:44+00:00",
+    "id": "412719291b33"
   },
   {
     "titulo": "Tradições Caiçaras - Paraty (RJ)",

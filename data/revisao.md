@@ -1,6 +1,6 @@
 # Eventos para revisar
 
-Atualizado em 2026-11-22. 101 eventos futuros aguardando revisão.
+Atualizado em 2026-11-23. 89 eventos futuros aguardando revisão.
 Confiança **baixa** = data ou local incertos: confira na fonte antes de aprovar.
 
 | Data | Horário | Evento | Local | Cidade | Preço | Confiança | Fonte |
@@ -51,33 +51,19 @@ Confiança **baixa** = data ou local incertos: confira na fonte antes de aprovar
 | 2026-11-01 | 10:00 | Manhãs de práticas corporais: Hatha yoga — Com educadores de atividades físico-esportivas | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/manhas-de-praticas-corporais-hatha-yoga) |
 | 2026-11-01 | 18:30 | Praião para a família — Com educadores de atividades físico-esportivas | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/praiao-para-a-familia-6) |
 | 2026-11-04 | 21:30 | Reflorestando os sentidos: uma conexão entre plantas, aromas, corpo e sentidos — Com Giane Carneiro, aromaterapeuta integrativa e educadora | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/reflorestando-os-sentidos-uma-conexao-entre-plantas-aromas-corpo-e-sentidos) |
-| 2026-11-08 | 11:30 | Litera-música para bebês e suas famílias - Mediação de leitura e música — Com Alan Pablo, educador do Programa Espaço de Brincar | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/litera-musica-para-bebes-e-suas-familias-mediacao-de-leitura-e-musica) |
 | 2026-11-10 | 21:30 | Cinema em reflexão — Com Marco Antonio Fera, ator, cantor e pesquisador | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/cinema-em-reflexao-13) |
 | 2026-11-12 | 14:30 | Corpo presente, vida em movimento - Yoga 60+ — Com Tatiana Perez, educadora de atividade físico-esportiva | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/corpo-presente-vida-em-movimento-yoga-60) |
 | 2026-11-12 | 17:00 | Escultura de memória — Com Lúcia Maria, artista visual | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/escultura-de-memoria) |
 | 2026-11-12 | 12:00 | Estamparia têxtil e costura de echarpe com referências da África Ocidental — Com Célia Harumi, educadora de tecnologias e artes | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/estamparia-textil-e-costura-de-echarpe-com-referencias-da-africa-ocidental) |
 | 2026-11-12 | 08:00 | O Hip-Hop na Capital da Música | Centro Cultural de Tatuí – Edifício Alvorada | Tatuí | Grátis | alta | [band](https://www.band.com.br/entretenimento/agenda-cultural-sorocaba-1111) |
-| 2026-11-14 | 18:00 | Residência - Deriva Criativa "Meu peito é uma rua!" — Com Teatro Kunyn | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/residencia-deriva-criativa-meu-peito-e-uma-rua) |
 | 2026-11-15 | 13:00 | Batucada de primeira — Com Macamba N'Goma, grupo afro-indígena de arte-educação | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/batucada-de-primeira) |
 | 2026-11-18 | 12:00 | Confecção de caderno — Com Ivanilde Monteiro, artesã, professora e pesquisadora | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/confeccao-de-caderno) |
 | 2026-11-19 | 10:00 | Criações e Reproduções – Impressões em Giz Pastel | Pátio Cianê Shopping, Bloco B | Sorocaba | Grátis | baixa | [band](https://www.band.com.br/entretenimento/agenda-sorocaba-19-11) |
-| 2026-11-19 | 20:00 | Escute as Feras | Teatro do SESI Sorocaba | Sorocaba | Grátis | alta | [sesi](https://www.sesisp.org.br/evento/5f5607e4-88ef-4439-80cc-9b8cc5937e66/escute-as-feras) |
 | 2026-11-19 | 10:00 | João de Camargo, um Líder para Libertação | Pátio Cianê Shopping, Bloco B | Sorocaba | Grátis | baixa | [band](https://www.band.com.br/entretenimento/agenda-sorocaba-19-11) |
 | 2026-11-19 | 10:00 | Mostra de Renda Renascença | Pátio Cianê Shopping, Bloco B, Piso 1 | Sorocaba | Grátis | alta | [band](https://www.band.com.br/entretenimento/agenda-sorocaba-19-11) |
 | 2026-11-19 | 19:00 | Natal Luz na Praça | Praça do Jardim Magnólia | Sorocaba | Grátis | baixa | [band](https://www.band.com.br/entretenimento/agenda-sorocaba-19-11) |
 | 2026-11-19 | 08:00 | O Hip-Hop na Capital da Música | Centro Cultural de Tatuí – Edifício Alvorada | Tatuí | Grátis | alta | [band](https://www.band.com.br/entretenimento/agenda-sorocaba-19-11) |
 | 2026-11-19 | 12:00 | O Pequeno Príncipe – 80 Anos | Iguatemi Esplanada, Ala Sul | Votorantim | R$ 20 a R$ 50 | baixa | [band](https://www.band.com.br/entretenimento/agenda-sorocaba-19-11) |
-| 2026-11-20 | 10:00 | Feira de Artesanato e Cultural | Beco Centro Cultural | Sorocaba | Grátis | alta | [band](https://www.band.com.br/entretenimento/agenda-sorocaba-19-11) |
-| 2026-11-22 | 16:00 | A menina do candeeiro | Sesc Sorocaba | Sorocaba | R$ 12 a R$ 40 | alta | [band](https://www.band.com.br/entretenimento/agenda-sorocaba-19-11) |
-| 2026-11-22 | 16:00 | A menina do candeeiro — Com Cia. EmbarcAções Teatrais / Direção: Cecília Schucman | Sesc Sorocaba | Sorocaba |  | alta | [sesc](https://www.sescsp.org.br/programacao/a-menina-do-candeeiro-4) |
-| 2026-11-22 | 19:00 | Cinema na piscina - D.P.A. 4 - O Fantástico Reino de Ondion | Ginásio Sesi Sorocaba | Sorocaba | Grátis | alta | [sesi](https://www.sesisp.org.br/evento/a365799d-2a99-4250-adaa-d758ecb49315/cinema-na-piscina-dpa-4-o-fantastico-reino-de-ondion-sesi-pipoca) |
-| 2026-11-22 | 17:00 | Luccas Folha & Nyatta | Sesc Sorocaba | Sorocaba | Grátis | alta | [band](https://www.band.com.br/entretenimento/agenda-sorocaba-19-11) |
-| 2026-11-22 | 18:00 | Luccas Folha & Nyatta — Meio Período / Participação: Yá Rosa | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/luccas-folha-nyatta) |
-| 2026-11-22 | 11:30 | Meu Mapa de Aprendizagens | Espaço Alternativo do Sesi Itapetininga | Itapetininga | Grátis | alta | [band](https://www.band.com.br/entretenimento/agenda-sorocaba-19-11) |
-| 2026-11-22 | 16:00 | O Lobo que Queria Ser Príncipe | Espaço Alternativo do Sesi Itapetininga | Itapetininga | Grátis | alta | [band](https://www.band.com.br/entretenimento/agenda-sorocaba-19-11) |
-| 2026-11-22 | 19:00 | SESI Pipoca - D.P.A. 4 - O Fantástico Reino de Ondion | Ginásio Sesi Sorocaba | Sorocaba | Grátis | alta | [sesi](https://www.sesisp.org.br/evento/cf8bfdbf-1a5e-4059-934e-b639c649348a/sesi-pipoca-dpa-4-o-fantastico-reino-de-ondion) |
-| 2026-11-22 | 10:00 | Sesi Pipoca – D.P.A. 4: O Fantástico Reino de Ondion | Teatro do Sesi Itapetininga | Itapetininga | Grátis | alta | [band](https://www.band.com.br/entretenimento/agenda-sorocaba-19-11) |
-| 2026-11-22 | 10:30 | Trem dos Operários | Estação Paula Souza | Sorocaba | R$ 35 | alta | [band](https://www.band.com.br/entretenimento/agenda-sorocaba-19-11) |
 | 2026-11-24 | 21:00 | Clube de escrita Sorocaba — Com Cacau Braga, escritora e produtora cultural | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/clube-de-escrita-sorocaba-12) |
 | 2026-11-24 | 20:38 | Nossa Senhora da loja do chinês — Direção: Ery Claver / Drama / Angola / 98 min. / 2022 / Leg. | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/nossa-senhora-da-loja-do-chines) |
 | 2026-11-25 | 13:00 | A arte de encantar e contar histórias para todas as infâncias — Com Filipe Macedo, escritor, educador e contador de histórias | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/a-arte-de-encantar-e-contar-historias-para-todas-as-infancias) |
@@ -101,8 +87,10 @@ Confiança **baixa** = data ou local incertos: confira na fonte antes de aprovar
 | 2026-11-29 | 15:00 | Olelê brincando Bantu — Com Fabio Mukanya, pesquisador, músico e arte-educador | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/olele-brincando-bantu) |
 | 2026-11-29 | 17:00 | Pé no chão, boca no verso — Com Xirê de Quintal | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/pe-no-chao-boca-no-verso) |
 | 2026-11-30 | 21:00 | O Casarão da Rainha Fantasma - Isabella Beninca | SESI Sorocaba | Sorocaba | Grátis | alta | [sesi](https://www.sesisp.org.br/evento/a16ec4c2-0d7c-415c-8440-864b8a263509/o-casarao-da-rainha-fantasma) |
+| 2026-12-05 | 16:00 | SONHO DOURADO: A rádio que encanta você | Teatro do SESI Sorocaba | Sorocaba | Grátis | alta | [sesi](https://www.sesisp.org.br/evento/36f2bdb5-a2db-4624-b2f7-dfc38ffaf082/sonho-dourado-a-radio-que-encanta-voce) |
 | 2026-12-06 | 18:30 | Inscrições para a III Feira de jovens empreendedores | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/palco-aberto-com-feira-de-empreendedores-jovens) |
 | 2026-12-06 | 18:30 | Inscrições para o Palco Aberto de dezembro | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/inscricoes-para-o-palco-aberto-de-maio) |
+| 2026-12-06 | 19:00 | Vendedor de Sonhos: Uma Viagem à Infância | Teatro do SESI Sorocaba | Sorocaba | Grátis | alta | [sesi](https://www.sesisp.org.br/evento/0a6d47b4-8c33-40fb-b1b3-defec6a13287/vendedor-de-sonhos-uma-viagem-a-infancia) |
 | 2026-12-09 | 23:59 | Tradições Caiçaras - Paraty (RJ) | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/tradicoes-caicaras-nos-arredores-de-paraty-3) |
 | 2026-12-10 | 20:00 | O Veneno do Teatro | Teatro do SESI Sorocaba | Sorocaba | Grátis | alta | [sesi](https://www.sesisp.org.br/evento/3792b0d7-41e2-45ae-bf67-8d33459b6812/o-veneno-do-teatro) |
 | 2026-12-19 | 19:00 | Parada das Luzes: O Presente Invisível | Ginásio Sesi Sorocaba | Sorocaba | Grátis | alta | [sesi](https://www.sesisp.org.br/evento/e130db67-4d19-4522-a628-62027e827ec9/parada-das-luzes) |
