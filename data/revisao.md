@@ -1,6 +1,6 @@
 # Eventos para revisar
 
-Atualizado em 2026-11-23. 89 eventos futuros aguardando revisão.
+Atualizado em 2026-11-24. 92 eventos futuros aguardando revisão.
 Confiança **baixa** = data ou local incertos: confira na fonte antes de aprovar.
 
 | Data | Horário | Evento | Local | Cidade | Preço | Confiança | Fonte |
@@ -87,10 +87,13 @@ Confiança **baixa** = data ou local incertos: confira na fonte antes de aprovar
 | 2026-11-29 | 15:00 | Olelê brincando Bantu — Com Fabio Mukanya, pesquisador, músico e arte-educador | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/olele-brincando-bantu) |
 | 2026-11-29 | 17:00 | Pé no chão, boca no verso — Com Xirê de Quintal | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/pe-no-chao-boca-no-verso) |
 | 2026-11-30 | 21:00 | O Casarão da Rainha Fantasma - Isabella Beninca | SESI Sorocaba | Sorocaba | Grátis | alta | [sesi](https://www.sesisp.org.br/evento/a16ec4c2-0d7c-415c-8440-864b8a263509/o-casarao-da-rainha-fantasma) |
+| 2026-12-03 | 20:00 | Sob a jaqueira dos desassossegos | Teatro do SESI Sorocaba | Sorocaba | Grátis | alta | [sesi](https://www.sesisp.org.br/evento/79f8b845-ea39-41ac-a973-45c7ad0c4f0d/sob-a-jaqueira-dos-desassossegos) |
+| 2026-12-05 | 20:00 | Hybris | Teatro do SESI Sorocaba | Sorocaba | Grátis | alta | [sesi](https://www.sesisp.org.br/evento/fbd06fd8-a25c-4688-8c59-35849ec06630/hybris) |
 | 2026-12-05 | 16:00 | SONHO DOURADO: A rádio que encanta você | Teatro do SESI Sorocaba | Sorocaba | Grátis | alta | [sesi](https://www.sesisp.org.br/evento/36f2bdb5-a2db-4624-b2f7-dfc38ffaf082/sonho-dourado-a-radio-que-encanta-voce) |
 | 2026-12-06 | 18:30 | Inscrições para a III Feira de jovens empreendedores | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/palco-aberto-com-feira-de-empreendedores-jovens) |
 | 2026-12-06 | 18:30 | Inscrições para o Palco Aberto de dezembro | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/inscricoes-para-o-palco-aberto-de-maio) |
 | 2026-12-06 | 19:00 | Vendedor de Sonhos: Uma Viagem à Infância | Teatro do SESI Sorocaba | Sorocaba | Grátis | alta | [sesi](https://www.sesisp.org.br/evento/0a6d47b4-8c33-40fb-b1b3-defec6a13287/vendedor-de-sonhos-uma-viagem-a-infancia) |
+| 2026-12-08 | 19:30 | Orquestra Filarmônica Jazz SESI SENAI Sorocaba e Coral Vozes que Cuidam - Uma Noite de Natal | Teatro do SESI Sorocaba | Sorocaba | Grátis | alta | [sesi](https://www.sesisp.org.br/evento/97b4aa2d-e71b-49f3-9423-069f024ac721/orquestra-filarmonica-jazz-sesi-senai-sorocaba-e-coral-vozes-que-cuidam) |
 | 2026-12-09 | 23:59 | Tradições Caiçaras - Paraty (RJ) | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/tradicoes-caicaras-nos-arredores-de-paraty-3) |
 | 2026-12-10 | 20:00 | O Veneno do Teatro | Teatro do SESI Sorocaba | Sorocaba | Grátis | alta | [sesi](https://www.sesisp.org.br/evento/3792b0d7-41e2-45ae-bf67-8d33459b6812/o-veneno-do-teatro) |
 | 2026-12-19 | 19:00 | Parada das Luzes: O Presente Invisível | Ginásio Sesi Sorocaba | Sorocaba | Grátis | alta | [sesi](https://www.sesisp.org.br/evento/e130db67-4d19-4522-a628-62027e827ec9/parada-das-luzes) |
