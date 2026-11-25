@@ -1,6 +1,6 @@
 # Eventos para revisar
 
-Atualizado em 2026-11-24. 92 eventos futuros aguardando revisão.
+Atualizado em 2026-11-25. 89 eventos futuros aguardando revisão.
 Confiança **baixa** = data ou local incertos: confira na fonte antes de aprovar.
 
 | Data | Horário | Evento | Local | Cidade | Preço | Confiança | Fonte |
@@ -51,7 +51,6 @@ Confiança **baixa** = data ou local incertos: confira na fonte antes de aprovar
 | 2026-11-01 | 10:00 | Manhãs de práticas corporais: Hatha yoga — Com educadores de atividades físico-esportivas | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/manhas-de-praticas-corporais-hatha-yoga) |
 | 2026-11-01 | 18:30 | Praião para a família — Com educadores de atividades físico-esportivas | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/praiao-para-a-familia-6) |
 | 2026-11-04 | 21:30 | Reflorestando os sentidos: uma conexão entre plantas, aromas, corpo e sentidos — Com Giane Carneiro, aromaterapeuta integrativa e educadora | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/reflorestando-os-sentidos-uma-conexao-entre-plantas-aromas-corpo-e-sentidos) |
-| 2026-11-10 | 21:30 | Cinema em reflexão — Com Marco Antonio Fera, ator, cantor e pesquisador | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/cinema-em-reflexao-13) |
 | 2026-11-12 | 14:30 | Corpo presente, vida em movimento - Yoga 60+ — Com Tatiana Perez, educadora de atividade físico-esportiva | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/corpo-presente-vida-em-movimento-yoga-60) |
 | 2026-11-12 | 17:00 | Escultura de memória — Com Lúcia Maria, artista visual | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/escultura-de-memoria) |
 | 2026-11-12 | 12:00 | Estamparia têxtil e costura de echarpe com referências da África Ocidental — Com Célia Harumi, educadora de tecnologias e artes | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/estamparia-textil-e-costura-de-echarpe-com-referencias-da-africa-ocidental) |
@@ -64,8 +63,6 @@ Confiança **baixa** = data ou local incertos: confira na fonte antes de aprovar
 | 2026-11-19 | 19:00 | Natal Luz na Praça | Praça do Jardim Magnólia | Sorocaba | Grátis | baixa | [band](https://www.band.com.br/entretenimento/agenda-sorocaba-19-11) |
 | 2026-11-19 | 08:00 | O Hip-Hop na Capital da Música | Centro Cultural de Tatuí – Edifício Alvorada | Tatuí | Grátis | alta | [band](https://www.band.com.br/entretenimento/agenda-sorocaba-19-11) |
 | 2026-11-19 | 12:00 | O Pequeno Príncipe – 80 Anos | Iguatemi Esplanada, Ala Sul | Votorantim | R$ 20 a R$ 50 | baixa | [band](https://www.band.com.br/entretenimento/agenda-sorocaba-19-11) |
-| 2026-11-24 | 21:00 | Clube de escrita Sorocaba — Com Cacau Braga, escritora e produtora cultural | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/clube-de-escrita-sorocaba-12) |
-| 2026-11-24 | 20:38 | Nossa Senhora da loja do chinês — Direção: Ery Claver / Drama / Angola / 98 min. / 2022 / Leg. | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/nossa-senhora-da-loja-do-chines) |
 | 2026-11-25 | 13:00 | A arte de encantar e contar histórias para todas as infâncias — Com Filipe Macedo, escritor, educador e contador de histórias | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/a-arte-de-encantar-e-contar-historias-para-todas-as-infancias) |
 | 2026-11-25 | 15:00 | Reflorestando os sentidos: corpo que cria, esperança que germina (sementes) — Com Giane Carneiro, aromaterapeuta integrativa e educadora | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/reflorestando-os-sentidos-corpo-que-cria-esperanca-que-germina-sementes) |
 | 2026-11-25 | 17:00 | Residência - Morfose: Encontro de maquiagem criativa e Seres em si — Com Uýra Sodoma, artista visual, performer, educadora e pesquisadora indígena | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/residencia-morfose-encontro-de-maquiagem-criativa-e-seres-em-si) |
