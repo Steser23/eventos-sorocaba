@@ -1,6 +1,6 @@
 # Eventos para revisar
 
-Atualizado em 2026-11-26. 111 eventos futuros aguardando revisão.
+Atualizado em 2026-11-27. 101 eventos futuros aguardando revisão.
 Confiança **baixa** = data ou local incertos: confira na fonte antes de aprovar.
 
 | Data | Horário | Evento | Local | Cidade | Preço | Confiança | Fonte |
@@ -21,8 +21,6 @@ Confiança **baixa** = data ou local incertos: confira na fonte antes de aprovar
 | 2026-05-12 | 10:15 | Práticas Aquáticas - a partir de 12 anos — Com educadores de atividades físico-esportivas | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/praticas-aquaticas-10) |
 | 2026-05-23 | 11:30 | Esporte Adulto - Triatlon — Com educadores de atividades físico-esportivas | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/esporte-adulto-triatlon) |
 | 2026-05-27 | 18:00 | Programa Juventudes #Tah Ligado 2026 no Sesc Sorocaba — Com educadores de atividades infantojuvenis | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/juventudes-5) |
-| 2026-09-10 | 22:00 | Incubadora de Estudos Performativos — Com Douglas Emílio, pesquisador e doutor em dança e performance | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/incubadora-de-estudos-performativos) |
-| 2026-09-10 | 22:00 | Inscrições abertas: Incubadora de Estudos Performativos — Com Douglas Emílio, pesquisador e doutor em dança e performance | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/incubadora-de-estudos-performativos) |
 | 2026-09-11 | 18:00 | Programa Curumim 2026 no Sesc Sorocaba — Com educadores de atividades infantojuvenis | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/programa-curumim-2026-no-sesc-sorocaba) |
 | 2026-09-12 | 18:30 | Basquete misto — Com mediação de equipe Sesc. | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/basquete-11) |
 | 2026-09-12 | 18:30 | Futsal misto — Com mediação de equipe Sesc. | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/futsal-15) |
@@ -40,7 +38,6 @@ Confiança **baixa** = data ou local incertos: confira na fonte antes de aprovar
 | 2026-09-30 | 17:30 | Esporte Jovem - 10 a 13 anos — Com educadores de atividades físico-esportivas | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/esporte-jovem-6) |
 | 2026-09-30 | 11:45 | Esporte para pessoas idosas — Com educadores de atividades físico-esportivas | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/esporte-para-idosos-10) |
 | 2026-09-30 | 12:00 | Movimento Consciente — Com educadores de atividades físico-esportivas | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/movimento-consciente-66) |
-| 2026-10-01 | 11:00 | Hoje é dia de arte, bebê! — Com Alan Pablo, educador do Programa Espaço de Brincar | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/hoje-e-dia-de-arte-bebe-12) |
 | 2026-10-02 | 17:30 | Práticas Aquáticas - 3 a 6 anos — Com educadores de atividades físico-esportivas | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/praticas-aquaticas-8) |
 | 2026-10-02 | 18:30 | Sinfonia — Com Pierre Souza Fonseca, artista visual | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/sinfonia-2) |
 | 2026-10-10 | 21:30 | Sinfonia — Com Pierre Souza Fonseca, artista visual | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/sinfonia-2) |
@@ -50,9 +47,6 @@ Confiança **baixa** = data ou local incertos: confira na fonte antes de aprovar
 | 2026-11-01 | 15:30 | Lugares de brincar — Com educadores de atividades infantojuvenis | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/lugares-de-brincar-11) |
 | 2026-11-01 | 10:00 | Manhãs de práticas corporais: Hatha yoga — Com educadores de atividades físico-esportivas | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/manhas-de-praticas-corporais-hatha-yoga) |
 | 2026-11-01 | 18:30 | Praião para a família — Com educadores de atividades físico-esportivas | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/praiao-para-a-familia-6) |
-| 2026-11-12 | 14:30 | Corpo presente, vida em movimento - Yoga 60+ — Com Tatiana Perez, educadora de atividade físico-esportiva | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/corpo-presente-vida-em-movimento-yoga-60) |
-| 2026-11-12 | 17:00 | Escultura de memória — Com Lúcia Maria, artista visual | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/escultura-de-memoria) |
-| 2026-11-12 | 12:00 | Estamparia têxtil e costura de echarpe com referências da África Ocidental — Com Célia Harumi, educadora de tecnologias e artes | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/estamparia-textil-e-costura-de-echarpe-com-referencias-da-africa-ocidental) |
 | 2026-11-12 | 08:00 | O Hip-Hop na Capital da Música | Centro Cultural de Tatuí – Edifício Alvorada | Tatuí | Grátis | alta | [band](https://www.band.com.br/entretenimento/agenda-cultural-sorocaba-1111) |
 | 2026-11-15 | 13:00 | Batucada de primeira — Com Macamba N'Goma, grupo afro-indígena de arte-educação | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/batucada-de-primeira) |
 | 2026-11-19 | 10:00 | Criações e Reproduções – Impressões em Giz Pastel | Pátio Cianê Shopping, Bloco B | Sorocaba | Grátis | baixa | [band](https://www.band.com.br/entretenimento/agenda-sorocaba-19-11) |
@@ -61,11 +55,7 @@ Confiança **baixa** = data ou local incertos: confira na fonte antes de aprovar
 | 2026-11-19 | 19:00 | Natal Luz na Praça | Praça do Jardim Magnólia | Sorocaba | Grátis | baixa | [band](https://www.band.com.br/entretenimento/agenda-sorocaba-19-11) |
 | 2026-11-19 | 08:00 | O Hip-Hop na Capital da Música | Centro Cultural de Tatuí – Edifício Alvorada | Tatuí | Grátis | alta | [band](https://www.band.com.br/entretenimento/agenda-sorocaba-19-11) |
 | 2026-11-19 | 12:00 | O Pequeno Príncipe – 80 Anos | Iguatemi Esplanada, Ala Sul | Votorantim | R$ 20 a R$ 50 | baixa | [band](https://www.band.com.br/entretenimento/agenda-sorocaba-19-11) |
-| 2026-11-25 | 17:00 | Residência - Morfose: Encontro de maquiagem criativa e Seres em si — Com Uýra Sodoma, artista visual, performer, educadora e pesquisadora indígena | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/residencia-morfose-encontro-de-maquiagem-criativa-e-seres-em-si) |
-| 2026-11-26 | 21:00 | Contrafluxo e resistência: movimento social negro — Com Débora Francisco, militante Movimento Antirracista, DJ Mendez, produtor/DJ/Tremoço e Drika Martim, assistente social/CUFA | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/contrafluxo-e-resistencia-movimento-social-negro) |
-| 2026-11-26 | 21:00 | Ilustradoria — Com Alex Mir, escritor, roteirista e quadrinista. Mediação: Marcel Bartholo, ilustrador, quadrinista e educador | Sesc Sorocaba | Sorocaba | Grátis | alta | [sesc](https://www.sescsp.org.br/programacao/ilustradoria-19) |
 | 2026-11-26 | 19:00 | Natal Luz na Praça | Praça do Jardim Magnólia | Sorocaba | Grátis | baixa | [band](https://www.band.com.br/entretenimento/shows-de-natanzinho-lima-e-rey-vaqueiro-agitam-fim-de-semana-em-sorocaba) |
-| 2026-11-26 | 20:00 | Queen: A Realeza do Rock | Teatro do SESI Sorocaba | Sorocaba | Grátis | alta | [sesi](https://www.sesisp.org.br/evento/e430a8de-8628-4bb0-88dd-21422687a117/queen-a-realeza-do-rock) |
 | 2026-11-26 | 19:00 | Trem Iluminado de Sorocaba | Estação Paula Souza | Sorocaba | R$ 35 | baixa | [band](https://www.band.com.br/entretenimento/shows-de-natanzinho-lima-e-rey-vaqueiro-agitam-fim-de-semana-em-sorocaba) |
 | 2026-11-27 | 19:00 | Como Ouvir Música Clássica – Clara Schumann | Unesp Sorocaba | Sorocaba | Grátis | alta | [band](https://www.band.com.br/entretenimento/shows-de-natanzinho-lima-e-rey-vaqueiro-agitam-fim-de-semana-em-sorocaba) |
 | 2026-11-27 | 22:00 | Deco Machado - Testemunha de Oxalá | Black House Clube de Comédia | Sorocaba | A partir de R$ 24 | alta | [band](https://www.band.com.br/entretenimento/shows-de-natanzinho-lima-e-rey-vaqueiro-agitam-fim-de-semana-em-sorocaba) |
